@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Ph.D. student at the Statistics Department in the University of Michigan! I am very fortunate to be advised by [Prof. Ambuj Tewari] (https://ambujtewari.github.io/). Previously, I also completed my BS in Computer Science and Chemical Engineering at Michigan. 
+I am a first-year Ph.D. student at the [Statistics Department](https://lsa.umich.edu/stats) in the [University of Michigan](https://umich.edu/)! I am very fortunate to be advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I also completed my BS in Computer Science and Chemical Engineering at Michigan. 
 
-My reseach interests are broadly in anything Machine Learning Theory related. Some specific areas of interest include (but are not limited to): Online Learning, Bandits, Boosting, Differential Privacy, and Algorithmic Fairness. I am also interested in adjacent areas such as Combinatorial Optimization and Adaptive Data Analysis. In general, I like to work on theoretical problems with some tangible implications to society. 
+My reseach interests are broadly in anything Machine Learning Theory (MLT) related. Some specific areas of interest include: Online Learning, Bandits, Boosting, Differential Privacy, and Algorithmic Fairness. Right now, I am really excited about the intersection of Learning Theory and Differential Privacy. In addition to MLT, I am interested in adjacent areas such as Combinatorial Optimization and Adaptive Data Analysis. In general, I like to work on theoretical problems with some tangible implications to society. 
 
 Recent News
 ======
