@@ -14,6 +14,8 @@ My reseach interests are broadly in anything Machine Learning Theory (MLT) relat
 
 Fun fact: you can find a picture of me on UM's [Chemical Engineering](https://che.engin.umich.edu/) page!
 
+I love to collaborate, so please feel free to reach out if you want to work on projects together!
+
 Recent News
 ======
 Coming Soon!
