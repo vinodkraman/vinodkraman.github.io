@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+**Online Boosting for Multilabel Ranking with Top-k Feedback**
+Vinod Raman*, Daniel Zhang*, Young Hun Jung, Ambuj Tewari
+_Preprint_, 2020
+[link](https://arxiv.org/pdf/1910.10937.pdf)
+*Equal Contributions
