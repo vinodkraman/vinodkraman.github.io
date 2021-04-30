@@ -16,4 +16,4 @@ Fun fact: you can find a picture of me on UM's [Chemical Engineering](https://ch
 
 Recent News
 ======
-Coming Soon!
+* I will be an Instructor at [Inspirit.ai](https://www.inspiritai.com/) this summer (2021)!
