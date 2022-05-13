@@ -37,5 +37,6 @@ I really enjoy teaching. Here are a couple courses and organizations that I have
 - Stats 250 (Introduction to Statistics)
 - [InspiritAI](https://www.inspiritai.com)
 - [AI4ALL](https://ai-4-all.org)
+- ChE 330 (Thermodynamics)
 
 
