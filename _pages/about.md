@@ -14,6 +14,8 @@ My reseach interests are broadly in anything Machine Learning Theory (MLT) relat
 
 I am grateful to be supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP) from Fall 2023. Feel free to shoot me an email if you’d like me to review your GRFP application!
 
+Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my most recent CV!
+
 Publications
 ======
 ^ denotes equal contributions
