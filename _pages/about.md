@@ -14,12 +14,4 @@ My reseach interests are broadly in anything Machine Learning Theory (MLT) relat
 
 I am grateful to be supported by the NSF GRFP (2022). 
 
----
-permalink: /
-title: "Publications"
-excerpt: "Publications"
-author_profile: False
-redirect_from: 
-  - /about/
-  - /about.html
----
+
