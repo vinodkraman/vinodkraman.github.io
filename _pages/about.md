@@ -13,3 +13,13 @@ I am a first-year Ph.D. student in the [Statistics Department](https://lsa.umich
 My reseach interests are broadly in anything Machine Learning Theory (MLT) related. Some specific areas of interest include: Online Learning, Bandits, Boosting, Differential Privacy, and Algorithmic Fairness. Right now, I am really excited about the intersection of Learning Theory and Differential Privacy. In addition to MLT, I am interested in adjacent areas such as Combinatorial Optimization and Adaptive Data Analysis. In general, I like to work on theoretical problems that have some practical importance. 
 
 I am grateful to be supported by the NSF GRFP (2022). 
+
+---
+permalink: /
+title: "Publications"
+excerpt: "Publications"
+author_profile: False
+redirect_from: 
+  - /about/
+  - /about.html
+---
