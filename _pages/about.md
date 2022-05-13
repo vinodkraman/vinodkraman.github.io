@@ -20,8 +20,8 @@ Publications
 
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman^, Daniel Zhang^, Young Hun Jung, Ambuj Tewari  
-_Preprint_, 2020  
-[link](https://arxiv.org/pdf/1910.10937.pdf) 
+_Arxiv_, 2020  
+[arxiv](https://arxiv.org/pdf/1910.10937.pdf)
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
 Vinod Raman, Tobias Burger, Andrej Lenert  
