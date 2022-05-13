@@ -10,13 +10,13 @@ redirect_from:
 
 I am a first-year Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I completed my B.S. in [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.cheraghchi.info), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
 
-My reseach interests are broadly in anything Machine Learning Theory (MLT) related. Some specific areas of interest include: Online Learning, Bandits, Boosting, Differential Privacy, and Algorithmic Fairness. Right now, I am really excited about the intersection of Learning Theory and Differential Privacy. In addition to MLT, I am interested in adjacent areas such as Combinatorial Optimization and Adaptive Data Analysis. In general, I like to work on theoretical problems that have some practical importance. 
+My reseach interests are broadly anything in Machine Learning Theory (MLT). Some specific areas of interest include: Online Learning, Boosting, Bandits, Differential Privacy, and Algorithmic Fairness. Right now, I am really excited about the intersection of Learning Theory and Differential Privacy. In addition to MLT, I am also interested in algorithm research, specifically topics like streaming and combinatorial optimization. In general, I like to work on theoretical problems that have some practical importance. 
 
 I am grateful to be supported by the National Science Foundation Graduate Research Fellowship Program (NSF GRFP) from Fall 2023. Feel free to shoot me an email if you’d like me to review your GRFP application!
 
 Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my most recent CV!
 
-Publications
+Publications and Preprints
 ======
 ^ denotes equal contributions
 
