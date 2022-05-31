@@ -20,10 +20,15 @@ Publications and Preprints
 ======
 ^ denotes equal contributions
 
+**Online Agnostic Multiclass Boosting**  
+Vinod Raman, Ambuj Tewari  
+_Preprint_, 2022  
+[arxiv](https://arxiv.org/abs/2205.15113)
+
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman^, Daniel Zhang^, Young Hun Jung, Ambuj Tewari  
-_Arxiv_, 2020  
-[arxiv](https://arxiv.org/pdf/1910.10937.pdf)
+_Preprint_, 2020  
+[arxiv](https://arxiv.org/abs/1910.10937)
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
 Vinod Raman, Tobias Burger, Andrej Lenert  
