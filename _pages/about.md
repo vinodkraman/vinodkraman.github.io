@@ -38,10 +38,10 @@ _Optics Express_, 2019
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
-- [Stats 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning)
-- Stats 250 (Introduction to Statistics)
-- [InspiritAI](https://www.inspiritai.com)
-- [AI4ALL](https://ai-4-all.org)
-- ChE 330 (Chemical and Engineering Thermodynamics)
+- [Stats 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning), Winter 2022
+- Stats 250 (Introduction to Statistics), Fall 2021
+- [InspiritAI](https://www.inspiritai.com), Summer 2021
+- [AI4ALL](https://ai-4-all.org), Summer 2021
+- ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
 
