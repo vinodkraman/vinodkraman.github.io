@@ -44,4 +44,9 @@ I really enjoy teaching. Here are a couple courses and organizations that I have
 - [AI4ALL](https://ai-4-all.org), Summer 2021
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
+Hobbies
+======
+Apart from research, I am a big fan of bodybuilding and actively keep up with the [Mr.Olympia](https://mrolympia.com).
+
+
 
