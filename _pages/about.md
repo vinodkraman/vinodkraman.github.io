@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I completed my B.S.E. in [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.cheraghchi.info), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
+I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I studied [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.cheraghchi.info), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Statistical Learning, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. Right now, I am excited about the intersection of Learning Theory and Differential Privacy. In addition, I am also interested in Algorithms, specifically topics like Streaming and Combinatorial Optimization. In general, I like to work on theoretical problems that have some concrete practical usage. 
 
@@ -46,7 +46,7 @@ I really enjoy teaching. Here are a couple courses and organizations that I have
 
 Hobbies
 ======
-Apart from research, I am a big fan of bodybuilding and actively keep up with the [Mr.Olympia](https://mrolympia.com).
+Apart from research, I am a big fan of bodybuilding and actively keep up with the [Mr. Olympia](https://mrolympia.com).
 
 
 
