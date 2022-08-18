@@ -38,6 +38,7 @@ _Optics Express_, 2019
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
+- Stats 507 (Data Science using Python), Fall 2022
 - [Stats 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning), Winter 2022
 - Stats 250 (Introduction to Statistics), Fall 2021
 - [InspiritAI](https://www.inspiritai.com), Summer 2021
