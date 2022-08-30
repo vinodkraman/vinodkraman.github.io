@@ -12,7 +12,7 @@ I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats)
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. Right now, I am excited about the intersection of Learning Theory and Differential Privacy. In addition, I am also interested in Algorithms, specifically topics like Streaming and Combinatorial Optimization. In general, I like to work on theoretical problems that have some concrete practical usage. 
 
-I am grateful to be supported by the [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org) from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application!
+I am grateful to be supported by the [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org) from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials [here](https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing).
 
 Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my most recent CV.
 
