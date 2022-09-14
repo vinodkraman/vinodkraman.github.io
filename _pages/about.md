@@ -23,17 +23,17 @@ Publications and Preprints
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, Ambuj Tewari  
 _NeurIPS_, 2022  
-[[arxiv](https://arxiv.org/abs/2205.15113)]
+[[paper](https://arxiv.org/abs/2205.15113)]
 
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman^, Daniel Zhang^, Young Hun Jung, Ambuj Tewari  
 _Preprint_, 2020  
-[[arxiv](https://arxiv.org/abs/1910.10937)]
+[paper](https://arxiv.org/abs/1910.10937)]
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
 Vinod Raman, Tobias Burger, Andrej Lenert  
 _Optics Express_, 2019  
-[[link](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
+[[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
 Teaching
 ======
