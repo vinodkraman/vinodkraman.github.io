@@ -22,7 +22,7 @@ Publications and Preprints
 
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, Ambuj Tewari  
-_NEURIPS, 2022  
+_NeurIPS_, 2022  
 [[arxiv](https://arxiv.org/abs/2205.15113)]
 
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
