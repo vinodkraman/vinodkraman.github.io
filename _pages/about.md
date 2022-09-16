@@ -35,6 +35,12 @@ Vinod Raman, Tobias Burger, Andrej Lenert
 _Optics Express_, 2019  
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
+Awards and Fellowships
+======
+- Outstanding First-year Ph.D. Student
+- NSF Graduate Research Fellowship
+- First-year Rackham Fellowship
+
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
