@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my most recent CV!
+Click [here](http://vinodkraman.github.io/files/Raman_Resume.pdf) for my most recent CV!
