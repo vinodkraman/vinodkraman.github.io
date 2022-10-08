@@ -37,9 +37,10 @@ _Optics Express_, 2019
 
 Awards and Fellowships
 ======
-- Outstanding First-year Ph.D. Student
-- NSF Graduate Research Fellowship
-- First-year Rackham Fellowship
+- NeurIPS Scholar Award (2022)
+- Outstanding First-year Ph.D. Student (2022)
+- NSF Graduate Research Fellowship (2022)
+- First-year Rackham Fellowship (2021)
 
 Teaching
 ======
