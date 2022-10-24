@@ -25,7 +25,6 @@ Publications and Preprints
 Vinod Raman, Unique Subedi, Ambuj Tewari
 
 _NeurIPS_ ML Safety Workshop, 2022 
-
 [[paper](https://drive.google.com/file/d/18Sz0353VXG5JOsGyGteQITl6Z5g24s_k/view?usp=sharing)]
 
 
