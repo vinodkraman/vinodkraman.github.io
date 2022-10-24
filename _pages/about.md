@@ -27,7 +27,7 @@ _NeurIPS_, 2022
 [[paper](https://drive.google.com/file/d/18Sz0353VXG5JOsGyGteQITl6Z5g24s_k/view?usp=sharing)]
 
 **Probabilistically Robust PAC Learning**  
-Vinod Raman, Ambuj Tewari  
+Vinod Raman, Unique Subedi, Ambuj Tewari  
 _NeurIPS_, 2022  
 [[paper](https://arxiv.org/abs/2205.15113)]
 
