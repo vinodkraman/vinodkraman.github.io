@@ -23,7 +23,7 @@ Publications and Preprints
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, Unique Subedi, Ambuj Tewari  
 _NeurIPS_ (ML Safety Workshop), 2022  
-[[paper](https://drive.google.com/file/d/18Sz0353VXG5JOsGyGteQITl6Z5g24s_k/view?usp=sharing)]
+[[paper](https://drive.google.com/file/d/1MBLrol6Fe0gApPp-Xy6P1q-H9ebWVSwY/view?usp=sharing)]
 
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, Ambuj Tewari  
