@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I studied [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.cheraghchi.info), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
 
-My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. Right now, I am excited about the intersection of Learning Theory and Differential Privacy. In addition, I am also interested in Algorithms, specifically topics like Streaming and Combinatorial Optimization. In general, I like to work on theoretical problems that have some concrete practical usage. 
+My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. Right now, I am excited about the intersection of Learning Theory and Robustness. In addition, I am also interested in Algorithms, specifically topics like Streaming and Combinatorial Optimization. In general, I like to work on theoretical problems that have some concrete practical usage. 
 
 I am grateful to be supported by the [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org) from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials [here](https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing).
 
@@ -50,7 +50,7 @@ Awards and Fellowships
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
-- STATS 507 (Data Science using Python), Fall 2022
+- STATS 507 (Data Science using Python), Fall 2022, Winter 2023
 - [STATS 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning), Winter 2022
 - STATS 250 (Introduction to Statistics), Fall 2021
 - [InspiritAI](https://www.inspiritai.com), Summer 2021
