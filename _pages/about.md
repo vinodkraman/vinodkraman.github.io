@@ -23,7 +23,7 @@ Publications and Preprints
 **A Characterization of Multilabel Learnability**  
 Vinod Raman, Unique Subedi, Ambuj Tewari  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1-h3b59brCC-Uv_9OvxKATpD8W2TD7Xp9/view?usp=share_link)]
+[[paper](https://arxiv.org/abs/2301.02729)]
 
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, Unique Subedi, Ambuj Tewari  
