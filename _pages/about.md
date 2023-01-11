@@ -21,7 +21,7 @@ Publications and Preprints
 \* denotes equal contributions
 
 **A Characterization of Multilabel Learnability**  
-Vinod Raman^, Unique Subedi^, Ambuj Tewari  
+Vinod Raman\*, Unique Subedi\*, Ambuj Tewari  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
@@ -36,7 +36,7 @@ _NeurIPS_, 2022
 [[paper](https://arxiv.org/abs/2205.15113)]
 
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
-Vinod Raman^, Daniel Zhang^, Young Hun Jung, Ambuj Tewari  
+Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, Ambuj Tewari  
 _Preprint_, 2020  
 [[paper](https://arxiv.org/abs/1910.10937)]
 
