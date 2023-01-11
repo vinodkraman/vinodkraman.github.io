@@ -18,10 +18,10 @@ Click [here](http://vinodkraman.github.io/files/Raman_Resume.pdf) for my probabl
 
 Publications and Preprints
 ======
-^ denotes equal contributions
+\* denotes equal contributions
 
 **A Characterization of Multilabel Learnability**  
-Vinod Raman, Unique Subedi, Ambuj Tewari  
+Vinod Raman^, Unique Subedi^, Ambuj Tewari  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
