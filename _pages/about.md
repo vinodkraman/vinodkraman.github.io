@@ -21,27 +21,27 @@ Publications and Preprints
 \* denotes equal contributions
 
 **A Characterization of Multioutput Learnability**  
-Vinod Raman\*, Unique Subedi\*, Ambuj Tewari  
+Vinod Raman\*, Unique Subedi\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
 **On Proper Learnability between Average- and Worst-case Robustness**  
-Vinod Raman, Unique Subedi, Ambuj Tewari  
+Vinod Raman, Unique Subedi, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
 [[paper](https://arxiv.org/abs/2211.05656)]
 
 **Online Agnostic Multiclass Boosting**  
-Vinod Raman, Ambuj Tewari  
+Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_, 2022  
 [[paper](https://arxiv.org/abs/2205.15113)]
 
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
-Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, Ambuj Tewari  
+Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2020  
 [[paper](https://arxiv.org/abs/1910.10937)]
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
-Vinod Raman, Tobias Burger, Andrej Lenert  
+Vinod Raman, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
 _Optics Express_, 2019  
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
