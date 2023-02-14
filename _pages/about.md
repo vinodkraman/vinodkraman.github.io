@@ -20,12 +20,12 @@ Publications and Preprints
 ======
 \* denotes equal contributions
 
-**A Characterization of Multilabel Learnability**  
+**A Characterization of Multioutput Learnability**  
 Vinod Raman\*, Unique Subedi\*, Ambuj Tewari  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
-**Probabilistically Robust PAC Learning**  
+**On Proper Learnability between Average- and Worst-case Robustness**  
 Vinod Raman, Unique Subedi, Ambuj Tewari  
 _NeurIPS_ (ML Safety Workshop), 2022  
 [[paper](https://arxiv.org/abs/2211.05656)]
