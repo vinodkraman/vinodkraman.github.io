@@ -21,6 +21,7 @@ Publications and Preprints
 \* denotes equal contributions
 
 **A Characterization of Online Multiclass Learnability**
+
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)
 _Prepint_, 2023
 [[paper](http://arxiv.org/abs/2303.17716)]
