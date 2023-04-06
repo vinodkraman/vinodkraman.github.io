@@ -20,6 +20,11 @@ Publications and Preprints
 ======
 \* denotes equal contributions
 
+**On the Learnability of Multilabel Ranking**  
+Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+_Preprint_, 2023  
+[[paper]([http://arxiv.org/abs/2303.17716](https://drive.google.com/file/d/1kIWq3kjeXGeN4gpsKh_jP4hodWj0rlHk/view?usp=share_link))]
+
 **A Characterization of Online Multiclass Learnability**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
