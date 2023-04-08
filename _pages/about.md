@@ -16,7 +16,8 @@ I am grateful to be supported by the [National Science Foundation Graduate Resea
 
 Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my probably approximately recent CV.
 
-Publications and Preprints
+
+Preprints
 ======
 \* denotes equal contributions
 
@@ -35,6 +36,14 @@ Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
+**Online Boosting for Multilabel Ranking with Top-k Feedback**  
+Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
+_Preprint_, 2020  
+[[paper](https://arxiv.org/abs/1910.10937)]
+
+
+Publications
+===========
 **On Proper Learnability between Average- and Worst-case Robustness**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
@@ -44,11 +53,6 @@ _NeurIPS_ (ML Safety Workshop), 2022
 Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_, 2022  
 [[paper](https://arxiv.org/abs/2205.15113)]
-
-**Online Boosting for Multilabel Ranking with Top-k Feedback**  
-Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2020  
-[[paper](https://arxiv.org/abs/1910.10937)]
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
 Vinod Raman, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
