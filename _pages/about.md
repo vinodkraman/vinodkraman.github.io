@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I studied [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.cheraghchi.info), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
+I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I studied [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.ch), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. 
 
