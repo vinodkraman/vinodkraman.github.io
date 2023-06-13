@@ -24,7 +24,7 @@ Preprints
 **Online Learning with Set-Valued Feedback**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1t25Aco65oXcKQ2U8AunBjdEJ2SOwY34E/view?usp=share_link)]
+[[paper](https://arxiv.org/abs/2306.06247)]
 
 **On the Learnability of Multilabel Ranking**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
