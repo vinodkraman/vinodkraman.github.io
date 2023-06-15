@@ -44,6 +44,7 @@ _Preprint_, 2020
 
 Publications
 ===========
+\* denotes equal contributions
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com)\*, [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/)\*, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)\*  
 _COLT_, 2023  
