@@ -31,11 +31,6 @@ Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2304.03337)]
 
-**A Characterization of Online Multiclass Learnability**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
-[[paper](http://arxiv.org/abs/2303.17716)]
-
 **A Characterization of Multioutput Learnability**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
@@ -49,6 +44,10 @@ _Preprint_, 2020
 
 Publications
 ===========
+**Multiclass Online Learning and Uniform Convergence**  
+Steve Hanneke, Shay Moran, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+_COLT_, 2023  
+
 **On Proper Learnability between Average- and Worst-case Robustness**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
