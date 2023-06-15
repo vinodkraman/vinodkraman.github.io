@@ -46,7 +46,7 @@ Publications
 ===========
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com)\*, [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/)\*, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)\*  
-_COLT_,2023  
+_COLT_, 2023  
 
 **On Proper Learnability between Average- and Worst-case Robustness**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
