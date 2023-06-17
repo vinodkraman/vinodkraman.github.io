@@ -62,6 +62,7 @@ _Optics Express_, 2019
 Other
 ===========
 \* denotes equal contributions
+
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2020  
