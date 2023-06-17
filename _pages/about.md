@@ -31,6 +31,11 @@ Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2304.03337)]
 
+**On Proper Learnability between Average- and Worst-case Robustness**  
+Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+_In Submission_, 2023  
+[[paper](https://arxiv.org/abs/2211.05656)]
+
 **A Characterization of Multioutput Learnability**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _In Submission_, 2023  
@@ -42,10 +47,10 @@ Publications
 [Steve Hanneke](https://stevehanneke.com)\*, [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/)\*, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)\*  
 _COLT_, 2023  
 
-**On Proper Learnability between Average- and Worst-case Robustness**  
+**Probabilistically Robust PAC Learning**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
-[[paper](https://arxiv.org/abs/2211.05656)]
+[[paper](https://arxiv.org/abs/2211.05656](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
 
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
