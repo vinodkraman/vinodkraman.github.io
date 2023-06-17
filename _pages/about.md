@@ -38,8 +38,6 @@ _In Submission_, 2023
 
 Publications
 ===========
-\* denotes equal contributions
-
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com)\*, [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/)\*, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)\*  
 _COLT_, 2023  
@@ -61,8 +59,6 @@ _Optics Express_, 2019
 
 Other
 ===========
-\* denotes equal contributions
-
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2020  
