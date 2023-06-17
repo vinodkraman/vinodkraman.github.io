@@ -50,7 +50,7 @@ _COLT_, 2023
 **Probabilistically Robust PAC Learning**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
-[[paper](https://arxiv.org/abs/2211.05656](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
+[[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
 
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
