@@ -45,11 +45,11 @@ Publications
 ===========
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_COLT_, 2023  
+_Conference on Learning Theory (COLT)_, 2023  
 
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_NeurIPS_ (ML Safety Workshop), 2022  
+_Conference on Neural Information Processing Systems (NeurIPS)_ (ML Safety Workshop), 2022  
 [[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
 
 **Online Agnostic Multiclass Boosting**  
