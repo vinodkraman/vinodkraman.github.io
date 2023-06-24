@@ -49,12 +49,12 @@ _Conference on Learning Theory (COLT)_, 2023
 
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (NeurIPS)_ (ML Safety Workshop), 2022  
+_Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
 [[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
 
 **Online Agnostic Multiclass Boosting**  
 Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
-_NeurIPS_, 2022  
+_Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 [[paper](https://arxiv.org/abs/2205.15113)]
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
