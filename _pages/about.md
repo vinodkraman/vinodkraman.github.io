@@ -19,36 +19,36 @@ Click [here](http://vinodkraman.github.io/files/Resume_CV.pdf) for my probably a
 
 Recent Preprints
 ======
-\* denotes equal contributions
+\* authors listed alphabetically unless otherwise stated
 
 **Online Learning with Set-Valued Feedback**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2306.06247)]
 
 **On the Learnability of Multilabel Ranking**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2304.03337)]
 
 **On Proper Learnability between Average- and Worst-case Robustness**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2211.05656)]
 
 **A Characterization of Multioutput Learnability**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
 Publications
 ===========
 **Multiclass Online Learning and Uniform Convergence**  
-[Steve Hanneke](https://stevehanneke.com)\*, [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/)\*, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)\*  
+[Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _COLT_, 2023  
 
 **Probabilistically Robust PAC Learning**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, [Ambuj Tewari](https://ambujtewari.github.io)  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _NeurIPS_ (ML Safety Workshop), 2022  
 [[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
 
@@ -58,7 +58,7 @@ _NeurIPS_, 2022
 [[paper](https://arxiv.org/abs/2205.15113)]
 
 **Design of thermophotovoltaics for tolerance of parasitic absorption**  
-Vinod Raman, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
+Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
 _Optics Express_, 2019  
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
