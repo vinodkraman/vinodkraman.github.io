@@ -21,7 +21,7 @@ Recent Preprints
 ======
 \* authors listed alphabetically unless otherwise stated
 
-**A_Combinatorial_Characterization_of_Online_Learning_Games_with_Bounded_Losses**  
+**A Combinatorial Characterization of Online_Learning Games with Bounded_Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
 [[paper](https://drive.google.com/file/d/1I3uQU_GOD3h8t3yKuKEnHxRTRIQe3CDW/view?usp=share_link)]
