@@ -21,6 +21,11 @@ Recent Preprints
 ======
 \* authors listed alphabetically unless otherwise stated
 
+**A_Combinatorial_Characterization_of_Online_Learning_Games_with_Bounded_Losses**  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+_Preprint_, 2023  
+[[paper](https://drive.google.com/file/d/1I3uQU_GOD3h8t3yKuKEnHxRTRIQe3CDW/view?usp=share_link)]
+
 **Online Learning with Set-Valued Feedback**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
@@ -46,6 +51,7 @@ Publications
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Conference on Learning Theory (COLT)_, 2023  
+[[paper](https://drive.google.com/file/d/1guqIIKOqdtW2Ef3ACe8GrjWDjTYRW4NT/view?usp=share_link)]
 
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
