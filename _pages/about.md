@@ -19,7 +19,7 @@ Click [here](http://vinodkraman.github.io/files/Resume_CV.pdf) for my probably a
 
 Recent Preprints
 ======
-\* authors listed alphabetically unless otherwise stated
+Authors are listed alphabetically unless otherwise indicated with \*
 
 **A Combinatorial Characterization of Online Learning Games with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
