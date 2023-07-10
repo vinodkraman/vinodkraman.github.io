@@ -51,7 +51,7 @@ Publications
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Conference on Learning Theory (COLT)_, 2023  
-[[paper](https://drive.google.com/file/d/1guqIIKOqdtW2Ef3ACe8GrjWDjTYRW4NT/view?usp=share_link)]
+[[paper](https://arxiv.org/abs/2303.17716)]
 
 **Probabilistically Robust PAC Learning**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
