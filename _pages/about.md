@@ -24,7 +24,7 @@ Authors are listed alphabetically unless otherwise indicated with \*
 **A Combinatorial Characterization of Online Learning Games with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1I3uQU_GOD3h8t3yKuKEnHxRTRIQe3CDW/view?usp=share_link)]
+[[paper](https://arxiv.org/abs/2307.03816)]
 
 **Online Learning with Set-Valued Feedback**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
