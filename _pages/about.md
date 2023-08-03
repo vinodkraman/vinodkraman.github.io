@@ -21,7 +21,7 @@ Recent Preprints
 ======
 Authors are listed alphabetically unless otherwise indicated with \*
 
-**A Combinatorial Characterization of Online Learning Games with Bounded Losses**  
+**A Combinatorial Characterization of Online Learning with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2307.03816)]
@@ -85,6 +85,7 @@ Awards and Fellowships
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
+- PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
 - [STATS 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning), Winter 2022
 - STATS 250 (Introduction to Statistics), Fall 2021
