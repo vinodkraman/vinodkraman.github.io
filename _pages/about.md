@@ -26,12 +26,6 @@ Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Am
 _Preprint_, 2023  
 [[paper](https://drive.google.com/file/d/1IynWaokcgAzEqDgo_mERzI6I9zTVd8nW/view?usp=share_link)]
 
-**Multiclass Online Learnability under Bandit Feedback**
-
-Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io) 
-_Preprint_, 2023
-[[paper](https://drive.google.com/file/d/1IynWaokcgAzEqDgo_mERzI6I9zTVd8nW/view?usp=share_link)]
-
 **A Combinatorial Characterization of Online Learning with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
