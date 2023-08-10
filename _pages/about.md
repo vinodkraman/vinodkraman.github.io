@@ -24,7 +24,7 @@ Authors are listed alphabetically unless otherwise indicated with \*
 **Multiclass Online Learnability under Bandit Feedback**  
 Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1Tnq-D_ayu5Ck9UGTnJmXeNVBCZ0FV-fi/view?usp=sharing)]
+[[paper](https://arxiv.org/abs/2308.04620)]
 
 **A Combinatorial Characterization of Online Learning with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
