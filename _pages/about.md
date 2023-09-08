@@ -37,7 +37,7 @@ _Preprint_, 2023
 [[paper](https://arxiv.org/abs/2306.06247)]
 
 
-Preprints In Submission
+In Submission
 ======
 **On the Learnability of Multilabel Ranking**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
