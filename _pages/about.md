@@ -17,7 +17,7 @@ I am grateful to be supported by the [National Science Foundation Graduate Resea
 Click [here](http://vinodkraman.github.io/files/Resume_CV.pdf) for my probably approximately recent CV.
 
 
-<u>Recent Preprints</u>
+Recent Preprints
 ======
 Authors are listed alphabetically unless otherwise indicated with \*
 
