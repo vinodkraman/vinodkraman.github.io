@@ -16,10 +16,10 @@ I am grateful to be supported by the [National Science Foundation Graduate Resea
 
 Click [here](http://vinodkraman.github.io/files/Resume_CV.pdf) for my probably approximately recent CV.
 
+Authors are listed alphabetically unless otherwise indicated with \*
 
 Recent Preprints
 ======
-Authors are listed alphabetically unless otherwise indicated with \*
 
 **Multiclass Online Learnability under Bandit Feedback**  
 Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
