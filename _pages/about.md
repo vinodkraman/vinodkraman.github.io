@@ -23,7 +23,7 @@ Working Preprints
 **Online Infinite-Dimensional Regression: Learning Linear Operators**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1jrH1EU7SXKqEiWtAITIt4qVJtTf_0Nix/view?usp=share_link)]
+[[paper](https://arxiv.org/abs/2309.06548)]
 
 **Multiclass Online Learnability under Bandit Feedback**  
 Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
