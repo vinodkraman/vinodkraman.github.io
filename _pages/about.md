@@ -87,6 +87,10 @@ Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewar
 _Preprint_, 2020  
 [[paper](https://arxiv.org/abs/1910.10937)]
 
+Talks
+=====
+- On Classification-Calibration of Gamma-Phi Losses (COLT 2023)
+
 Awards and Fellowships
 ======
 - NeurIPS Scholar Award (2022)
