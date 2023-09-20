@@ -98,6 +98,10 @@ Awards and Fellowships
 - NSF Graduate Research Fellowship (2022)
 - First-year Rackham Fellowship (2021)
 
+Mentoring
+=======
+- Tiffany Parise (MS ECE): Fairness via Robust Machine Learning. 2022 - Present  
+
 Teaching
 ======
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
