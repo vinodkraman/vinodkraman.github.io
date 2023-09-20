@@ -100,7 +100,7 @@ Awards and Fellowships
 
 Mentoring
 =======
-- Tiffany Parise (MS ECE): Fairness via Robust Machine Learning. 2022 - Present  
+- Tiffany Parise (MS ECE): Fairness via Robust Machine Learning. 2022 - Present.  
 
 Teaching
 ======
