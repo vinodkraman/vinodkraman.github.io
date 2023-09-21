@@ -52,7 +52,7 @@ Publications
 ===========
 **On the Learnability of Multilabel Ranking**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (Spotlight)_, 2023  
+_Conference on Neural Information Processing Systems (<span style="color: blue">spotlight</span>)_, 2023  
 [[paper](https://arxiv.org/abs/2304.03337)]
 
 **On Proper Learnability between Average- and Worst-case Robustness**  
@@ -79,8 +79,6 @@ _Conference on Neural Information Processing Systems (NeurIPS)_, 2022
 Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
 _Optics Express_, 2019  
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
-
-<span style="color: red">this is red</span>
 
 Other
 ===========
