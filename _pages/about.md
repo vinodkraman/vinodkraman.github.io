@@ -62,7 +62,7 @@ _Conference on Neural Information Processing Systems_, 2023
 
 **Multiclass Online Learning and Uniform Convergence**  
 [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Learning Theory (COLT)_, 2023  
+_Conference on Learning Theory_, 2023  
 [[paper](https://arxiv.org/abs/2303.17716)]
 
 **Probabilistically Robust PAC Learning**  
@@ -79,6 +79,8 @@ _Conference on Neural Information Processing Systems (NeurIPS)_, 2022
 Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
 _Optics Express_, 2019  
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
+
+<span style="color: red">this is red</span>
 
 Other
 ===========
