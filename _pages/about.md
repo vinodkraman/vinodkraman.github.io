@@ -48,9 +48,8 @@ Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](ht
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
-Publications
----
----
+# Publications
+
 **On the Learnability of Multilabel Ranking**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
