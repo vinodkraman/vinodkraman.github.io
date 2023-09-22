@@ -19,7 +19,7 @@ Click [here](http://vinodkraman.github.io/files/Resume_CV.pdf) for my (probably 
 Authors are listed alphabetically unless otherwise indicated with \*
 
 Working Preprints
-======
+---
 ---
 
 **Online Infinite-Dimensional Regression: Learning Linear Operators**  
@@ -44,14 +44,16 @@ _Preprint_, 2023
 
 
 In Submission
-======
+---
+---
 **A Characterization of Multioutput Learnability**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2301.02729)]
 
 Publications
-===========
+---
+---
 **On the Learnability of Multilabel Ranking**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
@@ -83,29 +85,34 @@ _Optics Express_, 2019
 [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
 Other
-===========
+---
+---
 **Online Boosting for Multilabel Ranking with Top-k Feedback**  
 Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2020  
 [[paper](https://arxiv.org/abs/1910.10937)]
 
 Talks
-=====
+---
+---
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023)
 
 Awards and Fellowships
-======
+---
+---
 - NeurIPS Scholar Award (2022)
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
 - First-year Rackham Fellowship (2021)
 
 Mentoring
-=======
+---
+---
 - Tiffany Parise (MS ECE): Fairness via Robust Machine Learning. 2022 - Present.  
 
 Teaching
-======
+---
+---
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
@@ -116,7 +123,8 @@ I really enjoy teaching. Here are a couple courses and organizations that I have
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
 Hobbies
-======
+---
+---
 Apart from research, I am a big fan of bodybuilding and actively keep up with the [Mr. Olympia](https://mrolympia.com).
 
 
