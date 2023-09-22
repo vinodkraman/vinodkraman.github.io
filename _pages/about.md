@@ -20,6 +20,7 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 Working Preprints
 ======
+---
 
 **Online Infinite-Dimensional Regression: Learning Linear Operators**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
