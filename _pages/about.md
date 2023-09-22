@@ -20,10 +20,11 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 Working Preprints
 ======
-1. Online Infinite-Dimensional Regression: Learning Linear Operators  
-   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-   _Preprint_, 2023  
-   [[paper](https://arxiv.org/abs/2309.06548)]
+
+**Online Infinite-Dimensional Regression: Learning Linear Operators**  
+Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+_Preprint_, 2023  
+[[paper](https://arxiv.org/abs/2309.06548)]
 
 **Multiclass Online Learnability under Bandit Feedback**  
 Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
