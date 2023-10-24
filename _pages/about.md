@@ -93,7 +93,7 @@ _Preprint_, 2020
 
 # Awards and Fellowships
 ---
-- NeurIPS Scholar Award (2022)
+- NeurIPS Scholar Award (2022, 2023)
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
 - First-year Rackham Fellowship (2021)
