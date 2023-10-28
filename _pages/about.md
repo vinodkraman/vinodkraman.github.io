@@ -23,7 +23,7 @@ Authors are listed alphabetically unless otherwise indicated with \*
 **Revisiting the Learnability of Apple Tasting**  
 Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Ananth Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
-[[paper](https://drive.google.com/file/d/1fl_pG9ucyj4odvqzwL1UlaRa_bvvKJMZ/view?usp=share_link)]
+[[paper](https://drive.google.com/file/d/10wH2_t6VM3yvlkgXODZtaQBipvffEydJ/view?usp=share_link)]
 
 **A Combinatorial Characterization of Online Learning with Bounded Losses**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
