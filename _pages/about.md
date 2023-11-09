@@ -34,17 +34,17 @@ _Preprint_, 2023
 ---
 **Online Learning with Set-Valued Feedback**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
+_In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2306.06247)]
 
 **Online Infinite-Dimensional Regression: Learning Linear Operators**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
+_In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2309.06548)]
 
 **Multiclass Online Learnability under Bandit Feedback**  
 Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
+_In Submission_, 2023  
 [[paper](https://arxiv.org/abs/2308.04620)]
 
 **A Characterization of Multioutput Learnability**  
