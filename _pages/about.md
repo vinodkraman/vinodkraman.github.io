@@ -30,14 +30,13 @@ Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](ht
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2307.03816)]
 
+# In Submission
+---
 **Online Learning with Set-Valued Feedback**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
 [[paper](https://arxiv.org/abs/2306.06247)]
 
-
-# In Submission
----
 **Online Infinite-Dimensional Regression: Learning Linear Operators**  
 Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
 _Preprint_, 2023  
