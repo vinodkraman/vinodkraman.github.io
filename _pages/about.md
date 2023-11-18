@@ -93,7 +93,7 @@ _Preprint_, 2020
 
 # Talks
 ---
-- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)
+- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar) [[slides](https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing)]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023)
 
 # Awards and Fellowships
