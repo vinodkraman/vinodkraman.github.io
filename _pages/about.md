@@ -20,15 +20,15 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 # Working Preprints
 ---
-**Revisiting the Learnability of Apple Tasting**  
-Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Ananth Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
-[[paper](https://arxiv.org/abs/2310.19064)]
+1. **Revisiting the Learnability of Apple Tasting**  
+  Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Ananth Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Preprint_, 2023  
+  [[paper](https://arxiv.org/abs/2310.19064)]
 
-**A Combinatorial Characterization of Online Learning with Bounded Losses**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2023  
-[[paper](https://arxiv.org/abs/2307.03816)]
+2. **A Combinatorial Characterization of Online Learning with Bounded Losses**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Preprint_, 2023  
+  [[paper](https://arxiv.org/abs/2307.03816)]
 
 # In Submission
 ---
