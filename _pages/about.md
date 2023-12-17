@@ -32,64 +32,64 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 # In Submission
 ---
-**Online Learning with Set-Valued Feedback**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_In Submission_, 2023  
-[[paper](https://arxiv.org/abs/2306.06247)]
+1. **Online Learning with Set-Valued Feedback**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _In Submission_, 2023  
+  [[paper](https://arxiv.org/abs/2306.06247)]
 
-**A Characterization of Multioutput Learnability**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_In Submission_, 2023  
-[[paper](https://arxiv.org/abs/2301.02729)]
+2. **A Characterization of Multioutput Learnability**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _In Submission_, 2023  
+  [[paper](https://arxiv.org/abs/2301.02729)]
 
 # Publications
 ---
-**Online Infinite-Dimensional Regression: Learning Linear Operators**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Algorithmic Learning Theory (ALT)_, 2024  
-[[paper](https://arxiv.org/abs/2309.06548)]
+1. **Online Infinite-Dimensional Regression: Learning Linear Operators**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Algorithmic Learning Theory (ALT)_, 2024  
+  [[paper](https://arxiv.org/abs/2309.06548)]
 
-**Multiclass Online Learnability under Bandit Feedback**  
-Idan Mehalel, Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Algorithmic Learning Theory (ALT)_, 2024  
-[[paper](https://arxiv.org/abs/2308.04620)]
+2. **Multiclass Online Learnability under Bandit Feedback**  
+  Idan Mehalel, Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)
+  _Conference on Algorithmic Learning Theory (ALT)_, 2024  
+  [[paper](https://arxiv.org/abs/2308.04620)]
 
-**On the Learnability of Multilabel Ranking**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
-[[paper](https://arxiv.org/abs/2304.03337)]
+3. **On the Learnability of Multilabel Ranking**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
+  [[paper](https://arxiv.org/abs/2304.03337)]
 
-**On Proper Learnability between Average- and Worst-case Robustness**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
-[[paper](https://arxiv.org/abs/2211.05656)]
+4. **On Proper Learnability between Average- and Worst-case Robustness**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
+  [[paper](https://arxiv.org/abs/2211.05656)]
 
-**Multiclass Online Learning and Uniform Convergence**  
-[Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Learning Theory (COLT)_, 2023  
-[[paper](https://arxiv.org/abs/2303.17716)]
+5. **Multiclass Online Learning and Uniform Convergence**  
+  [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Learning Theory (COLT)_, 2023  
+  [[paper](https://arxiv.org/abs/2303.17716)]
 
-**Probabilistically Robust PAC Learning**  
-Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
-[[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
+6. **Online Agnostic Multiclass Boosting**  
+  Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
+  [[paper](https://arxiv.org/abs/2205.15113)]
 
-**Online Agnostic Multiclass Boosting**  
-Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
-_Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
-[[paper](https://arxiv.org/abs/2205.15113)]
-
-**Design of thermophotovoltaics for tolerance of parasitic absorption**  
-Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
-_Optics Express_, 2019  
-[[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
+7. **Design of thermophotovoltaics for tolerance of parasitic absorption**  
+  Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
+  _Optics Express_, 2019  
+  [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
 
 # Other
 ---
-**Online Boosting for Multilabel Ranking with Top-k Feedback**  
-Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
-_Preprint_, 2020  
-[[paper](https://arxiv.org/abs/1910.10937)]
+1. **Probabilistically Robust PAC Learning**  
+  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
+  [[paper](https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link)]
+
+2. **Online Boosting for Multilabel Ranking with Top-k Feedback**  
+  Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
+  _Preprint_, 2020  
+  [[paper](https://arxiv.org/abs/1910.10937)]
 
 # Talks
 ---
