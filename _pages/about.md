@@ -51,6 +51,7 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 2. **Multiclass Online Learnability under Bandit Feedback**  
   Idan Mehalel, Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)
+
   _Conference on Algorithmic Learning Theory (ALT)_, 2024  
   [[paper](https://arxiv.org/abs/2308.04620)]
 
