@@ -51,30 +51,30 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 2. **Multiclass Online Learnability under Bandit Feedback**  
   Idan Mehalel, Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)
-  _Conference on Algorithmic Learning Theory (ALT)_, 2024  
+_Conference on Algorithmic Learning Theory (ALT)_, 2024  
   [[paper](https://arxiv.org/abs/2308.04620)]
 
-3. **On the Learnability of Multilabel Ranking**  
+4. **On the Learnability of Multilabel Ranking**  
   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
   _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
   [[paper](https://arxiv.org/abs/2304.03337)]
 
-4. **On Proper Learnability between Average- and Worst-case Robustness**  
+5. **On Proper Learnability between Average- and Worst-case Robustness**  
   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
   _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
   [[paper](https://arxiv.org/abs/2211.05656)]
 
-5. **Multiclass Online Learning and Uniform Convergence**  
+6. **Multiclass Online Learning and Uniform Convergence**  
   [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
   _Conference on Learning Theory (COLT)_, 2023  
   [[paper](https://arxiv.org/abs/2303.17716)]
 
-6. **Online Agnostic Multiclass Boosting**  
+7. **Online Agnostic Multiclass Boosting**  
   Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
   _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
   [[paper](https://arxiv.org/abs/2205.15113)]
 
-7. **Design of thermophotovoltaics for tolerance of parasitic absorption**  
+8. **Design of thermophotovoltaics for tolerance of parasitic absorption**  
   Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
   _Optics Express_, 2019  
   [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403)]
