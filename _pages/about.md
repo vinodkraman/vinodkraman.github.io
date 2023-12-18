@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Welcome"
-excerpt: "About me"
+title: "Welcome!"
+excerpt: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,8 +15,6 @@ My research interests are broadly anything in Theoretical Machine Learning. Some
 I am grateful to be supported by the [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org) from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials [here](https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing).
 
 Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my (probably approximately) recent CV.
-
-Authors are listed alphabetically unless otherwise indicated with \*
 
 # Working Preprints
 ---
@@ -44,6 +42,8 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 # Publications
 ---
+Authors are listed alphabetically unless otherwise indicated with \*
+
 1. **Online Infinite-Dimensional Regression: Learning Linear Operators**  
   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
   _Conference on Algorithmic Learning Theory (ALT)_, 2024  
