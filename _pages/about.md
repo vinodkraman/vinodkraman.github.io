@@ -19,7 +19,7 @@ Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my (probably a
 # Working Preprints
 ---
 1. **Revisiting the Learnability of Apple Tasting**  
-  Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Ananth Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
+  Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
   _Preprint_, 2023  
   [[paper](https://arxiv.org/abs/2310.19064)]
 
