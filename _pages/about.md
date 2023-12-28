@@ -19,9 +19,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 # Working Preprints
 ---
 1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;">Revisiting the Learnability of Apple Tasting</a></b>
-
-  Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-  _Preprint_, 2023
+    Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+    _Preprint_, 2023
 
 3. **A Combinatorial Characterization of Online Learning with Bounded Losses**  
   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
