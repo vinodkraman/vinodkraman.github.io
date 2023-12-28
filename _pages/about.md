@@ -99,15 +99,15 @@ Authors are listed alphabetically unless otherwise indicated with \*
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
-- [STATS 315](https://ambujtewari.github.io/stats315-winter2022/) (Introduction to Deep Learning), Winter 2022
+- <b><a href="https://ambujtewari.github.io/stats315-winter2022/" style="color: black;">STATS 315</a></b> (Introduction to Deep Learning), Winter 2022
 - STATS 250 (Introduction to Statistics), Fall 2021
-- [InspiritAI](https://www.inspiritai.com), Summer 2021
-- [AI4ALL](https://ai-4-all.org), Summer 2021
+- <b><a href="https://www.inspiritai.com" style="color: black;">InspiritAI</a></b>, Summer 2021
+- <b><a href="https://ai-4-all.org" style="color: black;">AI4ALL</a></b>, Summer 2021
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
 # Hobbies
 ---
-Apart from research, I am a big fan of bodybuilding and actively keep up with the [Mr. Olympia](https://mrolympia.com).
+Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;">Mr. Olympia</a></b>.
 
 
 
