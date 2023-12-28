@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Statistics Department](https://lsa.umich.edu/stats) at the [University of Michigan](https://umich.edu/) advised by [Prof. Ambuj Tewari](https://ambujtewari.github.io). Previously, I studied [Computer Science](https://cse.engin.umich.edu/) and [Chemical Engineering](https://che.engin.umich.edu/) also at UM where I worked with [Prof. Mahdi Cheraghchi](https://mahdi.ch), [Dr. Sindhu Kutty](https://web.eecs.umich.edu/~skutty/), and [Prof. Andrej Lenert](https://lenert.engin.umich.edu).  
+I am a Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;">Prof. Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;">Prof. Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;">Dr. Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;">Prof. Andrej Lenert</a></b>.  
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. 
 
 I am grateful to be supported by the [National Science Foundation Graduate Research Fellowship Program (NSF GRFP)](https://www.nsfgrfp.org) from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials [here](https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing).
 
-Click [here](http://vinodkraman.github.io/files/Raman_CV.pdf) for my (probably approximately) recent CV. 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;">here</a></b> for my (probably approximately) recent CV.
 
 # Working Preprints
