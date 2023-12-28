@@ -22,13 +22,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     Ananth Raman, Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Preprint_, 2023
 
-2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>\  
+2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Preprint_, 2023  
 
 # In Submission
 ---
-1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;">Online Learning with Set-Valued Feedback</a></b>\  
+1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;">Online Learning with Set-Valued Feedback</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _In Submission_, 2023  
 
