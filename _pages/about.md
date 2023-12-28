@@ -28,15 +28,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # In Submission
 ---
-1. **Online Learning with Set-Valued Feedback**  
-  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-  _In Submission_, 2023  
-  [[paper](https://arxiv.org/abs/2306.06247)]
+1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;">Online Learning with Set-Valued Feedback</a></b>\  
+    Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+    _In Submission_, 2023  
 
-2. **A Characterization of Multioutput Learnability**  
-  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-  _In Submission_, 2023  
-  [[paper](https://arxiv.org/abs/2301.02729)]
+2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;">A Characterization of Multioutput Learnability</a></b>\
+    Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
+    _In Submission_, 2023  
 
 # Publications
 ---
