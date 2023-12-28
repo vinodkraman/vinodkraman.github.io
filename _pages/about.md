@@ -40,31 +40,31 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 ---
 Authors are listed alphabetically unless otherwise indicated with \*
 
-1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>\    
+1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
-2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;">Multiclass Online Learnability under Bandit Feedback</a></b>\  
+2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;">Multiclass Online Learnability under Bandit Feedback</a></b>  
     Ananth Raman, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Idan Mehalel, [Ambuj Tewari](https://ambujtewari.github.io)\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
-4. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;">On the Learnability of Multilabel Ranking</a></b>\  
+4. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;">On the Learnability of Multilabel Ranking</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
 
-5. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;">On Proper Learnability between Average- and Worst-case Robustness</a></b>\   
+5. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;">On Proper Learnability between Average- and Worst-case Robustness</a></b>
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
 
-6. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;">Multiclass Online Learning and Uniform Convergence</a></b>\   
+6. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;">Multiclass Online Learning and Uniform Convergence</a></b>   
     [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Learning Theory (COLT)_, 2023  
 
-7. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;">Online Agnostic Multiclass Boosting</a></b>\   
+7. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;">Online Agnostic Multiclass Boosting</a></b>   
     Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
-8. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>\  
+8. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>  
     Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
     _Optics Express_, 2019  
 
