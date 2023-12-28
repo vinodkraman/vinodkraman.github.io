@@ -70,17 +70,17 @@ Authors are listed alphabetically unless otherwise indicated with \*
 
 # Other
 ---
-1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;">Probabilistically Robust PAC Learning</a></b>\  
+1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;">Probabilistically Robust PAC Learning</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
 
-2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\  
+2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>  
     Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
     _Preprint_, 2020  
 
 # Talks
 ---
-- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar) [[slides](https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing)]
+- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;">slides</a></b>]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [[slides](https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing)]
 
 # Awards and Fellowships
