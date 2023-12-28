@@ -8,31 +8,31 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;">Prof. Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;">Prof. Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;">Dr. Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;">Prof. Andrej Lenert</a></b>.  
+I am a Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Prof. Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Prof. Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Dr. Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Prof. Andrej Lenert</a></b>.  
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. 
 
-I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing" style="color: black;">here</a></b>.
+I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing" style="color: black;text-decoration: none">here</a></b>.
 
-Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;">here</a></b> for my (probably approximately) recent CV.
+Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my (probably approximately) recent CV.
 
 # Working Preprints
 ---
-1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;">Revisiting the Learnability of Apple Tasting</a></b>\
+1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Revisiting the Learnability of Apple Tasting</a></b>\
     Ananth Raman, Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2023
 
-2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>  
+2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Preprint_, 2023  
 
 # In Submission
 ---
-1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;">Online Learning with Set-Valued Feedback</a></b>  
+1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _In Submission_, 2023  
 
-2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;">A Characterization of Multioutput Learnability</a></b>\
+2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _In Submission_, 2023  
 
@@ -40,48 +40,48 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 ---
 Authors are listed alphabetically unless otherwise indicated with \*
 
-1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
+1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;text-decoration: none">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
-2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;">Multiclass Online Learnability under Bandit Feedback</a></b>  
+2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;text-decoration: none">Multiclass Online Learnability under Bandit Feedback</a></b>  
     Ananth Raman, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Idan Mehalel, [Ambuj Tewari](https://ambujtewari.github.io)\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
-4. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;">On the Learnability of Multilabel Ranking</a></b>  
+4. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
 
-5. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;">On Proper Learnability between Average- and Worst-case Robustness</a></b>
+5. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;text-decoration: none">On Proper Learnability between Average- and Worst-case Robustness</a></b>
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
 
-6. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;">Multiclass Online Learning and Uniform Convergence</a></b>   
+6. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;text-decoration: none">Multiclass Online Learning and Uniform Convergence</a></b>   
     [Steve Hanneke](https://stevehanneke.com), [Shay Moran](https://csaws.cs.technion.ac.il/~shaymrn/), Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Learning Theory (COLT)_, 2023  
 
-7. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;">Online Agnostic Multiclass Boosting</a></b>   
+7. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;text-decoration: none">Online Agnostic Multiclass Boosting</a></b>   
     Vinod Raman, [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
-8. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>  
+8. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;text-decoration: none">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>  
     Vinod Raman\*, Tobias Burger, [Andrej Lenert](https://lenert.engin.umich.edu)  
     _Optics Express_, 2019  
 
 # Other
 ---
-1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;">Probabilistically Robust PAC Learning</a></b>  
+1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;text-decoration: none">Probabilistically Robust PAC Learning</a></b>  
     Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
 
-2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>  
+2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>  
     Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, [Ambuj Tewari](https://ambujtewari.github.io)  
     _Preprint_, 2020  
 
 # Talks
 ---
-- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;">slides</a></b>]
-- On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;">slides</a></b>]
+- Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
+- On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
 # Awards and Fellowships
 ---
@@ -99,15 +99,15 @@ Authors are listed alphabetically unless otherwise indicated with \*
 I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
-- <b><a href="https://ambujtewari.github.io/stats315-winter2022/" style="color: black;">STATS 315</a></b> (Introduction to Deep Learning), Winter 2022
+- <b><a href="https://ambujtewari.github.io/stats315-winter2022/" style="color: black;text-decoration: none">STATS 315</a></b> (Introduction to Deep Learning), Winter 2022
 - STATS 250 (Introduction to Statistics), Fall 2021
-- <b><a href="https://www.inspiritai.com" style="color: black;">InspiritAI</a></b>, Summer 2021
-- <b><a href="https://ai-4-all.org" style="color: black;">AI4ALL</a></b>, Summer 2021
+- <b><a href="https://www.inspiritai.com" style="color: black;text-decoration: none">InspiritAI</a></b>, Summer 2021
+- <b><a href="https://ai-4-all.org" style="color: black;text-decoration: none">AI4ALL</a></b>, Summer 2021
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
 # Hobbies
 ---
-Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;">Mr. Olympia</a></b>.
+Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
 
 
 
