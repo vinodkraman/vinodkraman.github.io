@@ -12,7 +12,7 @@ I am a Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="colo
 
 My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: Learning Theory, Online Learning, Boosting, Bandits, Differential Privacy, and Robustness. 
 
-I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="[https://www.nsfgrfp.org](https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing)" style="color: black;">here</a></b>.
+I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing" style="color: black;">here</a></b>.
 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;">here</a></b> for my (probably approximately) recent CV.
 
