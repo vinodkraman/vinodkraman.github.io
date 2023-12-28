@@ -40,15 +40,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 ---
 Authors are listed alphabetically unless otherwise indicated with \*
 
-1. **Online Infinite-Dimensional Regression: Learning Linear Operators**  
-  Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
-  _Conference on Algorithmic Learning Theory (ALT)_, 2024  
-  [[paper](https://arxiv.org/abs/2309.06548)]
-
-2. **Multiclass Online Learnability under Bandit Feedback**  
-  Ananth Raman, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Idan Mehalel, [Ambuj Tewari](https://ambujtewari.github.io)\
+1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>\    
+    Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
-    [[paper](https://arxiv.org/abs/2308.04620)]
+
+2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;">Multiclass Online Learnability under Bandit Feedback</a></b>\  
+    Ananth Raman, Vinod Raman\*, [Unique Subedi](https://unique-subedi.github.io)\*, Idan Mehalel, [Ambuj Tewari](https://ambujtewari.github.io)\
+    _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
 4. **On the Learnability of Multilabel Ranking**  
   Vinod Raman, [Unique Subedi](https://unique-subedi.github.io), [Ambuj Tewari](https://ambujtewari.github.io)  
