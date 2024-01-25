@@ -63,7 +63,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
 7. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;text-decoration: none">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>  
-    with, Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a>  
+    with Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a>  
     _Optics Express_, 2019
 
 
