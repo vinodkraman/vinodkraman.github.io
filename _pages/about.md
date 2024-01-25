@@ -19,64 +19,62 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 # Working Preprints
 ---
 1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Revisiting the Learnability of Apple Tasting</a></b>\
-    Ananth Raman, Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2023
 
 2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>  
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Preprint_, 2023  
 
 # In Submission
 ---
 1. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2023  
 
 2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2023  
 
 # Publications
 ---
-Authors are listed alphabetically unless otherwise indicated with \*
-
 1. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;text-decoration: none">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
 2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;text-decoration: none">Multiclass Online Learnability under Bandit Feedback</a></b>  
-    Ananth Raman, Vinod Raman\*, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>\*, Idan Mehalel, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, Idan Mehalel, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024
    
 3. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
 
 4. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;text-decoration: none">On Proper Learnability between Average- and Worst-case Robustness</a></b>\
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
 
 5. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;text-decoration: none">Multiclass Online Learning and Uniform Convergence</a></b>   
-   <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/" style="color: black;">Shay Moran</a>, Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+   with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/" style="color: black;">Shay Moran</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Learning Theory (COLT)_, 2023  
 
 6. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;text-decoration: none">Online Agnostic Multiclass Boosting</a></b>   
-    Vinod Raman, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
 7. <b><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" style="color: black;text-decoration: none">Design of thermophotovoltaics for tolerance of parasitic absorption</a></b>  
-    Vinod Raman\*, Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a>  
+    with, Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a>  
     _Optics Express_, 2019
 
 
 # Other
 ---
 1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;text-decoration: none">Probabilistically Robust PAC Learning</a></b>  
-    Vinod Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
 
 2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>  
-    Vinod Raman\*, Daniel Zhang\*, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+   with Daniel Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Preprint_, 2020  
 
 # Talks
