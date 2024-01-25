@@ -43,7 +43,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
 2. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;text-decoration: none">Multiclass Online Learnability under Bandit Feedback</a></b>  
-    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, Idan Mehalel, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024
    
 3. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
