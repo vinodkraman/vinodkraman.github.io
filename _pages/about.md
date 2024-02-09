@@ -22,7 +22,7 @@ Coming soon :)
 
 # In Submission
 ---
-1. The Complexity of Sequential Prediction in Dynamical Systems
+1. The Complexity of Sequential Prediction in Dynamical Systems\
    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
    
