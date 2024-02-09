@@ -24,15 +24,15 @@ Coming soon :)
 ---
 1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Revisiting the Learnability of Apple Tasting</a></b>\
     with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
-    _In Submission_, 2023
+    _In Submission_, 2024
     
 2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Combinatorial Characterization of Online Learning with Bounded Losses</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _In Submission_, 2023
+    _In Submission_, 2024
 
 3. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _In Submission_, 2023  
+    _In Submission_, 2024  
 
 4. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
