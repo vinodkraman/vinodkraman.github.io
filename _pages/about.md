@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Prof. Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Prof. Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Dr. Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Prof. Andrej Lenert</a></b>.  
 
-My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: learning theory, online learning, boosting, bandits, differential privacy, and robustness. 
+My research interests are broadly anything in Theoretical Machine Learning. Some specific areas of interest include: learning theory, online learning, boosting, bandits, differential privacy, and adversarial robustness. 
 
 I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing" style="color: black;text-decoration: none">here</a></b>.
 
@@ -85,6 +85,7 @@ Coming soon :)
 # Talks
 ---
 - Revisiting the Learnability of Apple Tasting (UM SPEECS Seminar)
+- Multiclass Online Learnability under Bandit Feedback (ALT 2024)
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
