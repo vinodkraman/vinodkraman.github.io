@@ -84,13 +84,14 @@ Coming soon :)
 
 # Talks
 ---
-- Revisiting the Learnability of Apple Tasting (UM SPEECS Seminar)
+- Revisiting the Learnability of Apple Tasting (MSSISS 2024)
 - Multiclass Online Learnability under Bandit Feedback (ALT 2024)
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
 # Awards and Fellowships
 ---
+-- MSSISS Outstanding Poster Presentation (2024)
 - NeurIPS Scholar Award (2022, 2023)
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
