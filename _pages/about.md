@@ -91,7 +91,7 @@ Coming soon :)
 
 # Awards and Fellowships
 ---
--- MSSISS Best Oral Presentation (2024)
+- MSSISS Best Oral Presentation (2024)
 - NeurIPS Scholar Award (2022, 2023)
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
