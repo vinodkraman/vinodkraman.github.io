@@ -18,7 +18,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Working Preprints
 ---
-Coming soon :)
+Some works on smoothed online classification, transudctive online learning, and algorithms with predictions coming soon :)
 
 # In Submission
 ---
