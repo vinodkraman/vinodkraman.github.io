@@ -15,6 +15,7 @@ My research interests are broadly in statistical learning theory and algorithms 
 I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship Program (NSF GRFP)</a></b> from Fall 2022. Feel free to shoot me an email if you’d like me to review your GRFP application! You can find my application materials <b><a href="https://drive.google.com/drive/folders/1o56kOfXVsy64bpcfqegah3f4R85IvN82?usp=sharing" style="color: black;text-decoration: none">here</a></b>.
 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my (probably approximately) recent CV.
+https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en
 
 # Working Preprints
 ---
@@ -37,7 +38,7 @@ Some works on smoothed online classification, transudctive online learning, and 
 # Publications
 ---
 1. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Apple Tasting: Combinatorial Dimensions and Minimax Rates</a></b>\
-    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2024
    
 2. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
