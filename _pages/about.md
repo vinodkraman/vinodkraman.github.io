@@ -26,7 +26,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
    
-Some works on smoothed online classification, transudctive online learning, and algorithms with predictions are also coming soon :)
+Some works on smoothed online classification, transductive online learning, and algorithms with predictions are also coming soon :)
 
 # In Submission
 ---
