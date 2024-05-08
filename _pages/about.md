@@ -50,7 +50,7 @@ Some works on smoothed online classification, transudctive online learning, and 
     _Conference on Algorithmic Learning Theory (ALT)_, 2024  
 
 4. <b><a href="https://arxiv.org/abs/2308.04620" style="color: black;text-decoration: none">Multiclass Online Learnability under Bandit Feedback</a></b>  
-    with Ananth Raman, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024
    
 5. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
