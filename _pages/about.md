@@ -30,9 +30,13 @@ Some works on smoothed online classification, transductive online learning, and 
 
 # In Submission
 ---
-1. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
+1.<b><a href="https://drive.google.com/file/d/1YN4bGpyi5peUQa6l5jtuH9reSbWneTgM/view?usp=share_link" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
+    with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    _In Submission_, 2024
+    
+2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _In Submission_, 2023  
+    _In Submission_, 2023 
 
 # Publications
 ---
