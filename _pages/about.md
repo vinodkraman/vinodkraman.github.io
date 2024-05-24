@@ -30,7 +30,7 @@ Some works on smoothed online classification and transductive online learning ar
 
 # In Submission
 ---
-1. <b><a href="https://drive.google.com/file/d/1YN4bGpyi5peUQa6l5jtuH9reSbWneTgM/view?usp=share_link" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
+1. <b><a href="http://arxiv.org/abs/2405.14066" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
     
