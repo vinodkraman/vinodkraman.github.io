@@ -25,8 +25,6 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 2.  <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Combinatorial Characterization of Supervised Online Learnability</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Preprint_, 2024
-   
-Some works on smoothed online classification and transductive online learning are coming soon :)
 
 # In Submission
 ---
