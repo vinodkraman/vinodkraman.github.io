@@ -33,8 +33,12 @@ Some works on smoothed online classification and transductive online learning ar
 1. <b><a href="http://arxiv.org/abs/2405.14066" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
+
+2. <b><a href="https://drive.google.com/file/d/1niPhnJ6kD5_79J1FLW1Y5TiHSCpd4y5x/view?usp=share_link" style="color: black;text-decoration: none">Smoothed Online Classification can be Harder than Batch Classification</a></b>\
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
+    _In Submission_, 2024
     
-2. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
+3. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2023 
 
