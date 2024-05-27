@@ -32,7 +32,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
 
-2. <b><a href="https://drive.google.com/file/d/1niPhnJ6kD5_79J1FLW1Y5TiHSCpd4y5x/view?usp=share_link" style="color: black;text-decoration: none">Smoothed Online Classification can be Harder than Batch Classification</a></b>\
+2. <b><a href="https://arxiv.org/pdf/2405.15424" style="color: black;text-decoration: none">Smoothed Online Classification can be Harder than Batch Classification</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
     
