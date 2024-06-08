@@ -28,15 +28,19 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # In Submission
 ---
-1. <b><a href="http://arxiv.org/abs/2405.14066" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
+1. <b>Multiclass Transducitve Online Learning</b>\
+    with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, and <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>  
+    _In Submission_, 2024
+   
+2. <b><a href="http://arxiv.org/abs/2405.14066" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
 
-2. <b><a href="https://arxiv.org/pdf/2405.15424" style="color: black;text-decoration: none">Smoothed Online Classification can be Harder than Batch Classification</a></b>\
+3. <b><a href="https://arxiv.org/pdf/2405.15424" style="color: black;text-decoration: none">Smoothed Online Classification can be Harder than Batch Classification</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
     
-3. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
+4. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2023 
 
