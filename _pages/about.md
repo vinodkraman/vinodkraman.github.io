@@ -93,9 +93,11 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
    with Daniel Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Preprint_, 2020  
 
+
 # Talks
 ---
-- Trichotomies in Online Learnability (Apple 2024)
+- Trichotomies in Online Learnability (Apple 2024)  [<b><a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing
+" style="color: black;text-decoration: none">slides</a></b>]
 - Revisiting the Learnability of Apple Tasting (MSSISS 2024)
 - Multiclass Online Learnability under Bandit Feedback (ALT 2024)
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
