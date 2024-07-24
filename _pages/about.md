@@ -28,7 +28,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # In Submission
 ---
-1. <b>Multiclass Transducitve Online Learning</b>\
+1. <b>Multiclass Transductive Online Learning</b>\
     with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>  
     _In Submission_, 2024
    
