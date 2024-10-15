@@ -18,9 +18,9 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Working Preprints
 ---
-1.<b>Generation through the lens of learning theory</b>\
+1. <b>Generation through the lens of learning theory</b>\
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
-    _Preprint, 2024
+    _Preprint_, 2024 
 
 2.  <b><a href = "https://arxiv.org/abs/2402.06614" style="color: black;text-decoration: none">The Complexity of Sequential Prediction in Dynamical Systems</a></b>\
    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
