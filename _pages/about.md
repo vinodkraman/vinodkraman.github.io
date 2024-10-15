@@ -103,6 +103,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Talks
 ---
+- Trichotomies in Online Learnability (Student ML Research Seminar 2024)  [<b><a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing
+" style="color: black;text-decoration: none">slides</a></b>]
 - Trichotomies in Online Learnability (Apple 2024)  [<b><a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing
 " style="color: black;text-decoration: none">slides</a></b>]
 - Revisiting the Learnability of Apple Tasting (MSSISS 2024)
