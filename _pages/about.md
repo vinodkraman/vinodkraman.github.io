@@ -32,12 +32,9 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 1. <b>Faster Rates for Private Adversarial Bandits</b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>\
     _In Submission_, 2024
-3. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Unified Theory of Supervised Online Learnability</a></b>  
+2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Unified Theory of Supervised Online Learnability</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
-4. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _In Submission_, 2023 
 
 # Publications
 ---
