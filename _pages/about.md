@@ -41,7 +41,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Publications
 ---
-1.<b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
+1. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Journal of Machine Learning Research (JMLR)_, 2024 
     
