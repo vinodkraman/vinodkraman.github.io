@@ -52,7 +52,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     
 4. <b><a href="https://drive.google.com/file/d/1pxaqTRkkK1No0Sp2XpF4MmgdWqZhjeIV/view?usp=share_link" style="color: black;text-decoration: none">Multiclass Transductive Online Learning</a></b>\
     with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>  
-   _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2024
+   <span style="color: red">spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2024
    
 5. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Apple Tasting: Combinatorial Dimensions and Minimax Rates</a></b>\
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
@@ -72,7 +72,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
    
 9. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _Conference on Neural Information Processing Systems (NeurIPS, <span style="color: red">spotlight</span>)_, 2023  
+    <span style="color: red">spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
 
 10. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;text-decoration: none">On Proper Learnability between Average- and Worst-case Robustness</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
