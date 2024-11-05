@@ -50,7 +50,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2024
     
-4. <b><a href="https://drive.google.com/file/d/1pxaqTRkkK1No0Sp2XpF4MmgdWqZhjeIV/view?usp=share_link" style="color: black;text-decoration: none">Multiclass Transductive Online Learning</a></b>\
+4. <b><a href="http://arxiv.org/abs/2411.01634" style="color: black;text-decoration: none">Multiclass Transductive Online Learning</a></b>\
     with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>  
    <span style="color: red">spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2024
    
