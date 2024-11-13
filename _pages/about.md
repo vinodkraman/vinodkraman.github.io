@@ -29,7 +29,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 # In Submission
 ---
     
-1. <b><a href= "https://drive.google.com/file/d/10O_UspygrrD-lM1UALFMcLD3Rb2quYv-/view?usp=share_link" style="color: black;text-decoration: none">Faster Rates for Private Adversarial Bandits</a></b>\
+1. <b>Faster Rates for Private Adversarial Bandits</b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>\
     _In Submission_, 2024
 2. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Unified Theory of Supervised Online Learnability</a></b>  
