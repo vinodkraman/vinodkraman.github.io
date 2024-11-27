@@ -91,15 +91,11 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     _Optics Express_, 2019
 
 
-# Other
+# Projects
 ---
-1. <b><a href="https://drive.google.com/file/d/1c-UFjDTe2qJd31ewZQ7dsx8d42YVa8v-/view?usp=share_link" style="color: black;text-decoration: none">Probabilistically Robust PAC Learning</a></b>  
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _Conference on Neural Information Processing Systems (NeurIPS, ML Safety Workshop)_, 2022  
+I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings.  
 
-2. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>  
-   with Daniel Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    _Preprint_, 2020  
+- Learning Permutations 
 
 
 # Talks
@@ -121,11 +117,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 - NeurIPS Scholar Award (2022, 2023)
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
-- First-year Rackham Fellowship (2021)
-
-# Mentoring
----
-- Tiffany Parise (MS ECE): Fairness via Robust Machine Learning. 2022 - Present.  
+- First-year Rackham Fellowship (2021) 
 
 # Teaching
 ---
