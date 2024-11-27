@@ -93,9 +93,9 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Projects
 ---
-I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings.  
+I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings. 
 
-- Learning Permutations 
+- <b><a href="[https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403](https://github.com/vinodkraman/LearningPermutations)" style="color: black;text-decoration: none">Learning Permutations</a></b> 
 
 
 # Talks
