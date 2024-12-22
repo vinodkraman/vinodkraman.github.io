@@ -20,7 +20,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 ---
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
     with Jiaxun Li and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
-    _Preprint_, 2024 
+    _Preprint_, 2024.
+2. Some more work on generation and private online learning is coming soon :)
 
 # In Submission
 ---
