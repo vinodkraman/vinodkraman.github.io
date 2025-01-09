@@ -18,7 +18,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Working Preprints
 ---
-1. <b><a href= "https://drive.google.com/file/d/1irsT8C49abh7Km77mNLboh4Y-ac9dAmE/view?usp=share_link" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
+1. <b><a href= "https://arxiv.org/pdf/2501.04179" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>\
     _Preprint_, 2025.
 2.  <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
