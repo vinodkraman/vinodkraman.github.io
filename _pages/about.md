@@ -18,23 +18,26 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Working Preprints
 ---
-1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
-    with Jiaxun Li and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
-    _Preprint_, 2024.
-2. Some more work on generation and private online learning is coming soon :)
+ Some more work on generation and private online learning is coming soon :)
 
 # In Submission
 ---
     
-1.  <b><a href= "https://arxiv.org/abs/2501.04179" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
+1.  <b>Representative Language Generation</b>\
+    with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a> and <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a>\
+    _In Submission_, 2025.
+2.  <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
+    with Jiaxun Li and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    _In Submission_, 2025.
+3.  <b><a href= "https://arxiv.org/abs/2501.04179" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>\
-    _Preprint_, 2025.
-2.  <b><a href = "https://arxiv.org/abs/2402.06614" style="color: black;text-decoration: none">The Complexity of Sequential Prediction in Dynamical Systems</a></b>\
+    _In Submission_, 2025.
+4.  <b><a href = "https://arxiv.org/abs/2402.06614" style="color: black;text-decoration: none">The Complexity of Sequential Prediction in Dynamical Systems</a></b>\
    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _In Submission_, 2024
-3. <b><a href="https://drive.google.com/file/d/10O_UspygrrD-lM1UALFMcLD3Rb2quYv-/view?usp=share_link" style="color: black;text-decoration: none">Faster Rates for Private Adversarial Bandits</a></b>\
+5. <b><a href="https://drive.google.com/file/d/10O_UspygrrD-lM1UALFMcLD3Rb2quYv-/view?usp=share_link" style="color: black;text-decoration: none">Faster Rates for Private Adversarial Bandits</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>\
-    _In Submission_, 2024
+    _In Submission_, 2025
 
 # Publications
 ---
