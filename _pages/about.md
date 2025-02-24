@@ -81,7 +81,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
    
 10. <b><a href="https://arxiv.org/abs/2304.03337" style="color: black;text-decoration: none">On the Learnability of Multilabel Ranking</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
-    <span style="color: red">spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
+    <span style="color: red">Spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
 
 11. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;text-decoration: none">On Proper Learnability between Average- and Worst-case Robustness</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
