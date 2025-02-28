@@ -25,7 +25,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 1.  <b>Tracking the Best Expert Privately</b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a> and <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a>\
     _In Submission_, 2025.
-2.   <b>Representative Language Generation</b>\
+2.   <b><a href="https://drive.google.com/file/d/1CNvSCwvpc-ext2xQJEYbS939d7AfGSTG/view?usp=share_link" style="color: black;"> Representative Language Generation</a></b>\
     with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a> and <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a>\
     _In Submission_, 2025.
 3.  <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
