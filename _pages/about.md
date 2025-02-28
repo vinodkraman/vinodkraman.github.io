@@ -110,6 +110,8 @@ I have also been working on more empirical research, especially towards understa
 
 # Talks
 ---
+- A Unified Theory of Supervised Online Learnability (ALT 2025)
+- Generation through the lens of learning theory (Apple 2025)
 - Generation through the lens of learning theory (NEU CS Theory Seminar) [<b><a href="https://drive.google.com/file/d/1mfKRbMvGWCDnhhpQbb8RzUDKqRM4hwas/view?usp=share_link" style="color: black;text-decoration: none">slides</a></b>]
 - Generation through the lens of learning theory (STATS 700 Guest Lecture)
 - Trichotomies in Online Learnability (Student ML Research Seminar 2024)  [<b><a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing
