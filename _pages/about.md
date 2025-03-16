@@ -22,7 +22,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 # In Submission
 ---
     
-1.  <b>Tracking the Best Expert Privately</b>\
+1.  <b><a href="https://arxiv.org/abs/2503.09889" style="color: black;text-decoration: none">Tracking the Best Expert Privately</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a> and <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a>\
     _In Submission_, 2025.
 2.   <b><a href="https://drive.google.com/file/d/1CNvSCwvpc-ext2xQJEYbS939d7AfGSTG/view?usp=share_link" style="color: black;text-decoration: none"> Representative Language Generation</a></b>\
