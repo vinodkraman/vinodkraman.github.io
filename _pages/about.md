@@ -126,7 +126,8 @@ I have also been working on more empirical research, especially towards understa
 
 # Awards and Fellowships
 ---
-- Outstanding Paper Award (ALT 2025)
+- Apple Scholars in AI/ML PhD Fellowship (2025)
+- ALT Outstanding Paper Award (2025)
 - MSSISS Best Oral Presentation (2024)
 - NeurIPS Scholar Award (2022, 2023)
 - Outstanding First-year Ph.D. Student (2022)
