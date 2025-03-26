@@ -11,7 +11,7 @@ I am a 4th year Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" st
 
 My research interests broadly lie in statistical learning theory and algorithm design. Some specific areas of interest include: online learning, bandits, differential privacy, adversarial robustness, and algorithms with predictions. Nowadays, I am interested in the theory and practice of generative machine learning, especially problems around efficient alignment and reasoning. 
 
-I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> as well as the 2025 Apple Scholars in AI/ML PhD fellowship.
+I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> as well as the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD fellowship</a></b>.
 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my (probably approximately) recent CV.
 
