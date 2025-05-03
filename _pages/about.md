@@ -19,9 +19,6 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 ---
  Some work on generation and alignment coming soon :)
 
-# In Submission
----
-
 # Publications
 ---
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
