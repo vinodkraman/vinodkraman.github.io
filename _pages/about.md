@@ -18,13 +18,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 # Working Preprints
 ---
  1. <b>Adaptive Best-of-N Alignment</b>\
-    with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a> and <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
+    with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
     _Preprint_, 2025.
 
 # Publications
 ---
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
-    with Jiaxun Li and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with Jiaxun Li, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2025.
 2.  <b><a href="https://drive.google.com/file/d/1CNvSCwvpc-ext2xQJEYbS939d7AfGSTG/view?usp=share_link" style="color: black;text-decoration: none"> Representative Language Generation</a></b>\
     with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a>, <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a>\
