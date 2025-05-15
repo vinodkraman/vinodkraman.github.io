@@ -17,7 +17,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # Working Preprints
 ---
- 1. <b>Adaptive Best-of-N Alignment</b>\
+ 1. <b>ABoN: Adaptive Best-of-N Alignment</b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
     _Preprint_, 2025.
 
