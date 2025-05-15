@@ -17,9 +17,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 # In Submission
 ---
- 1. <b>ABoN: Adaptive Best-of-N Alignment</b>\
+ 1. <b> Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </b>\
+   with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
+    _In Submission_, 2025. 
+ 2. <b>ABoN: Adaptive Best-of-N Alignment</b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
-    _Preprint_, 2025.
+    _In Submission_, 2025.
+    
 
 # Publications
 ---
