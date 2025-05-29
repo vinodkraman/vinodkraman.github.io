@@ -78,22 +78,23 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     <span style="color: red">Oral</span> at _Conference on Learning for Dynamics and Control (L4DC)_, 2025
    
 10. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Unified Theory of Supervised Online Learnability</a></b>  
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>
+    
     <span style="color: red">Outstanding Paper Award</span> at _Conference on Algorithmic Learning Theory (ALT)_, 2025
     
-11. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
+12. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Learning Theory (COLT)_, 2024
     
-12. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;text-decoration: none">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
+13. <b><a href="https://arxiv.org/abs/2309.06548" style="color: black;text-decoration: none">Online Infinite-Dimensional Regression: Learning Linear Operators</a></b>    
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Algorithmic Learning Theory (ALT)_, 2024
     
-13. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;text-decoration: none">Multiclass Online Learning and Uniform Convergence</a></b>   
+14. <b><a href="https://arxiv.org/abs/2303.17716" style="color: black;text-decoration: none">Multiclass Online Learning and Uniform Convergence</a></b>   
    with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/" style="color: black;">Shay Moran</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Learning Theory (COLT)_, 2023
     
-14. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;text-decoration: none">Online Agnostic Multiclass Boosting</a></b>   
+15. <b><a href="https://arxiv.org/abs/2205.15113" style="color: black;text-decoration: none">Online Agnostic Multiclass Boosting</a></b>   
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
