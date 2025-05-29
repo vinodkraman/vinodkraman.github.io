@@ -16,14 +16,12 @@ I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style=
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my recent CV.
 
 # Preprints
----
 1. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2020.
 
 
 # In Submission
----
  1. <b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b>\
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
     _In Submission_, 2025. 
@@ -33,7 +31,6 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     
 
 # Publications
----
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
     with Jiaxun Li, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2025.
@@ -111,7 +108,6 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 
 # Projects
----
 I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings. 
 
 - <b><a href="https://github.com/vinodkraman/LearningPermutations" style="color: black;text-decoration: none">Learning Permutations</a></b>
@@ -119,7 +115,6 @@ I have also been working on more empirical research, especially towards understa
 
 
 # Talks
----
 - A Unified Theory of Supervised Online Learnability (ALT 2025)
 - Generation through the lens of learning theory (Apple 2025)
 - Generation through the lens of learning theory (NEU CS Theory Seminar) [<b><a href="https://drive.google.com/file/d/1mfKRbMvGWCDnhhpQbb8RzUDKqRM4hwas/view?usp=share_link" style="color: black;text-decoration: none">slides</a></b>]
@@ -134,7 +129,6 @@ I have also been working on more empirical research, especially towards understa
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
 # Awards and Fellowships
----
 - Apple Scholars in AI/ML PhD Fellowship (2025)
 - ALT Outstanding Paper Award (2025)
 - MSSISS Best Oral Presentation (2024)
@@ -144,8 +138,7 @@ I have also been working on more empirical research, especially towards understa
 - First-year Rackham Fellowship (2021) 
 
 # Teaching
----
-I really enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
+I enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
 - <b><a href="https://ambujtewari.github.io/stats315-winter2022/" style="color: black;text-decoration: none">STATS 315</a></b> (Introduction to Deep Learning), Winter 2022
@@ -155,7 +148,6 @@ I really enjoy teaching. Here are a couple courses and organizations that I have
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
 # Hobbies
----
 Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
 
 
