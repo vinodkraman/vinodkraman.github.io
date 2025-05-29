@@ -17,7 +17,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 <h1 style="color: black;">Preprints</h1>
 
-1. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
+1. <b><a href="https://arxiv.org/abs/1910.10937" style="text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2020.
 
