@@ -17,15 +17,12 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 <h1 style="color: black;">Preprints</h1>
 
-
----
 1. <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2020.
 
+<h1 style="color: black;">In Submission</h1>
 
-# In Submission
----
  1. <b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b>\
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
     _In Submission_, 2025. 
@@ -34,9 +31,10 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     _In Submission_, 2025.
     
 
-# Publications
----
-### Language Generation
+<h1 style="color: black;">Publications</h1>
+
+<h3 style="color: black;">Language Generation</h3>
+
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
     with Jiaxun Li, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2025.
@@ -47,7 +45,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>\
     _International Conference on Machine Learning (ICML)_, 2025
     
-### Differential Privacy 
+<h3 style="color: black;">Differential Privacy</h3>
+
 4. <b><a href="https://arxiv.org/abs/2503.09889" style="color: black;text-decoration: none">Tracking the Best Expert Privately</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a>\
     _International Conference on Machine Learning (ICML)_, 2025
@@ -55,7 +54,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>\
     _International Conference on Machine Learning (ICML)_, 2025
 
-### Beyond Worst-Case Guarantees in Learning
+<h3 style="color: black;">Beyond Worst-case Guarantees in Learning</h3>
+
 6. <b><a href="http://arxiv.org/abs/2405.14066" style="color: black;text-decoration: none">Online Classification with Predictions</a></b>\
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2024
@@ -66,7 +66,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>  
    <span style="color: red">Spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2024
 
-### Online Learning 
+<h3 style="color: black;">Online Learning</h3>
+
 9. <b><a href = "https://arxiv.org/abs/2402.06614" style="color: black;text-decoration: none">The Complexity of Sequential Prediction in Dynamical Systems</a></b>\
    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     <span style="color: red">Oral</span> at _Conference on Learning for Dynamics and Control (L4DC)_, 2025
@@ -86,7 +87,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2022  
 
-### Partial Feedback
+<h3 style="color: black;">Partial Feedback</h3>
+
 15. <b><a href="https://arxiv.org/abs/2310.19064" style="color: black;text-decoration: none">Apple Tasting: Combinatorial Dimensions and Minimax Rates</a></b>\
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2024
@@ -94,7 +96,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Algorithmic Learning Theory (ALT)_, 2024
 
-### Multioutput Learning
+<h3 style="color: black;">Multioutput Learning</h3>
+
 17. <b><a href="https://arxiv.org/abs/2301.02729" style="color: black;text-decoration: none">A Characterization of Multioutput Learnability</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Journal of Machine Learning Research (JMLR)_, 2024
@@ -102,7 +105,8 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     <span style="color: red">Spotlight</span> at _Conference on Neural Information Processing Systems (NeurIPS)_, 2023 
 
-### Other
+<h3 style="color: black;">Other</h3>
+
 19. <b><a href="https://arxiv.org/abs/2211.05656" style="color: black;text-decoration: none">On Proper Learnability between Average- and Worst-case Robustness</a></b>\
     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>  
     _Conference on Neural Information Processing Systems (NeurIPS)_, 2023  
@@ -110,15 +114,15 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     with Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a>  
     _Optics Express_, 2019
 
-# Projects
----
+<h1 style="color: black;">Projects</h1>
+
 I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings. 
 
 - <b><a href="https://github.com/vinodkraman/LearningPermutations" style="color: black;text-decoration: none">Learning Permutations</a></b>
 - <b><a href="https://drive.google.com/file/d/1RoNKp8UjCIyYyimKM7SrbNibSS5Ya_ry/view?usp=sharing" style="color: black;text-decoration: none"> On the Limitations of Self-Attention as a Sequence-to-Sequence Map</a></b>
 
-# Talks
----
+<h1 style="color: black;">Talks</h1>
+
 - A Unified Theory of Supervised Online Learnability (ALT 2025)
 - Generation through the lens of learning theory (Apple 2025)
 - Generation through the lens of learning theory (NEU CS Theory Seminar) [<b><a href="https://drive.google.com/file/d/1mfKRbMvGWCDnhhpQbb8RzUDKqRM4hwas/view?usp=share_link" style="color: black;text-decoration: none">slides</a></b>]
@@ -132,8 +136,8 @@ I have also been working on more empirical research, especially towards understa
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
-# Awards and Fellowships
----
+<h1 style="color: black;">Awards and Fellowships</h1>
+
 - Apple Scholars in AI/ML PhD Fellowship (2025)
 - ALT Outstanding Paper Award (2025)
 - MSSISS Best Oral Presentation (2024)
@@ -142,8 +146,8 @@ I have also been working on more empirical research, especially towards understa
 - NSF Graduate Research Fellowship (2022)
 - First-year Rackham Fellowship (2021) 
 
-# Teaching
----
+<h1 style="color: black;">Teaching</h1>
+
 I enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
 - STATS 507 (Data Science using Python), Fall 2022, Winter 2023
@@ -153,8 +157,8 @@ I enjoy teaching. Here are a couple courses and organizations that I have taught
 - <b><a href="https://ai-4-all.org" style="color: black;text-decoration: none">AI4ALL</a></b>, Summer 2021
 - ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
 
-# Hobbies
----
+<h1 style="color: black;">Hobbies</h1>
+
 Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
 
 
