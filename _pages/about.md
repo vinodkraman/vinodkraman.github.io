@@ -78,7 +78,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
     <span style="color: red">Oral</span> at _Conference on Learning for Dynamics and Control (L4DC)_, 2025
    
 10. <b><a href="https://arxiv.org/abs/2307.03816" style="color: black;text-decoration: none">A Unified Theory of Supervised Online Learnability</a></b>  
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>
+    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     <span style="color: red">Outstanding Paper Award</span> at _Conference on Algorithmic Learning Theory (ALT)_, 2025
     
 11. <b><a href="https://arxiv.org/abs/2306.06247" style="color: black;text-decoration: none">Online Learning with Set-Valued Feedback</a></b>  
