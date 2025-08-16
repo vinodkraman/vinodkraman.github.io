@@ -19,7 +19,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
   I am on the 2025/2026 industry job market! Feel free to reach out to me at 
   <a href="mailto:vkraman@umich.edu" style="color: red; text-decoration: underline;">
     vkraman@umich.edu
-  </a>.
+  </a>
 </p>
 
 <h1 style="color: black;">Preprints</h1>
