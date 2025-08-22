@@ -16,7 +16,7 @@ I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style=
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my recent CV.
 
 <p style="color: red;">
-  I am on the 2025/2026 industry job market!
+  <strong>I am on the 2025/2026 industry job market!</strong>
 </p>
 
 <h1 style="color: black;">Preprints</h1>
