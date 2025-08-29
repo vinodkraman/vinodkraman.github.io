@@ -15,7 +15,7 @@ During the summer of 2024, I interned at <b><a href="https://machinelearning.app
 
 I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>.
 
-Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> for my recent CV.
+Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> to see my CV. Feel free to reach out to me at vkraman [at] umich.edu. 
 
 <p style="color: red;">
   <strong>I am on the 2025/2026 industry job market!</strong>
