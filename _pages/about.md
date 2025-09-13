@@ -20,7 +20,7 @@ I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style=
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> to see my CV. Feel free to reach out to me at vkraman [at] umich.edu. 
 
 <p style="color: red;">
-  <strong>I am on the 2025/2026 industry job market!</strong>
+  <strong>I am on the industry job market this year. Please reach out if you think I might be a good fit!</strong>
 </p>
 
 <h1 style="color: black;">Preprints</h1>
