@@ -32,13 +32,13 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 <h1 style="color: black;">In Submission</h1>
 
  1. <b> Optimal Stopping vs Best-of-N for Inference Time Optimization </b>\
-   with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/"> Shaddin Dughmi </a>\
+   with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a>\
     _In Submission_, 2025.
  2.  <b> Transductive and Learning-Augmented Online Regression </b>\
-   with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io"> Samson Zhou </a>\
+   with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a>\
     _In Submission_, 2025.
  3. <b> Missing Mass for DIfferentially Private Domain Discovery </b>\
-   with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io"> Travis Dick </a>\
+   with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a>\
     _In Submission_, 2025.
  4.  <b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b>\
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
