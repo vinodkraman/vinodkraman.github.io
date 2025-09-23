@@ -44,7 +44,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 <h3>Language Generation</h3>
 
 1. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
-    with Jiaxun Li, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
+    with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2025.
    
 2.  <b><a href="http://arxiv.org/abs/2505.21819" style="color: black;text-decoration: none"> Representative Language Generation</a></b>\
