@@ -149,8 +149,9 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 <h1 style="color: black;">Projects</h1>
 
-I have also been working on more empirical research, especially towards understanding the abilities and limitations of the Transformer architecture. Below are some ongoing projects which highlight some of my findings. 
+I have also been working on more empirical research, especially towards understanding RL for LLMs and the abilities/limitations of the Transformer architecture. Below are some ongoing projects related to these topics: 
 
+- <b><a href="https://github.com/vinodkraman/RL-for-LLMs" style="color: black;text-decoration: none">RL for LLMs</a></b>
 - <b><a href="https://github.com/vinodkraman/LearningPermutations" style="color: black;text-decoration: none">Learning Permutations</a></b>
 - <b><a href="https://drive.google.com/file/d/1RoNKp8UjCIyYyimKM7SrbNibSS5Ya_ry/view?usp=sharing" style="color: black;text-decoration: none"> On the Limitations of Self-Attention as a Sequence-to-Sequence Map</a></b>
 
