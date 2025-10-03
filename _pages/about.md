@@ -34,7 +34,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
 
 <h1 style="color: black;">In Submission</h1>
 
- 1. <b> Optimal Stopping vs Best-of-N for Inference Time Optimization </b>\
+ 1. <b><a href="https://arxiv.org/abs/2510.01394" style="color: black;text-decoration: none"> Optimal Stopping vs Best-of-N for Inference Time Optimization </a></b>\
    with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a>\
     _In Submission_, 2025.
  2.  <b> Transductive and Learning-Augmented Online Regression </b>\
