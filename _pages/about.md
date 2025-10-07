@@ -37,7 +37,7 @@ Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color:
  1. <b><a href="https://arxiv.org/abs/2510.01394" style="color: black;text-decoration: none"> Optimal Stopping vs Best-of-N for Inference Time Optimization </a></b>\
    with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a>\
     _In Submission_, 2025.
- 2.  <b> Transductive and Learning-Augmented Online Regression </b>\
+ 2.  <b><a href="http://arxiv.org/abs/2510.03917" style="color: black;text-decoration: none">  Transductive and Learning-Augmented Online Regression </a></b>\
    with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a>\
     _In Submission_, 2025.
  3. <b> Missing Mass for DIfferentially Private Domain Discovery </b>\
