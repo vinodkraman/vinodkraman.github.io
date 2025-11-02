@@ -157,6 +157,7 @@ I have also been working on more empirical research, especially towards understa
 
 <h1 style="color: black;">Talks</h1>
 
+- Optimal Stopping vs Best-of-N for Inference Time Optimization (Google DeepMind Tech Talk) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
 - A Unified Theory of Supervised Online Learnability (ALT 2025)
 - Generation through the lens of learning theory (Apple 2025)
 - Generation through the lens of learning theory (NEU CS Theory Seminar) [<b><a href="https://drive.google.com/file/d/1mfKRbMvGWCDnhhpQbb8RzUDKqRM4hwas/view?usp=share_link" style="color: black;text-decoration: none">slides</a></b>]
