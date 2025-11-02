@@ -179,7 +179,7 @@ I have also been working on more empirical research, especially towards understa
 - Outstanding First-year Ph.D. Student (2022)
 - NSF Graduate Research Fellowship (2022)
 
-<h1 style="color: black;">Teaching</h1>
+<!-- <h1 style="color: black;">Teaching</h1>
 
 I enjoy teaching. Here are a couple courses and organizations that I have taught for in the past: 
 - PhD Math Preparation Workshop, Fall 2023 
@@ -188,7 +188,7 @@ I enjoy teaching. Here are a couple courses and organizations that I have taught
 - STATS 250 (Introduction to Statistics), Fall 2021
 - <b><a href="https://www.inspiritai.com" style="color: black;text-decoration: none">InspiritAI</a></b>, Summer 2021
 - <b><a href="https://ai-4-all.org" style="color: black;text-decoration: none">AI4ALL</a></b>, Summer 2021
-- ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018
+- ChE 330 (Chemical and Engineering Thermodynamics), Winter 2018 -->
 
 <h1 style="color: black;">Hobbies</h1>
 
