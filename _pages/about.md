@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
+I am an incoming Research Scientist at Google DeepMind and a final-year Ph.D. student in the <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics Department</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
 
 <p style="color:#000000;">
 My research interests lie in the <strong>Foundations of Machine Learning and Generative AI</strong>. In the past, I worked on online learning/bandits, adversarial robustness, and beyond-worst-case analysis for learning algorithms, among other things. Currently, I am interested in all aspects of <strong>post-training</strong> for LLMs. In particular, I've worked on  <strong>inference-time methods</strong>, <strong>differential privacy</strong>, and <strong>synthetic data generation</strong>, and currently thinking about efficient reasoning. 
@@ -19,9 +19,6 @@ I am grateful to be supported by the <b><a href="https://www.nsfgrfp.org" style=
 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> to see my CV. Feel free to reach out to me at vkraman [at] umich.edu. 
 
-<p style="color: red;">
-  <strong>I am on the industry job market. Please reach out if you think I might be a good fit!</strong>
-</p>
 
 <h1 style="color: black;">Preprints</h1>
 
