@@ -13,7 +13,7 @@ I am an incoming Research Scientist at <b><a href="https://deepmind.google" styl
 My research interests lie in the <strong>Foundations of Machine Learning and Generative AI</strong>. In the past, I worked on online learning/bandits, adversarial robustness, and beyond-worst-case analysis for learning algorithms, among other things. Currently, I am interested in <strong>post-training</strong> for LLMs, and in particular, inference-time methods for prompt-adaptive sampling.
 </p>
 
-I am grateful to have been supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b> during my Ph.D.
+During my Ph.D, I was fortunate to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>.
 
 Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> to see my CV. Feel free to reach out to me at vkraman [at] umich.edu. 
 
