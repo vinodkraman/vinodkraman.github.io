@@ -167,13 +167,13 @@ I have also been working on more empirical research, especially towards understa
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 - On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
 
-<h1 style="color: black;">Awards and Fellowships</h1>
+<!-- <h1 style="color: black;">Awards and Fellowships</h1>
 
 - Apple Scholars in AI/ML PhD Fellowship (2025)
 - ALT Outstanding Paper Award (2025)
 - MSSISS Best Oral Presentation (2024)
 - Outstanding First-year Ph.D. Student (2022)
-- NSF Graduate Research Fellowship (2022)
+- NSF Graduate Research Fellowship (2022) -->
 
 <!-- <h1 style="color: black;">Teaching</h1>
 
