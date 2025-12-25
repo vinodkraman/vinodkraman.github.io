@@ -153,6 +153,7 @@ I have also been working on more empirical research, especially towards understa
 
 <h1 style="color: black;">Talks</h1>
 
+- Optimal Stopping vs Best-of-N for Inference Time Optimization (Percepta Job Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
 - Optimal Stopping vs Best-of-N for Inference Time Optimization (Google DeepMind Tech Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
 - A Unified Theory of Supervised Online Learnability (ALT 2025)
 - Generation through the lens of learning theory (Apple 2025)
@@ -188,6 +189,6 @@ I enjoy teaching. Here are a couple courses and organizations that I have taught
 
 <h1 style="color: black;">Hobbies</h1>
 
-Apart from research, I am a big fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
+Apart from research, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
 
 
