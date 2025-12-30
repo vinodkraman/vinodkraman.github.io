@@ -17,8 +17,6 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 
 During my Ph.D, I was fortunate to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>.
 
-Click <b><a href="http://vinodkraman.github.io/files/Raman_CV.pdf" style="color: black;text-decoration: none">here</a></b> to see my CV. 
-
 <h1 style="color: black;">Preprints</h1>
 
 1. <b><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" style="color: black;text-decoration: none">Estimating the (Un)seen: Sample-dependent Mass Estimation </a></b>\
