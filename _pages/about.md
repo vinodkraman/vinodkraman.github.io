@@ -9,11 +9,11 @@ redirect_from:
 
 I'm a Research Scientist at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval and ranking. 
 
-I completed my Ph.D. in Machine Learning at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b>, where I was advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UofM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
-
 <p style="color:#000000;">
 My research interests lie in the <strong>Foundations of Machine Learning</strong>. In the past, I worked on online learning, learning with complex label spaces, and differential privacy, among other things. Currently, I am interested in all aspects of <strong>post-training</strong> for large language models. 
 </p>
+
+I completed my Ph.D. in Machine Learning at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b>, where I was advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. Previously, I studied <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UofM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
 
 During my Ph.D, I was fortunate to be supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>.
 
