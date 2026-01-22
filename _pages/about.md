@@ -46,17 +46,18 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 
 1. <b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b>\
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
-    _Conference on Artificial Intelligence and Statistics (AISTATS)_, 2026.
+    _Conference on Artificial Intelligence and Statistics (AISTATS)_, 2026.\
+   _Conference on the Mathematical Theory of Deep Neural Networks (DeepMath)_, 2025.
     
-2. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
+3. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
     with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Conference on Learning Theory (COLT)_, 2025.
    
-3.  <b><a href="http://arxiv.org/abs/2505.21819" style="color: black;text-decoration: none"> Representative Language Generation</a></b>\
+4.  <b><a href="http://arxiv.org/abs/2505.21819" style="color: black;text-decoration: none"> Representative Language Generation</a></b>\
     with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a>, <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a>\
     _International Conference on Machine Learning (ICML)_, 2025.
     
-4.  <b><a href= "https://arxiv.org/abs/2501.04179" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
+5.  <b><a href= "https://arxiv.org/abs/2501.04179" style="color: black;text-decoration: none"> Generation from Noisy Examples </a></b>\
     with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>\
     _International Conference on Machine Learning (ICML)_, 2025.
     
