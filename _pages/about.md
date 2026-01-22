@@ -46,7 +46,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 
 1. <b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b>\
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a>\
-    _Conference on the Mathematical Theory of Deep Neural Networks (DeepMath)_, 2025.
+    _Conference on Artificial Intelligence and Statistics (AISTATS)_, 2026.
     
 2. <b><a href="https://arxiv.org/abs/2410.13714" style="color: black;text-decoration: none">Generation through the lens of learning theory</a></b>\
     with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
