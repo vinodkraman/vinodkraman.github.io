@@ -33,10 +33,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
  2.  <b><a href="http://arxiv.org/abs/2510.03917" style="color: black;text-decoration: none">  Transductive and Learning-Augmented Online Regression </a></b>\
    with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a>\
     _In Submission_, 2025.
- 3. <b> Missing Mass for DIfferentially Private Domain Discovery </b>\
-   with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a>\
-    _In Submission_, 2025.
- 4. <b><a href="https://arxiv.org/abs/2505.12050" style="color: black;text-decoration: none">AdaBoN: Adaptive Best-of-N Alignment</a></b>\
+ 3. <b><a href="https://arxiv.org/abs/2505.12050" style="color: black;text-decoration: none">AdaBoN: Adaptive Best-of-N Alignment</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
     _In Submission_, 2025.
     
@@ -63,11 +60,15 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
     
 <h3>Differential Privacy</h3>
 
-4. <b><a href="https://arxiv.org/abs/2503.09889" style="color: black;text-decoration: none">Tracking the Best Expert Privately</a></b>\
+4. <b> Missing Mass for DIfferentially Private Domain Discovery </b>\
+   with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a>\
+    _International Conference on Learning Representations (ICLR)_, 2026.
+   
+6. <b><a href="https://arxiv.org/abs/2503.09889" style="color: black;text-decoration: none">Tracking the Best Expert Privately</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a>\
     _International Conference on Machine Learning (ICML)_, 2025.
    
-5. <b><a href="http://arxiv.org/abs/2505.21790" style="color: black;text-decoration: none">Faster Rates for Private Adversarial Bandits</a></b>\
+7. <b><a href="http://arxiv.org/abs/2505.21790" style="color: black;text-decoration: none">Faster Rates for Private Adversarial Bandits</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>\
     _International Conference on Machine Learning (ICML)_, 2025.
 
