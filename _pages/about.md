@@ -19,6 +19,9 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
 <h1 style="color: black;">Preprints</h1>
 
 <ol>
+<li><b>On Generation in Metric Spaces</b><br>
+    with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+    <i>Preprint</i>, 2026.</li>
 <li><b><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" style="color: black;text-decoration: none">Estimating the (Un)seen: Sample-dependent Mass Estimation </a></b><br>
     with <a href="https://vtaly.net" style="color: black;">Vitaly Feldman</a>, <a href="https://www.satyenkale.com" style="color: black;">Satyen Kale</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>Preprint</i>, 2025.</li>
