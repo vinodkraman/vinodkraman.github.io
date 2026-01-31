@@ -177,7 +177,7 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
 </details>
 
 
-<h1 style="color: black;">Talks</h1>
+<h1 style="color: black; margin-top: 60px;">Talks</h1>
 
 - Optimal Stopping vs Best-of-N for Inference Time Optimization (Percepta Job Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
 - Optimal Stopping vs Best-of-N for Inference Time Optimization (Google DeepMind Tech Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
