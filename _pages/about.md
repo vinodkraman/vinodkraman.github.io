@@ -21,7 +21,10 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 1. <b><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" style="color: black;text-decoration: none">Estimating the (Un)seen: Sample-dependent Mass Estimation </a></b>\
     with <a href="https://vtaly.net" style="color: black;">Vitaly Feldman</a>, <a href="https://www.satyenkale.com" style="color: black;">Satyen Kale</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2025.
-2.  <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
+2. <b><a href="http://arxiv.org/abs/2510.03917" style="color: black;text-decoration: none">  Transductive and Learning-Augmented Online Regression </a></b>\
+   with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a>\
+    _In Submission_, 2025.
+3.  <b><a href="https://arxiv.org/abs/1910.10937" style="color: black;text-decoration: none">Online Boosting for Multilabel Ranking with Top-k Feedback</a></b>\
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a>\
     _Preprint_, 2020.
 
@@ -29,13 +32,13 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 
  1. <b><a href="https://arxiv.org/abs/2510.01394" style="color: black;text-decoration: none"> Optimal Stopping vs Best-of-N for Inference Time Optimization </a></b>\
    with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a>\
-    _In Submission_, 2025.
- 2.  <b><a href="http://arxiv.org/abs/2510.03917" style="color: black;text-decoration: none">  Transductive and Learning-Augmented Online Regression </a></b>\
-   with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a>\
-    _In Submission_, 2025.
- 3. <b><a href="https://arxiv.org/abs/2505.12050" style="color: black;text-decoration: none">AdaBoN: Adaptive Best-of-N Alignment</a></b>\
+    _In Submission_, 2026.
+ 2. <b><a href="https://arxiv.org/abs/2505.12050" style="color: black;text-decoration: none">AdaBoN: Adaptive Best-of-N Alignment</a></b>\
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
-    _In Submission_, 2025.
+    _In Submission_, 2026.
+3. <b>AI-rithmetic</b>\
+    with <a style="color: black;">Alex Bie</a>, <a style="color: black;">Travis Dick</a>, <a style="color: black;">Alex Kulesza</a>, <a style="color: black;">Prabhakar Raghavan</a>, <a style="color: black;">Sergei Vassilvitskii</a> \
+    _In Submission_, 2026.
     
 
 <h1 style="color: black;">Publications</h1>
