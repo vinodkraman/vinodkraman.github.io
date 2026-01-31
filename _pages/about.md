@@ -37,7 +37,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a>\
     _In Submission_, 2026.
 3. <b>AI-rithmetic</b>\
-    with <a style="color: black;">Alex Bie</a>, <a style="color: black;">Travis Dick</a>, <a style="color: black;">Alex Kulesza</a>, <a style="color: black;">Prabhakar Raghavan</a>, <a style="color: black;">Sergei Vassilvitskii</a> \
+    with <a href="https://alexbie98.github.io/" style="color: black;">Alex Bie</a>, <a href="https://travisbarrydick.github.io/" style="color: black;">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en" style="color: black;">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google" style="color: black;">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/" style="color: black;">Sergei Vassilvitskii</a> \
     _In Submission_, 2026.
     
 
