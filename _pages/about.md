@@ -179,8 +179,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </ol>
 </details>
 
-
-<h1 style="color: black; margin-top: 20px;">Talks</h1>
+<!-- <h1 style="color: black; margin-top: 20px;">Talks</h1>
 
 - Optimal Stopping vs Best-of-N for Inference Time Optimization (Percepta Job Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
 - Optimal Stopping vs Best-of-N for Inference Time Optimization (Google DeepMind Tech Talk 2025) [<b><a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing"  style="color: black;text-decoration: none">slides</a></b>] 
@@ -195,8 +194,8 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 - Revisiting the Learnability of Apple Tasting (MSSISS 2024)
 - Multiclass Online Learnability under Bandit Feedback (ALT 2024)
 - Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar)  [<b><a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
-- On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>]
+- On Classification-Calibration of Gamma-Phi Losses (COLT 2023) [<b><a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" style="color: black;text-decoration: none">slides</a></b>] -->
 
 <h1 style="color: black;">Hobbies</h1>
 
-Apart from research, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
+Apart from research and work, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
