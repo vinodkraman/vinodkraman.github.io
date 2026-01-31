@@ -45,7 +45,7 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
 </ol>
     
 
-<h1 style="color: black; margin-bottom: 10px;">Publications by Area</h1>
+<h1 style="color: black; margin-bottom: 15px;">Publications by Area</h1>
 <details>
 <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
 <ol>
