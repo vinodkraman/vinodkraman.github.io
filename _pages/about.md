@@ -46,7 +46,6 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
     
 
 <h1 style="color: black;">Publications</h1>
-
 <details>
 <summary><h3 style="display:inline-block; cursor:pointer;">Language Generation</h3></summary>
 <ol>
@@ -176,6 +175,7 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
     <i>Optics Express</i>, 2019.</li>
 </ol>
 </details>
+
 
 <h1 style="color: black;">Talks</h1>
 
