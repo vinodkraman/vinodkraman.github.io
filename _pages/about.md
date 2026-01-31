@@ -226,6 +226,6 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </ul>
 </details> -->
 
-h1 style="color: black; margin-top: 20px;">Hobbies</h1>
+<h1 style="color: black; margin-top: 20px;">Hobbies</h1>
 
 Apart from research and work, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
