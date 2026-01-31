@@ -73,7 +73,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </ol>
     
 
-<h1 style="color: black; margin-bottom: 5px;">Publications by Area</h1>
+<h1 style="color: black; margin-bottom: 15px;">Publications by Area</h1>
 
 <details>
 <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
@@ -205,7 +205,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </ol>
 </details>
 
-<details>
+<!-- <details>
 <summary>
   <h1 style="display:inline-block; cursor:pointer; color: black; margin-top: 60px;">Talks</h1>
 </summary>
@@ -224,7 +224,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 <li>Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar) <a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" class="paper-badge">Slides</a></li>
 <li>On Classification-Calibration of Gamma-Phi Losses (COLT 2023) <a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" class="paper-badge">Slides</a></li>
 </ul>
-</details>
+</details> -->
 
 <h1 style="color: black;">Hobbies</h1>
 
