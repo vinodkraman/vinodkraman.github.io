@@ -47,7 +47,7 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
 
 <h1 style="color: black; margin-bottom: 5px;">Publications</h1>
 <details>
-<summary><h3 style="display:inline-block; cursor:pointer;">Language Generation</h3></summary>
+<summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
 <ol>
 <li><b><a href="http://arxiv.org/abs/2505.17288" style="color: black;text-decoration: none">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation </a></b><br>
    with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a><br>
