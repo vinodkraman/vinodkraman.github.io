@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>
+<!-- <style>
   /* CSS for the Pill Badges */
   .paper-badge {
     display: inline-block;
@@ -20,6 +20,41 @@ redirect_from:
     border: 1px solid #e1e4e8;
     border-radius: 12px;
     text-decoration: none !important; /* Forces no underline */
+    vertical-align: middle;
+    transition: all 0.2s ease;
+  }
+  
+  .paper-badge:hover {
+    background-color: #e1e4e8;
+    color: #000;
+    transform: translateY(-1px);
+    text-decoration: none;
+  }
+</style> -->
+
+<style>
+  /* 1. Modern Font Settings */
+  body, h1, h2, h3, h4, h5, h6, p, li, a {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  /* Optional: Add a little breathing room to text */
+  p, li {
+    line-height: 1.6;
+  }
+
+  /* 2. CSS for the Pill Badges (Keep this) */
+  .paper-badge {
+    display: inline-block;
+    padding: 2px 8px;
+    margin-left: 6px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: #444;
+    background-color: #f1f3f5;
+    border: 1px solid #e1e4e8;
+    border-radius: 12px;
+    text-decoration: none !important;
     vertical-align: middle;
     transition: all 0.2s ease;
   }
