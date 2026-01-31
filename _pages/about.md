@@ -63,7 +63,7 @@ Beyond work, my research interests lie in the <strong>Foundations of Machine Lea
     
 <h3>Differential Privacy</h3>
 
-4. <b> Missing Mass for DIfferentially Private Domain Discovery </b>\
+4. <b> Missing Mass for Differentially Private Domain Discovery </b>\
    with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a>\
     _International Conference on Learning Representations (ICLR)_, 2026.
    
