@@ -110,7 +110,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 
 <h1 style="color: black; margin-bottom: 15px;">Publications</h1>
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
 <ol>
 <li><b>Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</b> <a href="http://arxiv.org/abs/2505.17288" class="paper-badge">PDF</a><br>
@@ -133,7 +133,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
 <ol start="5">
 <li><b>Missing Mass for Differentially Private Domain Discovery</b> <br>
@@ -151,7 +151,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
 <ol start="8">
 <li><b>Online Classification with Predictions</b> <a href="http://arxiv.org/abs/2405.14066" class="paper-badge">PDF</a><br>
@@ -173,7 +173,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
 <ol start="12">
 <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
@@ -203,7 +203,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
 <ol start="18">
 <li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
@@ -217,7 +217,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
 <ol start="20">
 <li><b>A Characterization of Multioutput Learnability</b> <a href="https://arxiv.org/abs/2301.02729" class="paper-badge">PDF</a><br>
@@ -231,7 +231,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </details>
 
 
-<details>
+<details open>
 <summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
 <ol start="22">
 <li><b>Design of thermophotovoltaics for tolerance of parasitic absorption</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="paper-badge">PDF</a><br>
