@@ -109,136 +109,139 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </ol>
 </details>
 
-<h1 style="color: black; margin-bottom: 15px;">Publications</h1>
-
 <details open>
-<summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
-<ol>
-<li><b>Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</b> <a href="http://arxiv.org/abs/2505.17288" class="paper-badge">PDF</a><br>
-   with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a><br>
-    <i>Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2026.<br>
-   also at <i>Conference on the Mathematical Theory of Deep Neural Networks (DeepMath)</i>, 2025.</li>
-    
-<li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
-    with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
-   
-<li><b>Representative Language Generation</b> <a href="http://arxiv.org/abs/2505.21819" class="paper-badge">PDF</a><br>
-    with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a>, <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a><br>
-    <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-    
-<li><b>Generation from Noisy Examples</b> <a href= "https://arxiv.org/abs/2501.04179" class="paper-badge">PDF</a><br>
-    with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a><br>
-    <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-</ol>
-</details>
+<summary><h1 style="color: black; margin-bottom: 15px; display:inline-block; cursor:pointer;">Publications</h1></summary>
+
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
+  <ol>
+  <li><b>Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</b> <a href="http://arxiv.org/abs/2505.17288" class="paper-badge">PDF</a><br>
+     with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a><br>
+      <i>Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2026.<br>
+     also at <i>Conference on the Mathematical Theory of Deep Neural Networks (DeepMath)</i>, 2025.</li>
+      
+  <li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
+      with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
+     
+  <li><b>Representative Language Generation</b> <a href="http://arxiv.org/abs/2505.21819" class="paper-badge">PDF</a><br>
+      with <a href="https://cpeale.github.io" style="color: black;"> Charlotte Peale </a>, <a href="https://omereingold.wordpress.com" style="color: black;">Omer Reingold</a><br>
+      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
+      
+  <li><b>Generation from Noisy Examples</b> <a href= "https://arxiv.org/abs/2501.04179" class="paper-badge">PDF</a><br>
+      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a><br>
+      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
+  </ol>
+  </details>
 
 
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
-<ol start="5">
-<li><b>Missing Mass for Differentially Private Domain Discovery</b> <br>
-   with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a><br>
-    <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
-   
-<li><b>Tracking the Best Expert Privately</b> <a href="https://arxiv.org/abs/2503.09889" class="paper-badge">PDF</a><br>
-    with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a><br>
-    <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-   
-<li><b>Faster Rates for Private Adversarial Bandits</b> <a href="http://arxiv.org/abs/2505.21790" class="paper-badge">PDF</a><br>
-    with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a><br>
-    <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-</ol>
-</details>
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
+  <ol start="5">
+  <li><b>Missing Mass for Differentially Private Domain Discovery</b> <br>
+     with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a><br>
+      <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
+     
+  <li><b>Tracking the Best Expert Privately</b> <a href="https://arxiv.org/abs/2503.09889" class="paper-badge">PDF</a><br>
+      with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://aadirupa.github.io" style="color: black;">Aadirupa Saha</a><br>
+      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
+     
+  <li><b>Faster Rates for Private Adversarial Bandits</b> <a href="http://arxiv.org/abs/2505.21790" class="paper-badge">PDF</a><br>
+      with <a href="https://web.stanford.edu/~asi/" style="color: black;">Hilal Asi</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a><br>
+      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
+  </ol>
+  </details>
 
 
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
-<ol start="8">
-<li><b>Online Classification with Predictions</b> <a href="http://arxiv.org/abs/2405.14066" class="paper-badge">PDF</a><br>
-    with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
-   
-<li><b>Smoothed Online Classification can be Harder than Batch Classification</b> <a href="https://arxiv.org/pdf/2405.15424" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
-   
-<li><b>Multiclass Transductive Online Learning</b> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
-    with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024. <span style="color: red">Spotlight.</span></li>
-
-<li><b>On Proper Learnability between Average- and Worst-case Robustness</b> <a href="https://arxiv.org/abs/2211.05656" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
-</ol>
-</details>
-
-
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
-<ol start="12">
-<li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
-   with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-   <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025. <span style="color: red">Oral Presentation.</span></li>
-   
-<li><b>A Unified Theory of Supervised Online Learnability</b> <a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025. <span style="color: red">Outstanding Paper Award.</span></li>
-    
-<li><b>Online Learning with Set-Valued Feedback</b> <a href="https://arxiv.org/abs/2306.06247" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
-    
-<li><b>Online Infinite-Dimensional Regression: Learning Linear Operators</b> <a href="https://arxiv.org/abs/2309.06548" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
-    
-<li><b>Multiclass Online Learning and Uniform Convergence</b> <a href="https://arxiv.org/abs/2303.17716" class="paper-badge">PDF</a><br>
-   with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/" style="color: black;">Shay Moran</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Learning Theory (COLT)</i>, 2023.</li>
-    
-<li><b>Online Agnostic Multiclass Boosting</b> <a href="https://arxiv.org/abs/2205.15113" class="paper-badge">PDF</a><br>
-    with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2022.</li>
-</ol>
-</details>
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
+  <ol start="8">
+  <li><b>Online Classification with Predictions</b> <a href="http://arxiv.org/abs/2405.14066" class="paper-badge">PDF</a><br>
+      with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
+     
+  <li><b>Smoothed Online Classification can be Harder than Batch Classification</b> <a href="https://arxiv.org/pdf/2405.15424" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
+     
+  <li><b>Multiclass Transductive Online Learning</b> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
+      with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024. <span style="color: red">Spotlight.</span></li>
+  
+  <li><b>On Proper Learnability between Average- and Worst-case Robustness</b> <a href="https://arxiv.org/abs/2211.05656" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
+  </ol>
+  </details>
 
 
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
-<ol start="18">
-<li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
-    with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
-    
-<li><b>Multiclass Online Learnability under Bandit Feedback</b> <a href="https://arxiv.org/abs/2308.04620" class="paper-badge">PDF</a><br>
-    with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
-</ol>
-</details>
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
+  <ol start="12">
+  <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
+     with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+     <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025. <span style="color: red">Oral Presentation.</span></li>
+     
+  <li><b>A Unified Theory of Supervised Online Learnability</b> <a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025. <span style="color: red">Outstanding Paper Award.</span></li>
+      
+  <li><b>Online Learning with Set-Valued Feedback</b> <a href="https://arxiv.org/abs/2306.06247" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
+      
+  <li><b>Online Infinite-Dimensional Regression: Learning Linear Operators</b> <a href="https://arxiv.org/abs/2309.06548" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
+      
+  <li><b>Multiclass Online Learning and Uniform Convergence</b> <a href="https://arxiv.org/abs/2303.17716" class="paper-badge">PDF</a><br>
+     with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/" style="color: black;">Shay Moran</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2023.</li>
+      
+  <li><b>Online Agnostic Multiclass Boosting</b> <a href="https://arxiv.org/abs/2205.15113" class="paper-badge">PDF</a><br>
+      with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2022.</li>
+  </ol>
+  </details>
 
 
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
-<ol start="20">
-<li><b>A Characterization of Multioutput Learnability</b> <a href="https://arxiv.org/abs/2301.02729" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
-    
-<li><b>On the Learnability of Multilabel Ranking</b> <a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
-    with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023. <span style="color: red">Spotlight.</span></li>
-</ol>
-</details>
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
+  <ol start="18">
+  <li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
+      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
+      
+  <li><b>Multiclass Online Learnability under Bandit Feedback</b> <a href="https://arxiv.org/abs/2308.04620" class="paper-badge">PDF</a><br>
+      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com" style="color: black;">Idan Mehalel</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
+  </ol>
+  </details>
 
 
-<details open>
-<summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
-<ol start="22">
-<li><b>Design of thermophotovoltaics for tolerance of parasitic absorption</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="paper-badge">PDF</a><br>
-    with Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a><br>
-    <i>Optics Express</i>, 2019.</li>
-</ol>
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
+  <ol start="20">
+  <li><b>A Characterization of Multioutput Learnability</b> <a href="https://arxiv.org/abs/2301.02729" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
+      
+  <li><b>On the Learnability of Multilabel Ranking</b> <a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023. <span style="color: red">Spotlight.</span></li>
+  </ol>
+  </details>
+
+
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
+  <ol start="22">
+  <li><b>Design of thermophotovoltaics for tolerance of parasitic absorption</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="paper-badge">PDF</a><br>
+      with Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a><br>
+      <i>Optics Express</i>, 2019.</li>
+  </ol>
+  </details>
+
 </details>
 
 <!-- <details>
