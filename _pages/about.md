@@ -76,8 +76,8 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </p>
 
 
-<h1 style="color: black;">Preprints</h1>
-
+<details>
+<summary><h1 style="color: black; display:inline-block; cursor:pointer;">Preprints</h1></summary>
 <ol>
 <li><b>On Generation in Metric Spaces</b><br>
     with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
@@ -92,9 +92,10 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>Preprint</i>, 2020.</li>
 </ol>
+</details>
 
-<h1 style="color: black;">In Submission</h1>
-
+<details>
+<summary><h1 style="color: black; display:inline-block; cursor:pointer;">In Submission</h1></summary>
 <ol>
  <li><b>Optimal Stopping vs Best-of-N for Inference Time Optimization</b> <a href="https://arxiv.org/abs/2510.01394" class="paper-badge">PDF</a><br>
    with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a><br>
@@ -106,7 +107,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
     with <a href="https://alexbie98.github.io/" style="color: black;">Alex Bie</a>, <a href="https://travisbarrydick.github.io/" style="color: black;">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en" style="color: black;">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google" style="color: black;">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/" style="color: black;">Sergei Vassilvitskii</a> <br>
     <i>In Submission</i>, 2026.</li>
 </ol>
-    
+</details>
 
 <h1 style="color: black; margin-bottom: 15px;">Publications</h1>
 
