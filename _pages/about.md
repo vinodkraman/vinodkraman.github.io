@@ -75,6 +75,10 @@ I completed my Ph.D. in <b><a href="https://lsa.umich.edu/stats" style="color: b
 My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on a bunch of topics in learning theory, including online learning, language generation, and differential privacy, among other things. More recently, I am interested in <strong>post-training</strong> for large language models, particularly <strong>reasoning</strong> and <strong>adaptive compute</strong>. 
 </p>
 
+<p style="color:#000000;">
+Apart from research and work, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
+</p>
+
 
 <details>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">Preprints</h1></summary>
@@ -264,7 +268,3 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 <li>On Classification-Calibration of Gamma-Phi Losses (COLT 2023) <a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" class="paper-badge">Slides</a></li>
 </ul>
 </details> -->
-
-<h1 style="color: black; margin-top: 20px;">Hobbies</h1>
-
-Apart from research and work, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
