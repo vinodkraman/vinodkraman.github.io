@@ -254,7 +254,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
       
-  <li><b>On the Learnability of Multilabel Ranking</b><span class="award-badge">Spotlight</span><a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
+  <li><b>On the Learnability of Multilabel Ranking</b> <span class="award-badge">Spotlight</span><a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
