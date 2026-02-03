@@ -194,7 +194,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
      
   <li><b>Multiclass Transductive Online Learning</b> <span class="award-badge">Spotlight</span> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
       with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024. <span style="color: red">Spotlight.</span></li>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
   
   <li><b>On Proper Learnability between Average- and Worst-case Robustness</b> <a href="https://arxiv.org/abs/2211.05656" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
@@ -208,11 +208,11 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
   <ol start="12">
   <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <span class="award-badge">Oral</span> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-     <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025. <span style="color: red">Oral Presentation.</span></li>
+     <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025.</li>
      
   <li><b>A Unified Theory of Supervised Online Learnability</b> <span class="award-badge">Outstanding Paper</span><a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025. <span style="color: red">Outstanding Paper Award.</span></li>
+      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025.</li>
       
   <li><b>Online Learning with Set-Valued Feedback</b> <a href="https://arxiv.org/abs/2306.06247" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
@@ -256,7 +256,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
       
   <li><b>On the Learnability of Multilabel Ranking</b><span class="award-badge">Spotlight</span><a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023. <span style="color: red">Spotlight.</span></li>
+      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
   </details>
 
