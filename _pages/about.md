@@ -78,6 +78,17 @@ redirect_from:
     transform: translateY(-1px);
     text-decoration: none;
   }
+  .award-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-left: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #c92a2a;            /* Dark red text */
+  background-color: #ffe3e3; /* Light pink/red background */
+  border: 1px solid #ffa8a8; /* Subtle red border */
+  border-radius: 12px;
+  vertical-align: middle;
 </style>
 
 I'm a Research Scientist at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval and ranking. 
