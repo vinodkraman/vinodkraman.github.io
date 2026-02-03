@@ -56,39 +56,44 @@ redirect_from:
     line-height: 1.6;
   }
 
-  /* 2. CSS for the Pill Badges (Keep this) */
-  .paper-badge {
+  /* --- BADGE STYLING --- */
+
+  /* Shared structure: This guarantees they look identical in size/shape */
+  .paper-badge, .award-badge {
     display: inline-block;
     padding: 2px 8px;
     margin-left: 6px;
     font-size: 0.75rem;
     font-weight: 600;
+    border-radius: 12px;
+    vertical-align: middle;
+    line-height: 1.2; /* Ensures consistency between links and plain text spans */
+    border: 1px solid transparent; /* Placeholder border to keep sizing even */
+  }
+
+  /* The Gray PDF Link style (Kept your preferred colors) */
+  .paper-badge {
     color: #444;
     background-color: #f1f3f5;
-    border: 1px solid #e1e4e8;
-    border-radius: 12px;
+    border-color: #e1e4e8;
     text-decoration: none !important;
-    vertical-align: middle;
     transition: all 0.2s ease;
   }
-  
+
+  /* Hover effect only for the PDF links */
   .paper-badge:hover {
     background-color: #e1e4e8;
     color: #000;
     transform: translateY(-1px);
-    text-decoration: none;
   }
+
+  /* The Red Award style */
   .award-badge {
-  display: inline-block;
-  padding: 2px 8px;
-  margin-left: 6px;
-  font-size: 0.75rem;
-  font-weight: 600;
-  color: #c92a2a;            /* Dark red text */
-  background-color: #ffe3e3; /* Light pink/red background */
-  border: 1px solid #ffa8a8; /* Subtle red border */
-  border-radius: 12px;
-  vertical-align: middle;
+    color: #c92a2a;
+    background-color: #ffe3e3;
+    border-color: #ffa8a8;
+    cursor: default; /* Indicates it's not clickable */
+  }
 </style>
 
 I'm a Research Scientist at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval and ranking. 
