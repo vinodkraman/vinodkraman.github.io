@@ -30,6 +30,19 @@ redirect_from:
     transform: translateY(-1px);
     text-decoration: none;
   }
+  
+  .award-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  margin-left: 6px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #c92a2a;            /* Dark red text */
+  background-color: #ffe3e3; /* Light pink/red background */
+  border: 1px solid #ffa8a8; /* Subtle red border */
+  border-radius: 12px;
+  vertical-align: middle;
+}
 </style> -->
 
 <style>
@@ -168,7 +181,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
      
-  <li><b>Multiclass Transductive Online Learning</b> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
+  <li><b>Multiclass Transductive Online Learning</b> <span class="award-badge">Spotlight</span> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
       with <a href="https://stevehanneke.com" style="color: black;">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en" style="color: black;">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a><br>
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024. <span style="color: red">Spotlight.</span></li>
   
@@ -182,11 +195,11 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
   <ol start="12">
-  <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
+  <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <span class="award-badge">Oral</span> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
      <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025. <span style="color: red">Oral Presentation.</span></li>
      
-  <li><b>A Unified Theory of Supervised Online Learnability</b> <a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
+  <li><b>A Unified Theory of Supervised Online Learnability</b> <span class="award-badge">Outstanding Paper</span><a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025. <span style="color: red">Outstanding Paper Award.</span></li>
       
@@ -230,7 +243,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
       
-  <li><b>On the Learnability of Multilabel Ranking</b> <a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
+  <li><b>On the Learnability of Multilabel Ranking</b><span class="award-badge">Spotlight</span><a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023. <span style="color: red">Spotlight.</span></li>
   </ol>
