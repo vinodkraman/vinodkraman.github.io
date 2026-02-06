@@ -171,7 +171,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
   <ol start="5">
-  <li><b>Missing Mass for Differentially Private Domain Discovery</b> <br>
+  <li><b>Missing Mass for Differentially Private Domain Discovery</b> <span class="award-badge">Spotlight</span><br>
      with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a><br>
       <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
      
