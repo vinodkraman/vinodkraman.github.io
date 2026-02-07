@@ -98,7 +98,7 @@ redirect_from:
 
 I'm a Research Scientist at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval and ranking. 
 
-I completed my Ph.D. in <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> in 2025, where I was fortunate to be advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. My Ph.D. was graciously supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>. Prior to my Ph.D, I double-majored in <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> also at UofM where I worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
+I completed my Ph.D. in <b><a href="https://lsa.umich.edu/stats" style="color: black;text-decoration: none">Statistics</a></b> at the <b><a href="https://umich.edu/" style="color: black;text-decoration: none">University of Michigan</a></b> in 2025, where I was fortunate to be advised by <b><a href="https://ambujtewari.github.io" style="color: black;text-decoration: none">Ambuj Tewari</a></b>. My Ph.D. was graciously supported by the <b><a href="https://www.nsfgrfp.org" style="color: black;text-decoration: none">National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025" style="color: black;text-decoration: none"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>. Prior to my Ph.D, I double-majored in <b><a href="https://cse.engin.umich.edu/" style="color: black;text-decoration: none">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/" style="color: black;text-decoration: none">Chemical Engineering</a></b> and worked with <b><a href="https://mahdi.ch" style="color: black;text-decoration: none">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/" style="color: black;text-decoration: none">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu" style="color: black;text-decoration: none">Andrej Lenert</a></b>. 
 
 <p style="color:#000000;">
 My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation, among other things. More recently, I am interested in <strong>post-training</strong> for large language models, particularly <strong>reasoning</strong> and <strong>adaptive compute</strong>. 
@@ -112,15 +112,12 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
 <details>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">Preprints</h1></summary>
 <ol>
-<li><b>On Generation in Metric Spaces</b><br>
-    with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
-    <i>Preprint</i>, 2026.</li>
 <li><b>Estimating the (Un)seen: Sample-dependent Mass Estimation</b> <a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="paper-badge">PDF</a><br>
     with <a href="https://vtaly.net" style="color: black;">Vitaly Feldman</a>, <a href="https://www.satyenkale.com" style="color: black;">Satyen Kale</a>, <a href="http://kunaltalwar.org" style="color: black;">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>Preprint</i>, 2025.</li>
 <li><b>Transductive and Learning-Augmented Online Regression</b> <a href="http://arxiv.org/abs/2510.03917" class="paper-badge">PDF</a><br>
    with <a href="https://sites.google.com/view/shenghaoxie/" style="color: black;"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io" style="color: black;"> Samson Zhou </a><br>
-    <i>In Submission</i>, 2025.</li>
+    <i>Preprint</i>, 2025.</li>
 <li><b>Online Boosting for Multilabel Ranking with Top-k Feedback</b> <a href="https://arxiv.org/abs/1910.10937" class="paper-badge">PDF</a><br>
     with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>Preprint</i>, 2020.</li>
@@ -130,6 +127,9 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
 <details>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">In Submission</h1></summary>
 <ol>
+<li><b>On Generation in Metric Spaces</b><a href="https://drive.google.com/file/d/1eZY2hG79MFBfy0cmZT2NqdY63OV0RfUi/view?usp=sharing" class="paper-badge">PDF</a><br>
+    with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+    <i>In Submission</i>, 2026.</li>
  <li><b>Optimal Stopping vs Best-of-N for Inference Time Optimization</b> <a href="https://arxiv.org/abs/2510.01394" class="paper-badge">PDF</a><br>
    with <a href="https://yhkalayci.github.io" style="color: black;"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/" style="color: black;"> Shaddin Dughmi </a><br>
     <i>In Submission</i>, 2026.</li>
