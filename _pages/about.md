@@ -106,7 +106,7 @@ I completed my Ph.D. in <b><a href="https://lsa.umich.edu/stats" style="color: b
 </p>
 
 <p style="color:#000000;">
-My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation, among other things. More recently, I am interested in <strong>post-training</strong> for large language models, particularly <strong>reasoning</strong> and <strong>adaptive compute</strong>. 
+My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation, among other things. Nowadays, I work on <strong>post-training</strong> for large language models, particularly <strong>reasoning</strong> and <strong>adaptive inference-time compute</strong>. 
 </p>
 
 <p style="color:#000000;">
