@@ -129,7 +129,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
 </ol>
 </details>
 
-<details>
+<details open>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">In Submission</h1></summary>
 <ol>
 <li><b>On Generation in Metric Spaces</b> <a href="https://drive.google.com/file/d/1eZY2hG79MFBfy0cmZT2NqdY63OV0RfUi/view?usp=sharing" class="paper-badge">PDF</a><br>
