@@ -132,7 +132,7 @@ Apart from research and work, I am a fan of bodybuilding and actively keep up wi
 <details open>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">In Submission</h1></summary>
 <ol>
-<li><b>On Generation in Metric Spaces</b> <a href="https://drive.google.com/file/d/1eZY2hG79MFBfy0cmZT2NqdY63OV0RfUi/view?usp=sharing" class="paper-badge">PDF</a><br>
+<li><b>On Generation in Metric Spaces</b> <a href="https://www.arxiv.org/abs/2602.07710" class="paper-badge">PDF</a><br>
     with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>In Submission</i>, 2026.</li>
  <li><b>Optimal Stopping vs Best-of-N for Inference Time Optimization</b> <a href="https://arxiv.org/abs/2510.01394" class="paper-badge">PDF</a><br>
