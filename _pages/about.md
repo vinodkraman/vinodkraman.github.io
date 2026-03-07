@@ -155,7 +155,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
     <i>ICLR 2026 Workshop on I Can't Believe It's Not Better (ICBINB)</i>, 2026.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
   <ol start="2">
@@ -177,7 +176,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
   <ol start="6">
@@ -194,7 +192,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
   <ol start="9">
@@ -215,7 +212,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
   <ol start="13">
@@ -256,7 +252,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
   <ol start="21">
@@ -269,7 +264,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
   <ol start="23">
