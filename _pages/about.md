@@ -158,7 +158,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
-  <ol>
+  <ol start="2">
   <li><b>Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</b> <a href="http://arxiv.org/abs/2505.17288" class="paper-badge">PDF</a><br>
      with <a href="https://somerstep.github.io" style="color: black;"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io" style="color: black;"> Unique Subedi </a>,<a href="https://yuekai.github.io" style="color: black;"> Yuekai Sun </a><br>
       <i>Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2026.<br>
@@ -181,7 +181,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
-  <ol start="5">
+  <ol start="6">
   <li><b>Missing Mass for Differentially Private Domain Discovery</b> <span class="award-badge">Oral</span> <a href="https://drive.google.com/file/d/1UHKCF9krT0khLvxWLvC0HJojKx4PcScF/view?usp=sharing" class="paper-badge">PDF</a><br>
      with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a><br>
       <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
@@ -199,7 +199,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
-  <ol start="8">
+  <ol start="9">
   <li><b>Online Classification with Predictions</b> <a href="http://arxiv.org/abs/2405.14066" class="paper-badge">PDF</a><br>
       with <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
@@ -221,7 +221,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
-  <ol start="12">
+  <ol start="13">
   <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <span class="award-badge">Oral</span> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
      <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025.</li>
@@ -251,7 +251,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
-  <ol start="18">
+  <ol start="19">
   <li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
       with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en" style="color: black;"> Ananth Raman </a>, <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
@@ -265,7 +265,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
-  <ol start="20">
+  <ol start="21">
   <li><b>A Characterization of Multioutput Learnability</b> <a href="https://arxiv.org/abs/2301.02729" class="paper-badge">PDF</a><br>
       with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
       <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
@@ -279,7 +279,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
-  <ol start="22">
+  <ol start="23">
   <li><b>Design of thermophotovoltaics for tolerance of parasitic absorption</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="paper-badge">PDF</a><br>
       with Tobias Burger, <a href="https://lenert.engin.umich.edu" style="color: black;">Andrej Lenert</a><br>
       <i>Optics Express</i>, 2019.</li>
