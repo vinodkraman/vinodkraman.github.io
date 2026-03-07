@@ -178,7 +178,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
   </ol>
   </details>
 
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Differential Privacy</h3></summary>
   <ol start="6">
@@ -195,7 +194,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
   </ol>
   </details>
-
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Beyond Worst-case Guarantees for Learning</h3></summary>
@@ -217,7 +215,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
   </details>
-
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Online Learning</h3></summary>
@@ -248,7 +245,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
   </ol>
   </details>
 
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
   <ol start="19">
@@ -262,7 +258,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
   </ol>
   </details>
 
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Multioutput Learning</h3></summary>
   <ol start="21">
@@ -275,7 +270,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
   </ol>
   </details>
-
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Other</h3></summary>
