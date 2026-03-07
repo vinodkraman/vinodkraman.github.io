@@ -141,14 +141,20 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
  <li><b>AdaBoN: Adaptive Best-of-N Alignment</b> <a href="https://arxiv.org/abs/2505.12050" class="paper-badge">PDF</a><br>
     with <a href="https://web.stanford.edu/~asi/" style="color: black;"> Hilal Asi </a>, <a href="https://www.satyenkale.com" style="color: black;"> Satyen Kale </a><br>
     <i>In Submission</i>, 2026.</li>
-<li><b>AI-rithmetic</b> <a href="https://www.arxiv.org/abs/2602.10416" class="paper-badge">PDF</a><br>
-    with <a href="https://alexbie98.github.io/" style="color: black;">Alex Bie</a>, <a href="https://travisbarrydick.github.io/" style="color: black;">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en" style="color: black;">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google" style="color: black;">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/" style="color: black;">Sergei Vassilvitskii</a> <br>
-    <i>In Submission</i>, 2026.</li>
 </ol>
 </details>
 
 <details open>
 <summary><h1 style="color: black; margin-bottom: 15px; display:inline-block; cursor:pointer;">Publications</h1></summary>
+
+  <details open style="margin-left: 15px;">
+  <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Large Language Models</h3></summary>
+  <ol>
+  <li><b>AI-rithmetic</b> <a href="https://www.arxiv.org/abs/2602.10416" class="paper-badge">PDF</a><br>
+    with <a href="https://alexbie98.github.io/" style="color: black;">Alex Bie</a>, <a href="https://travisbarrydick.github.io/" style="color: black;">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en" style="color: black;">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google" style="color: black;">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/" style="color: black;">Sergei Vassilvitskii</a> <br>
+    <i>ICLR 2026 Workshop on I Can't Believe It's Not Better (ICBINB)</i>, 2026.</li>
+  </ol>
+  </details>
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Language Generation</h3></summary>
