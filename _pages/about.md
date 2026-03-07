@@ -244,7 +244,6 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
       <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2022.</li>
   </ol>
   </details>
-
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer;">Partial Feedback</h3></summary>
   <ol start="19">
