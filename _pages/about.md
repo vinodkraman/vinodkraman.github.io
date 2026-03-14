@@ -152,7 +152,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
   <ol>
   <li><b>AI-rithmetic</b> <a href="https://www.arxiv.org/abs/2602.10416" class="paper-badge">PDF</a><br>
     with <a href="https://alexbie98.github.io/" style="color: black;">Alex Bie</a>, <a href="https://travisbarrydick.github.io/" style="color: black;">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en" style="color: black;">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google" style="color: black;">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/" style="color: black;">Sergei Vassilvitskii</a> <br>
-    <i>ICLR 2026 Workshop on I Can't Believe It's Not Better (ICBINB)</i>, 2026.</li>
+    <i>ICLR Workshop on I Can't Believe It's Not Better (ICBINB)</i>, 2026.</li>
   </ol>
   </details>
   <details open style="margin-left: 15px;">
