@@ -132,6 +132,9 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 <details open>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">In Submission</h1></summary>
 <ol>
+<li><b>GroupDPO: Memory efficient Group-wise Direct Preference Optimization</b> <br>
+    with Jixuan Leng, <a href="https://springdaisy.github.io/" style="color: black;"> Si Si </a>, <a href="https://www.cs.utexas.edu/~rofuyu/" style="color: black;"> Hsiang-Fu Yu </a>, <a href="https://www.cs.utexas.edu/~inderjit/" style="color: black;"> Inderjit S Dhillon</a><br>
+    <i>In Submission</i>, 2026.</li>
 <li><b>On Generation in Metric Spaces</b> <a href="https://www.arxiv.org/abs/2602.07710" class="paper-badge">PDF</a><br>
     with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
     <i>In Submission</i>, 2026.</li>
