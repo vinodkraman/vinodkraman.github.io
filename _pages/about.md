@@ -113,6 +113,21 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 Apart from research, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com" style="color: black;text-decoration: none">Mr. Olympia</a></b>.
 </p>
 
+<details open>
+<summary><h1 style="color: black; display:inline-block; cursor:pointer;">Selected Publications</h1></summary>
+<ol>
+<li><b>Missing Mass for Differentially Private Domain Discovery</b> <span class="award-badge">Oral</span> <a href="http://arxiv.org/abs/2603.14016" class="paper-badge">PDF</a><br>
+     with <a href="https://www.majos.net" style="color: black;"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io" style="color: black;"> Travis Dick </a><br>
+      <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
+<li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
+      with <a href="https://jiaxun-li.github.io" style="color: black;"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
+<li><b>A Unified Theory of Supervised Online Learnability</b> <span class="award-badge">Outstanding Paper</span><a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
+      with <a href="https://unique-subedi.github.io" style="color: black;">Unique Subedi</a>, <a href="https://ambujtewari.github.io" style="color: black;">Ambuj Tewari</a><br>
+      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025.</li>
+</ol>
+</details>
+
 
 <details>
 <summary><h1 style="color: black; display:inline-block; cursor:pointer;">Preprints</h1></summary>
@@ -148,7 +163,7 @@ Apart from research, I am a fan of bodybuilding and actively keep up with the <b
 </details>
 
 <details open>
-<summary><h1 style="color: black; margin-bottom: 15px; display:inline-block; cursor:pointer;">Publications</h1></summary>
+<summary><h1 style="color: black; margin-bottom: 15px; display:inline-block; cursor:pointer;">All Publications</h1></summary>
 
   <details open style="margin-left: 15px;">
   <summary><h3 style="display:inline-block; cursor:pointer; margin-top: 0px;">Large Language Models</h3></summary>
