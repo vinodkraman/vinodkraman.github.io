@@ -98,7 +98,7 @@ redirect_from:
 
 
 <p style="color:#000000;">
-I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval and ranking. 
+I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google" style="color: black;text-decoration: none">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for retrieval from massive, structured data. 
 </p>
 
 <p style="color:#000000;">
