@@ -175,25 +175,22 @@ redirect_from:
     border-color: #fecaca;
   }
 
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --text: #f9fafb;
-      --muted: #d1d5db;
-      --soft: #9ca3af;
-      --line: #374151;
-      --surface: #111827;
-      --surface-soft: #0f172a;
-      --accent: #60a5fa;
-      --accent-soft: rgba(96, 165, 250, 0.12);
-      --award: #fca5a5;
-      --award-soft: rgba(248, 113, 113, 0.12);
-      --shadow: none;
-    }
+
+
+  /* Keep this page light even if the site/browser is in dark mode.
+     The original theme does not fully support dark mode, so forcing dark
+     variables created white text on a white page. */
+  html, body, .layout--single, .page, .page__content {
+    background: #ffffff !important;
+  }
+
+  .page__content {
+    color-scheme: light;
   }
 </style>
 
 <p>
-I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for generative and agentic retrieval.
+I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for long-context retrieval.
 </p>
 
 <p>
