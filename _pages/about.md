@@ -190,7 +190,7 @@ redirect_from:
 </style>
 
 <p>
-I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for long-context retrieval.
+I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for generative and agentic retrieval.
 </p>
 
 <p>
