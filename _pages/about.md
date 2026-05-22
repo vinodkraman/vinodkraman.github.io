@@ -202,7 +202,7 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 </p>
 
 <p>
-In my free time, I am a fan of bodybuilding and actively keep up with the <b><a href="https://mrolympia.com">Mr. Olympia</a></b>.
+My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.
 </p>
 
 <details open>
