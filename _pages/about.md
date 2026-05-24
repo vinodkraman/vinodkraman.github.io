@@ -7,401 +7,684 @@ redirect_from:
   - /about.html
 ---
 
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet">
+
 <style>
   :root {
-    --text: #111827;
-    --muted: #4b5563;
-    --soft: #6b7280;
-    --line: #e5e7eb;
-    --surface: #ffffff;
-    --surface-soft: #f8fafc;
-    --accent: #2563eb;
-    --accent-soft: #eff6ff;
-    --award: #b91c1c;
-    --award-soft: #fef2f2;
-    --shadow: 0 10px 30px rgba(15, 23, 42, 0.06);
+    --ink: #0f0e0c;
+    --ink2: #3a3832;
+    --ink3: #7a7770;
+    --paper: #faf9f6;
+    --paper2: #f2f0eb;
+    --paper3: #e8e5de;
+    --accent: #c84b2f;
+    --line: #ddd9d0;
+    --serif: 'DM Serif Display', Georgia, serif;
+    --sans: 'Outfit', sans-serif;
+    --mono: 'DM Mono', monospace;
   }
 
-  body, h1, h2, h3, h4, h5, h6, p, li, a, summary {
-    font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-    color: var(--text);
+  .page__content,
+  .page__content p,
+  .page__content li,
+  .page__content a,
+  .page__content summary {
+    font-family: var(--sans) !important;
   }
 
   .page__content {
-    font-size: 0.98rem;
+    font-size: 1rem;
     line-height: 1.75;
   }
 
   .page__content p {
-    color: var(--muted) !important;
-    margin: 0 0 1.05rem;
+    color: var(--ink2) !important;
+    margin: 0 0 1rem;
   }
 
-  .page__content strong,
-  .page__content b {
-    color: var(--text);
-    font-weight: 700;
-  }
-
-  .page__content a {
-    color: var(--text) !important;
-    text-decoration: none !important;
-    text-underline-offset: 3px;
-    transition: color 160ms ease, background-color 160ms ease, border-color 160ms ease, transform 160ms ease;
-  }
-
-  .page__content p a,
-  .page__content li a:not(.paper-badge) {
-    border-bottom: 1px solid rgba(37, 99, 235, 0.25);
-  }
-
-  .page__content p a:hover,
-  .page__content li a:not(.paper-badge):hover {
-    color: var(--accent) !important;
-    border-bottom-color: rgba(37, 99, 235, 0.65);
-  }
-
-  .page__content details {
-    margin: 1.25rem 0;
-    padding: 1.05rem 1.15rem;
-    background: linear-gradient(180deg, var(--surface), var(--surface-soft));
-    border: 1px solid var(--line);
-    border-radius: 18px;
-    box-shadow: var(--shadow);
-  }
-
-  .page__content details details {
-    margin: 0.85rem 0 0.85rem 0 !important;
-    padding: 0.85rem 0.95rem;
-    border-radius: 14px;
-    box-shadow: none;
-    background: rgba(255, 255, 255, 0.72);
-  }
-
-  .page__content summary {
-    cursor: pointer;
-    list-style: none;
-  }
-
-  .page__content summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .page__content summary::before {
-    content: "▸";
-    display: inline-block;
-    margin-right: 0.55rem;
-    color: var(--accent);
-    font-size: 0.9rem;
-    transform: translateY(-1px);
-    transition: transform 160ms ease;
-  }
-
-  .page__content details[open] > summary::before {
-    transform: rotate(90deg) translateX(1px);
-  }
-
-  .page__content summary h1,
-  .page__content summary h3 {
-    display: inline-block !important;
-    margin: 0 !important;
-    color: var(--text) !important;
-    letter-spacing: -0.025em;
-  }
-
-  .page__content summary h1 {
-    font-size: clamp(1.25rem, 2vw, 1.65rem);
-  }
-
-  .page__content summary h3 {
-    font-size: 1.02rem;
-    color: var(--muted) !important;
-  }
-
-  .page__content ol,
-  .page__content ul {
-    margin-top: 1rem;
-    padding-left: 1.35rem;
-  }
-
-  .page__content li {
-    margin: 0.85rem 0;
-    padding-left: 0.25rem;
-    color: var(--muted);
-  }
-
-  .page__content li::marker {
-    color: var(--soft);
+  .page__content strong, .page__content b {
+    color: var(--ink);
     font-weight: 600;
   }
 
-  .page__content li b:first-child {
-    font-size: 1.01rem;
+  .page__content a {
+    color: var(--ink) !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid var(--accent);
+    padding-bottom: 1px;
+    transition: color 0.15s;
   }
 
-  .page__content i {
-    color: var(--soft);
+  .page__content a:hover {
+    color: var(--accent) !important;
   }
 
-  .paper-badge, .award-badge {
+  /* Override for tags — no underline border */
+  .page__content a.tag-pdf,
+  .page__content a.tag-pdf:hover {
+    border-bottom: none !important;
+    padding-bottom: 0 !important;
+  }
+
+  html, body, .layout--single, .page, .page__content {
+    background: #faf9f6 !important;
+  }
+
+  /* SECTION HEADERS */
+  .vr-section {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin: 2.75rem 0 1.75rem;
+  }
+
+  .vr-section-num {
+    font-family: var(--mono);
+    font-size: 0.65rem;
+    color: var(--ink3);
+    letter-spacing: 0.1em;
+  }
+
+  .vr-section-title {
+    font-family: var(--serif) !important;
+    font-size: 1.7rem !important;
+    letter-spacing: -0.02em;
+    color: var(--ink) !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    border: none !important;
+  }
+
+  .vr-section-line {
+    flex: 1;
+    height: 1px;
+    background: var(--line);
+  }
+
+  /* PAPER LIST */
+  .vr-papers {
+    list-style: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .vr-paper {
+    display: grid;
+    grid-template-columns: 2.25rem 1fr;
+    gap: 0 1.5rem;
+    padding: 1.5rem 0 !important;
+    border-bottom: 1px solid var(--line);
+    margin: 0 !important;
+  }
+
+  .vr-papers .vr-paper:first-child {
+    border-top: 1px solid var(--line);
+  }
+
+  .vr-num {
+    font-family: var(--mono);
+    font-size: 0.7rem;
+    color: var(--ink3);
+    padding-top: 0.15rem;
+  }
+
+  .vr-title {
+    font-family: var(--serif) !important;
+    font-size: 1.08rem;
+    color: var(--ink) !important;
+    letter-spacing: -0.01em;
+    line-height: 1.3;
+    margin-bottom: 0.3rem;
+    display: block;
+  }
+
+  .vr-authors {
+    font-size: 0.82rem;
+    color: var(--ink3);
+    margin-bottom: 0.3rem;
+    display: block;
+    line-height: 1.5;
+  }
+
+  /* override link style inside authors */
+  .page__content .vr-authors a {
+    border-bottom: none !important;
+    color: var(--ink3) !important;
+    padding-bottom: 0 !important;
+  }
+  .page__content .vr-authors a:hover {
+    color: var(--accent) !important;
+  }
+
+  .vr-venue {
+    font-size: 0.8rem;
+    color: var(--ink2);
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    display: block;
+  }
+
+  .vr-tags {
+    display: flex;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+
+  .tag {
+    font-family: var(--mono) !important;
+    font-size: 0.63rem !important;
+    letter-spacing: 0.06em;
+    padding: 0.18rem 0.55rem;
+    border-radius: 2px;
+    text-transform: uppercase;
     display: inline-flex;
     align-items: center;
-    gap: 0.25rem;
-    padding: 0.18rem 0.55rem;
-    margin-left: 0.35rem;
-    border-radius: 999px;
-    border: 1px solid transparent;
-    font-size: 0.72rem;
-    font-weight: 700;
-    line-height: 1.2;
-    vertical-align: middle;
     white-space: nowrap;
   }
 
-  .paper-badge {
+  .tag-award {
+    background: #fef2eb;
     color: var(--accent) !important;
-    background: var(--accent-soft);
-    border-color: #bfdbfe;
+    border: 1px solid #f5c9b3;
   }
 
-  .paper-badge:hover {
-    background: #dbeafe;
-    transform: translateY(-1px);
+  .tag-pdf {
+    background: var(--paper3);
+    color: var(--ink2) !important;
+    border: 1px solid var(--line);
+    text-decoration: none !important;
+    transition: background 0.15s, color 0.15s;
+    border-bottom: none !important;
+    padding-bottom: 0.18rem !important;
   }
 
-  .award-badge {
-    color: var(--award);
-    background: var(--award-soft);
-    border-color: #fecaca;
+  .page__content a.tag-pdf:hover {
+    background: var(--ink) !important;
+    color: var(--paper) !important;
+    border-color: var(--ink) !important;
   }
 
-
-
-  /* Keep this page light even if the site/browser is in dark mode.
-     The original theme does not fully support dark mode, so forcing dark
-     variables created white text on a white page. */
-  html, body, .layout--single, .page, .page__content {
-    background: #ffffff !important;
+  /* TABS */
+  .vr-tab-nav {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 0;
+    gap: 0;
   }
 
-  .page__content {
-    color-scheme: light;
+  .vr-tab-btn {
+    font-family: var(--mono) !important;
+    font-size: 0.68rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    padding: 0.65rem 1rem;
+    border: none;
+    background: none;
+    color: var(--ink3);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+    transition: color 0.15s, border-color 0.15s;
+  }
+
+  .vr-tab-btn.active {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+
+  .vr-tab-btn:hover { color: var(--ink2); }
+
+  .vr-tab-panel { display: none; }
+  .vr-tab-panel.active {
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* Intro badges */
+  .vr-badge-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin-top: 1.25rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--line);
+  }
+
+  .vr-badge {
+    font-family: var(--mono) !important;
+    font-size: 0.65rem;
+    letter-spacing: 0.07em;
+    padding: 0.28rem 0.7rem;
+    border-radius: 2px;
+    text-transform: uppercase;
+    border: 1px solid var(--ink3);
+    color: var(--ink3) !important;
+    border-bottom: 1px solid var(--ink3) !important;
   }
 </style>
 
 <p>
-I'm a <strong>Research Scientist</strong> at <b><a href="https://deepmind.google">Google DeepMind</a></b> working on improving Gemini's fundamental capabilities for generative and agentic retrieval.
+I'm a <strong>Research Scientist</strong> at <a href="https://deepmind.google">Google DeepMind</a> working on improving Gemini's fundamental capabilities for generative and agentic retrieval.
 </p>
 
 <p>
-I completed my Ph.D. in <b><a href="https://lsa.umich.edu/stats">Statistics</a></b> at the <b><a href="https://umich.edu/">University of Michigan</a></b> in 2025, where I was fortunate to be advised by <b><a href="https://ambujtewari.github.io">Ambuj Tewari</a></b>. My Ph.D. was graciously supported by the <b><a href="https://www.nsfgrfp.org"> 2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a></b> and the <b><a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025"> 2025 Apple Scholars in AI/ML PhD Fellowship</a></b>. Prior to my Ph.D, I double-majored in <b><a href="https://cse.engin.umich.edu/">Computer Science</a></b> and <b><a href="https://che.engin.umich.edu/">Chemical Engineering</a></b> and worked with <b><a href="https://mahdi.ch">Mahdi Cheraghchi</a></b>, <b><a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a></b>, and <b><a href="https://lenert.engin.umich.edu">Andrej Lenert</a></b>. 
+I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at the <a href="https://umich.edu/">University of Michigan</a> in 2025, where I was fortunate to be advised by <a href="https://ambujtewari.github.io">Ambuj Tewari</a>. My Ph.D. was graciously supported by the <a href="https://www.nsfgrfp.org">2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a> and the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a>. Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Computer Science</a> and <a href="https://che.engin.umich.edu/">Chemical Engineering</a> and worked with <a href="https://mahdi.ch">Mahdi Cheraghchi</a>, <a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a>, and <a href="https://lenert.engin.umich.edu">Andrej Lenert</a>.
 </p>
 
 <p>
-My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation, among other things. Nowadays, I work broadly in <strong>Post-training</strong> and <strong>Reinforcement Learning</strong> for large language models. 
+My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation. Nowadays, I work broadly in <strong>Post-training</strong> and <strong>Reinforcement Learning</strong> for large language models.
 </p>
 
-<p>
-My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.
-</p>
+<p>My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.</p>
 
-<details open>
-<summary><h1>Selected Publications</h1></summary>
-<ol>
-<li><b>Missing Mass for Differentially Private Domain Discovery</b> <span class="award-badge">Oral</span> <a href="http://arxiv.org/abs/2603.14016" class="paper-badge">PDF</a><br>
-     with <a href="https://www.majos.net"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io"> Travis Dick </a><br>
-      <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
-<li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
-      with <a href="https://jiaxun-li.github.io"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
-<li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
-      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en"> Ananth Raman </a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
-</ol>
-</details>
+<div class="vr-badge-row">
+  <span class="vr-badge">Learning Theory</span>
+  <span class="vr-badge">Online Learning</span>
+  <span class="vr-badge">Differential Privacy</span>
+  <span class="vr-badge">Post-training LLMs</span>
+  <span class="vr-badge">RL for LLMs</span>
+</div>
 
+<!-- SELECTED PUBLICATIONS -->
+<div class="vr-section">
+  <span class="vr-section-num">01</span>
+  <h2 class="vr-section-title">Selected Publications</h2>
+  <div class="vr-section-line"></div>
+</div>
 
-<details open>
-<summary><h1>In Submission</h1></summary>
-<ol>
-<li><b>GroupDPO: Memory efficient Group-wise Direct Preference Optimization</b> <a href="https://arxiv.org/abs/2604.15602" class="paper-badge">PDF</a><br>
-    with Jixuan Leng, <a href="https://springdaisy.github.io/"> Si Si </a>, <a href="https://www.cs.utexas.edu/~rofuyu/"> Hsiang-Fu Yu </a>, <a href="https://www.cs.utexas.edu/~inderjit/"> Inderjit S Dhillon</a><br>
-    <i>In Submission</i>, 2026.</li>
-<li><b>On Generation in Metric Spaces</b> <a href="https://www.arxiv.org/abs/2602.07710" class="paper-badge">PDF</a><br>
-    with <a href="https://jiaxun-li.github.io"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-    <i>In Submission</i>, 2026.</li>
- <li><b>Optimal Stopping vs Best-of-N for Inference Time Optimization</b> <a href="https://arxiv.org/abs/2510.01394" class="paper-badge">PDF</a><br>
-   with <a href="https://yhkalayci.github.io"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/"> Shaddin Dughmi </a><br>
-    <i>In Submission</i>, 2026.</li>
-</ol>
-</details>
-
-<details>
-<summary><h1>Preprints</h1></summary>
-<ol>
-<li><b>Estimating the (Un)seen: Sample-dependent Mass Estimation</b> <a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="paper-badge">PDF</a><br>
-    with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-    <i>Preprint</i>, 2025.</li>
-<li><b>AdaBoN: Adaptive Best-of-N Alignment</b> <a href="https://arxiv.org/abs/2505.12050" class="paper-badge">PDF</a><br>
-  with <a href="https://web.stanford.edu/~asi/"> Hilal Asi </a>, <a href="https://www.satyenkale.com"> Satyen Kale </a><br>
-  <i>Preprint</i>, 2026.</li>
-<li><b>Transductive and Learning-Augmented Online Regression</b> <a href="http://arxiv.org/abs/2510.03917" class="paper-badge">PDF</a><br>
-   with <a href="https://sites.google.com/view/shenghaoxie/"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io"> Samson Zhou </a><br>
-    <i>Preprint</i>, 2025.</li>
-<li><b>Online Boosting for Multilabel Ranking with Top-k Feedback</b> <a href="https://arxiv.org/abs/1910.10937" class="paper-badge">PDF</a><br>
-    with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-    <i>Preprint</i>, 2020.</li>
-</ol>
-</details>
-
-<details open>
-<summary><h1>All Publications</h1></summary>
-
-  <details open>
-  <summary><h3>Large Language Models</h3></summary>
-  <ol>
-  <li><b>AI-rithmetic</b> <a href="https://www.arxiv.org/abs/2602.10416" class="paper-badge">PDF</a><br>
-    with <a href="https://alexbie98.github.io/">Alex Bie</a>, <a href="https://travisbarrydick.github.io/">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/">Sergei Vassilvitskii</a> <br>
-    <i>ICLR Workshop on I Can't Believe It's Not Better (ICBINB)</i>, 2026.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Language Generation</h3></summary>
-  <ol start="2">
-  <li><b>Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</b> <a href="http://arxiv.org/abs/2505.17288" class="paper-badge">PDF</a><br>
-     with <a href="https://somerstep.github.io"> Seamus Somerstep </a>, <a href="https://unique-subedi.github.io"> Unique Subedi </a>,<a href="https://yuekai.github.io"> Yuekai Sun </a><br>
-      <i>Conference on Artificial Intelligence and Statistics (AISTATS)</i>, 2026.<br>
-     also at <i>Conference on the Mathematical Theory of Deep Neural Networks (DeepMath)</i>, 2025.</li>
-      
-  <li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
-      with <a href="https://jiaxun-li.github.io"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
-     
-  <li><b>Representative Language Generation</b> <a href="http://arxiv.org/abs/2505.21819" class="paper-badge">PDF</a><br>
-      with <a href="https://cpeale.github.io"> Charlotte Peale </a>, <a href="https://omereingold.wordpress.com">Omer Reingold</a><br>
-      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-      
-  <li><b>Generation from Noisy Examples</b> <a href= "https://arxiv.org/abs/2501.04179" class="paper-badge">PDF</a><br>
-      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en"> Ananth Raman </a><br>
-      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Differential Privacy</h3></summary>
-  <ol start="6">
-  <li><b>Missing Mass for Differentially Private Domain Discovery</b> <span class="award-badge">Oral</span> <a href="http://arxiv.org/abs/2603.14016" class="paper-badge">PDF</a><br>
-     with <a href="https://www.majos.net"> Matthew Joseph </a>, <a href="https://travisbarrydick.github.io"> Travis Dick </a><br>
-      <i>International Conference on Learning Representations (ICLR)</i>, 2026.</li>
-     
-  <li><b>Tracking the Best Expert Privately</b> <a href="https://arxiv.org/abs/2503.09889" class="paper-badge">PDF</a><br>
-      with <a href="https://web.stanford.edu/~asi/"> Hilal Asi </a>, <a href="https://aadirupa.github.io">Aadirupa Saha</a><br>
-      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-     
-  <li><b>Faster Rates for Private Adversarial Bandits</b> <a href="http://arxiv.org/abs/2505.21790" class="paper-badge">PDF</a><br>
-      with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a><br>
-      <i>International Conference on Machine Learning (ICML)</i>, 2025.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Beyond Worst-case Guarantees for Learning</h3></summary>
-  <ol start="9">
-  <li><b>Online Classification with Predictions</b> <a href="http://arxiv.org/abs/2405.14066" class="paper-badge">PDF</a><br>
-      with <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
-     
-  <li><b>Smoothed Online Classification can be Harder than Batch Classification</b> <a href="https://arxiv.org/pdf/2405.15424" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
-     
-  <li><b>Multiclass Transductive Online Learning</b> <span class="award-badge">Spotlight</span> <a href="http://arxiv.org/abs/2411.01634" class="paper-badge">PDF</a><br>
-      with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2024.</li>
-  
-  <li><b>On Proper Learnability between Average- and Worst-case Robustness</b> <a href="https://arxiv.org/abs/2211.05656" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Online Learning</h3></summary>
-  <ol start="13">
-  <li><b>The Complexity of Sequential Prediction in Dynamical Systems</b> <span class="award-badge">Oral</span> <a href="https://arxiv.org/abs/2402.06614" class="paper-badge">PDF</a><br>
-     with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-     <i>Conference on Learning for Dynamics and Control (L4DC)</i>, 2025.</li>
-     
-  <li><b>A Unified Theory of Supervised Online Learnability</b> <span class="award-badge">Outstanding Paper</span><a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025.</li>
-      
-  <li><b>Online Learning with Set-Valued Feedback</b> <a href="https://arxiv.org/abs/2306.06247" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
-      
-  <li><b>Online Infinite-Dimensional Regression: Learning Linear Operators</b> <a href="https://arxiv.org/abs/2309.06548" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
-      
-  <li><b>Multiclass Online Learning and Uniform Convergence</b> <a href="https://arxiv.org/abs/2303.17716" class="paper-badge">PDF</a><br>
-     with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/">Shay Moran</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2023.</li>
-      
-  <li><b>Online Agnostic Multiclass Boosting</b> <a href="https://arxiv.org/abs/2205.15113" class="paper-badge">PDF</a><br>
-      with <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2022.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Partial Feedback</h3></summary>
-  <ol start="19">
-  <li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
-      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en"> Ananth Raman </a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
-      
-  <li><b>Multiclass Online Learnability under Bandit Feedback</b> <a href="https://arxiv.org/abs/2308.04620" class="paper-badge">PDF</a><br>
-      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en"> Ananth Raman </a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com">Idan Mehalel</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2024.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Multioutput Learning</h3></summary>
-  <ol start="21">
-  <li><b>A Characterization of Multioutput Learnability</b> <a href="https://arxiv.org/abs/2301.02729" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Journal of Machine Learning Research (JMLR)</i>, 2024.</li>
-      
-  <li><b>On the Learnability of Multilabel Ranking</b> <span class="award-badge">Spotlight</span><a href="https://arxiv.org/abs/2304.03337" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Neural Information Processing Systems (NeurIPS)</i>, 2023.</li>
-  </ol>
-  </details>
-  <details open>
-  <summary><h3>Other</h3></summary>
-  <ol start="23">
-  <li><b>Design of thermophotovoltaics for tolerance of parasitic absorption</b> <a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="paper-badge">PDF</a><br>
-      with Tobias Burger, <a href="https://lenert.engin.umich.edu">Andrej Lenert</a><br>
-      <i>Optics Express</i>, 2019.</li>
-  </ol>
-  </details>
-
-</details>
-
-<!-- <details>
-<summary>
-  <h1 style="display:inline-block; cursor:pointer; color: black; margin-top: 60px;">Talks</h1>
-</summary>
-
-<ul>
-<li>Optimal Stopping vs Best-of-N for Inference Time Optimization (Percepta Job Talk 2025) <a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing" class="paper-badge">Slides</a></li>
-<li>Optimal Stopping vs Best-of-N for Inference Time Optimization (Google DeepMind Tech Talk 2025) <a href="https://drive.google.com/file/d/1EPaksfpvEWg-ZWJLz1N57SSlAThaR1Bs/view?usp=sharing" class="paper-badge">Slides</a></li>
-<li>A Unified Theory of Supervised Online Learnability (ALT 2025)</li>
-<li>Generation through the lens of learning theory (Apple 2025)</li>
-<li>Generation through the lens of learning theory (NEU CS Theory Seminar) <a href="https://drive.google.com/file/d/1mfKRbMvGWCDnhhpQbb8RzUDKqRM4hwas/view?usp=share_link" class="paper-badge">Slides</a></li>
-<li>Generation through the lens of learning theory (STATS 700 Guest Lecture)</li>
-<li>Trichotomies in Online Learnability (Student ML Research Seminar 2024) <a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing" class="paper-badge">Slides</a></li>
-<li>Trichotomies in Online Learnability (Apple 2024) <a href="https://drive.google.com/file/d/15R-_OTPSbOuGVLGxcwN0N2HQSeK13u8U/view?usp=sharing" class="paper-badge">Slides</a></li>
-<li>Revisiting the Learnability of Apple Tasting (MSSISS 2024)</li>
-<li>Multiclass Online Learnability under Bandit Feedback (ALT 2024)</li>
-<li>Multiclass Online Learning and Uniform Convergence (UM EECS Theory Seminar) <a href="https://drive.google.com/file/d/1YYH1xC_CDVVpjrbjUNPXMQvojB6XomtV/view?usp=sharing" class="paper-badge">Slides</a></li>
-<li>On Classification-Calibration of Gamma-Phi Losses (COLT 2023) <a href="https://drive.google.com/file/d/1odpiQMefHoLJbHs6HLIpS6e0wM8FKEzs/view?usp=sharing" class="paper-badge">Slides</a></li>
+<ul class="vr-papers">
+  <li class="vr-paper">
+    <span class="vr-num">S1</span>
+    <div>
+      <span class="vr-title">Missing Mass for Differentially Private Domain Discovery</span>
+      <span class="vr-authors">with <a href="https://www.majos.net">Matthew Joseph</a>, <a href="https://travisbarrydick.github.io">Travis Dick</a></span>
+      <span class="vr-venue">International Conference on Learning Representations (ICLR), 2026</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Oral</span>
+        <a href="http://arxiv.org/abs/2603.14016" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">S2</span>
+    <div>
+      <span class="vr-title">Generation through the lens of learning theory</span>
+      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Conference on Learning Theory (COLT), 2025</span>
+      <div class="vr-tags">
+        <a href="https://arxiv.org/abs/2410.13714" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">S3</span>
+    <div>
+      <span class="vr-title">Apple Tasting: Combinatorial Dimensions and Minimax Rates</span>
+      <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Conference on Learning Theory (COLT), 2024</span>
+      <div class="vr-tags">
+        <a href="https://arxiv.org/abs/2310.19064" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
 </ul>
-</details> -->
+
+<!-- IN SUBMISSION -->
+<div class="vr-section">
+  <span class="vr-section-num">02</span>
+  <h2 class="vr-section-title">In Submission</h2>
+  <div class="vr-section-line"></div>
+</div>
+
+<ul class="vr-papers">
+  <li class="vr-paper">
+    <span class="vr-num">W1</span>
+    <div>
+      <span class="vr-title">GroupDPO: Memory Efficient Group-wise Direct Preference Optimization</span>
+      <span class="vr-authors">with Jixuan Leng, <a href="https://springdaisy.github.io/">Si Si</a>, <a href="https://www.cs.utexas.edu/~rofuyu/">Hsiang-Fu Yu</a>, <a href="https://www.cs.utexas.edu/~inderjit/">Inderjit S Dhillon</a></span>
+      <span class="vr-venue">In Submission, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2604.15602" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">W2</span>
+    <div>
+      <span class="vr-title">On Generation in Metric Spaces</span>
+      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">In Submission, 2026</span>
+      <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.07710" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">W3</span>
+    <div>
+      <span class="vr-title">Optimal Stopping vs Best-of-N for Inference Time Optimization</span>
+      <span class="vr-authors">with <a href="https://yhkalayci.github.io">Yusuf Kalayci</a>, <a href="https://viterbi-web.usc.edu/~shaddin/">Shaddin Dughmi</a></span>
+      <span class="vr-venue">In Submission, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2510.01394" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<!-- PREPRINTS -->
+<div class="vr-section">
+  <span class="vr-section-num">03</span>
+  <h2 class="vr-section-title">Preprints</h2>
+  <div class="vr-section-line"></div>
+</div>
+
+<ul class="vr-papers">
+  <li class="vr-paper">
+    <span class="vr-num">P1</span>
+    <div>
+      <span class="vr-title">Estimating the (Un)seen: Sample-dependent Mass Estimation</span>
+      <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Preprint, 2025</span>
+      <div class="vr-tags"><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P2</span>
+    <div>
+      <span class="vr-title">AdaBoN: Adaptive Best-of-N Alignment</span>
+      <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://www.satyenkale.com">Satyen Kale</a></span>
+      <span class="vr-venue">Preprint, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2505.12050" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P3</span>
+    <div>
+      <span class="vr-title">Transductive and Learning-Augmented Online Regression</span>
+      <span class="vr-authors">with <a href="https://sites.google.com/view/shenghaoxie/">Shenghao Xie</a>, <a href="https://samsonzhou.github.io">Samson Zhou</a></span>
+      <span class="vr-venue">Preprint, 2025</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2510.03917" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P4</span>
+    <div>
+      <span class="vr-title">Online Boosting for Multilabel Ranking with Top-k Feedback</span>
+      <span class="vr-authors">with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Preprint, 2020</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/1910.10937" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<!-- ALL PUBLICATIONS -->
+<div class="vr-section">
+  <span class="vr-section-num">04</span>
+  <h2 class="vr-section-title">All Publications</h2>
+  <div class="vr-section-line"></div>
+</div>
+
+<div class="vr-tab-nav" id="vr-tabs">
+  <button class="vr-tab-btn active" data-tab="llm">LLMs</button>
+  <button class="vr-tab-btn" data-tab="gen">Generation</button>
+  <button class="vr-tab-btn" data-tab="dp">Diff. Privacy</button>
+  <button class="vr-tab-btn" data-tab="robust">Robustness</button>
+  <button class="vr-tab-btn" data-tab="online">Online Learning</button>
+  <button class="vr-tab-btn" data-tab="partial">Partial Feedback</button>
+  <button class="vr-tab-btn" data-tab="multi">Multioutput</button>
+  <button class="vr-tab-btn" data-tab="other">Other</button>
+</div>
+
+<ul class="vr-papers vr-tab-panel active" id="vr-tab-llm">
+  <li class="vr-paper">
+    <span class="vr-num">1</span>
+    <div>
+      <span class="vr-title">AI-rithmetic</span>
+      <span class="vr-authors">with <a href="https://alexbie98.github.io/">Alex Bie</a>, <a href="https://travisbarrydick.github.io/">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/">Sergei Vassilvitskii</a></span>
+      <span class="vr-venue">ICLR Workshop on I Can't Believe It's Not Better (ICBINB), 2026</span>
+      <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.10416" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-gen">
+  <li class="vr-paper">
+    <span class="vr-num">2</span>
+    <div>
+      <span class="vr-title">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</span>
+      <span class="vr-authors">with <a href="https://somerstep.github.io">Seamus Somerstep</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://yuekai.github.io">Yuekai Sun</a></span>
+      <span class="vr-venue">AISTATS 2026 · DeepMath 2025</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2505.17288" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">3</span>
+    <div>
+      <span class="vr-title">Generation through the lens of learning theory</span>
+      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Conference on Learning Theory (COLT), 2025</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2410.13714" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">4</span>
+    <div>
+      <span class="vr-title">Representative Language Generation</span>
+      <span class="vr-authors">with <a href="https://cpeale.github.io">Charlotte Peale</a>, <a href="https://omereingold.wordpress.com">Omer Reingold</a></span>
+      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21819" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">5</span>
+    <div>
+      <span class="vr-title">Generation from Noisy Examples</span>
+      <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a></span>
+      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2501.04179" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-dp">
+  <li class="vr-paper">
+    <span class="vr-num">6</span>
+    <div>
+      <span class="vr-title">Missing Mass for Differentially Private Domain Discovery</span>
+      <span class="vr-authors">with <a href="https://www.majos.net">Matthew Joseph</a>, <a href="https://travisbarrydick.github.io">Travis Dick</a></span>
+      <span class="vr-venue">ICLR, 2026</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Oral</span>
+        <a href="http://arxiv.org/abs/2603.14016" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">7</span>
+    <div>
+      <span class="vr-title">Tracking the Best Expert Privately</span>
+      <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://aadirupa.github.io">Aadirupa Saha</a></span>
+      <span class="vr-venue">ICML, 2025</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2503.09889" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">8</span>
+    <div>
+      <span class="vr-title">Faster Rates for Private Adversarial Bandits</span>
+      <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a></span>
+      <span class="vr-venue">ICML, 2025</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21790" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-robust">
+  <li class="vr-paper">
+    <span class="vr-num">9</span>
+    <div>
+      <span class="vr-title">Online Classification with Predictions</span>
+      <span class="vr-authors">with <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2024</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2405.14066" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">10</span>
+    <div>
+      <span class="vr-title">Smoothed Online Classification can be Harder than Batch Classification</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/pdf/2405.15424" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">11</span>
+    <div>
+      <span class="vr-title">Multiclass Transductive Online Learning</span>
+      <span class="vr-authors">with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a></span>
+      <span class="vr-venue">NeurIPS, 2024</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Spotlight</span>
+        <a href="http://arxiv.org/abs/2411.01634" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">12</span>
+    <div>
+      <span class="vr-title">On Proper Learnability between Average- and Worst-case Robustness</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2023</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2211.05656" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-online">
+  <li class="vr-paper">
+    <span class="vr-num">13</span>
+    <div>
+      <span class="vr-title">The Complexity of Sequential Prediction in Dynamical Systems</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">L4DC, 2025</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Oral</span>
+        <a href="https://arxiv.org/abs/2402.06614" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">14</span>
+    <div>
+      <span class="vr-title">A Unified Theory of Supervised Online Learnability</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">ALT, 2025</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Outstanding Paper</span>
+        <a href="https://arxiv.org/abs/2307.03816" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">15</span>
+    <div>
+      <span class="vr-title">Online Learning with Set-Valued Feedback</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">COLT, 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2306.06247" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">16</span>
+    <div>
+      <span class="vr-title">Online Infinite-Dimensional Regression: Learning Linear Operators</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">ALT, 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2309.06548" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">17</span>
+    <div>
+      <span class="vr-title">Multiclass Online Learning and Uniform Convergence</span>
+      <span class="vr-authors">with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/">Shay Moran</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">COLT, 2023</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2303.17716" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">18</span>
+    <div>
+      <span class="vr-title">Online Agnostic Multiclass Boosting</span>
+      <span class="vr-authors">with <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2022</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2205.15113" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-partial">
+  <li class="vr-paper">
+    <span class="vr-num">19</span>
+    <div>
+      <span class="vr-title">Apple Tasting: Combinatorial Dimensions and Minimax Rates</span>
+      <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">COLT, 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2310.19064" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">20</span>
+    <div>
+      <span class="vr-title">Multiclass Online Learnability under Bandit Feedback</span>
+      <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com">Idan Mehalel</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">ALT, 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2308.04620" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-multi">
+  <li class="vr-paper">
+    <span class="vr-num">21</span>
+    <div>
+      <span class="vr-title">A Characterization of Multioutput Learnability</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Journal of Machine Learning Research (JMLR), 2024</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2301.02729" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">22</span>
+    <div>
+      <span class="vr-title">On the Learnability of Multilabel Ranking</span>
+      <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2023</span>
+      <div class="vr-tags">
+        <span class="tag tag-award">★ Spotlight</span>
+        <a href="https://arxiv.org/abs/2304.03337" class="tag tag-pdf">PDF</a>
+      </div>
+    </div>
+  </li>
+</ul>
+
+<ul class="vr-papers vr-tab-panel" id="vr-tab-other">
+  <li class="vr-paper">
+    <span class="vr-num">23</span>
+    <div>
+      <span class="vr-title">Design of thermophotovoltaics for tolerance of parasitic absorption</span>
+      <span class="vr-authors">with Tobias Burger, <a href="https://lenert.engin.umich.edu">Andrej Lenert</a></span>
+      <span class="vr-venue">Optics Express, 2019</span>
+      <div class="vr-tags"><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<script>
+document.getElementById('vr-tabs').addEventListener('click', function(e) {
+  var btn = e.target.closest('.vr-tab-btn');
+  if (!btn) return;
+  document.querySelectorAll('.vr-tab-btn').forEach(function(b) { b.classList.remove('active'); });
+  document.querySelectorAll('.vr-tab-panel').forEach(function(p) { p.classList.remove('active'); });
+  btn.classList.add('active');
+  document.getElementById('vr-tab-' + btn.dataset.tab).classList.add('active');
+});
+</script>
