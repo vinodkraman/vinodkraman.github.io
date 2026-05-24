@@ -263,6 +263,59 @@ redirect_from:
     color: var(--ink3) !important;
     border-bottom: 1px solid var(--ink3) !important;
   }
+
+  /* ── Sidebar restyling ── */
+  .sidebar .author__avatar img {
+    border-radius: 4px !important;   /* square-ish, not circle */
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .sidebar, .author__content, .author__urls-wrapper {
+    font-family: 'Outfit', sans-serif !important;
+  }
+
+  .author__name {
+    font-family: 'DM Serif Display', Georgia, serif !important;
+    font-size: 1.4rem !important;
+    letter-spacing: -0.02em !important;
+    color: #0f0e0c !important;
+    margin-bottom: 0.2rem !important;
+  }
+
+  .author__bio {
+    font-family: 'DM Mono', monospace !important;
+    font-size: 0.72rem !important;
+    letter-spacing: 0.08em !important;
+    text-transform: uppercase !important;
+    color: #7a7770 !important;
+  }
+
+  .author__urls-wrapper button {
+    display: none !important;  /* hide "Follow" button on mobile */
+  }
+
+  .author__urls li {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 0.85rem !important;
+    color: #3a3832 !important;
+    border-bottom: none !important;
+  }
+
+  .author__urls a {
+    color: #3a3832 !important;
+    border-bottom: none !important;
+    transition: color 0.15s !important;
+  }
+
+  .author__urls a:hover {
+    color: #c84b2f !important;
+  }
+
+  /* Sidebar background to match warm paper tone */
+  .sidebar {
+    background: #faf9f6 !important;
+  }
 </style>
 
 <p>
