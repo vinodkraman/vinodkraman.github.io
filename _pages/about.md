@@ -330,7 +330,12 @@ I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at 
 My research interests lie in the <strong>Foundations of Machine Learning</strong>. During my Ph.D, I worked on various topics in learning theory, including online learning, adversarial robustness, differential privacy, and language generation. Nowadays, I work broadly in <strong>Post-training</strong> and <strong>Reinforcement Learning</strong> for large language models.
 </p>
 
-<p>My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.</p>
+<p style="margin-bottom: 0.5rem;"><strong>Fun facts about me:</strong></p>
+<ol style="margin-top: 0; padding-left: 1.5rem;">
+  <li style="margin: 0.4rem 0;">My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.</li>
+  <li style="margin: 0.4rem 0;">I love horror movies and horror books.</li>
+  <li style="margin: 0.4rem 0;">I wanted to be a professional bodybuilder in my past life.</li>
+</ol>
 
 <div class="vr-badge-row">
   <span class="vr-badge">Post-training</span>
