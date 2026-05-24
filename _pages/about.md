@@ -333,11 +333,11 @@ My research interests lie in the <strong>Foundations of Machine Learning</strong
 <p>My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.</p>
 
 <div class="vr-badge-row">
-  <span class="vr-badge">Learning Theory</span>
+  <span class="vr-badge">Post-training</span>
+  <span class="vr-badge">RL for LLMs</span>
   <span class="vr-badge">Online Learning</span>
   <span class="vr-badge">Differential Privacy</span>
-  <span class="vr-badge">Post-training LLMs</span>
-  <span class="vr-badge">RL for LLMs</span>
+  <span class="vr-badge">Learning Theory</span>
 </div>
 
 <!-- SELECTED PUBLICATIONS -->
