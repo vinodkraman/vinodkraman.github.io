@@ -214,32 +214,17 @@ My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical 
 <li><b>Generation through the lens of learning theory</b> <a href="https://arxiv.org/abs/2410.13714" class="paper-badge">PDF</a><br>
       with <a href="https://jiaxun-li.github.io"> Jiaxun Li </a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
       <i>Conference on Learning Theory (COLT)</i>, 2025.</li>
-<li><b>A Unified Theory of Supervised Online Learnability</b> <span class="award-badge">Outstanding Paper</span><a href="https://arxiv.org/abs/2307.03816" class="paper-badge">PDF</a><br>
-      with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-      <i>Conference on Algorithmic Learning Theory (ALT)</i>, 2025.</li>
+<li><b>Apple Tasting: Combinatorial Dimensions and Minimax Rates</b> <a href="https://arxiv.org/abs/2310.19064" class="paper-badge">PDF</a><br>
+      with <a href= "https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en"> Ananth Raman </a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
+      <i>Conference on Learning Theory (COLT)</i>, 2024.</li>
 </ol>
 </details>
 
-
-<details>
-<summary><h1>Preprints</h1></summary>
-<ol>
-<li><b>Estimating the (Un)seen: Sample-dependent Mass Estimation</b> <a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="paper-badge">PDF</a><br>
-    with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-    <i>Preprint</i>, 2025.</li>
-<li><b>Transductive and Learning-Augmented Online Regression</b> <a href="http://arxiv.org/abs/2510.03917" class="paper-badge">PDF</a><br>
-   with <a href="https://sites.google.com/view/shenghaoxie/"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io"> Samson Zhou </a><br>
-    <i>Preprint</i>, 2025.</li>
-<li><b>Online Boosting for Multilabel Ranking with Top-k Feedback</b> <a href="https://arxiv.org/abs/1910.10937" class="paper-badge">PDF</a><br>
-    with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
-    <i>Preprint</i>, 2020.</li>
-</ol>
-</details>
 
 <details open>
 <summary><h1>In Submission</h1></summary>
 <ol>
-<li><b>GroupDPO: Memory efficient Group-wise Direct Preference Optimization</b><a href="https://arxiv.org/abs/2604.15602" class="paper-badge">PDF</a><br>
+<li><b>GroupDPO: Memory efficient Group-wise Direct Preference Optimization</b> <a href="https://arxiv.org/abs/2604.15602" class="paper-badge">PDF</a><br>
     with Jixuan Leng, <a href="https://springdaisy.github.io/"> Si Si </a>, <a href="https://www.cs.utexas.edu/~rofuyu/"> Hsiang-Fu Yu </a>, <a href="https://www.cs.utexas.edu/~inderjit/"> Inderjit S Dhillon</a><br>
     <i>In Submission</i>, 2026.</li>
 <li><b>On Generation in Metric Spaces</b> <a href="https://www.arxiv.org/abs/2602.07710" class="paper-badge">PDF</a><br>
@@ -248,9 +233,24 @@ My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical 
  <li><b>Optimal Stopping vs Best-of-N for Inference Time Optimization</b> <a href="https://arxiv.org/abs/2510.01394" class="paper-badge">PDF</a><br>
    with <a href="https://yhkalayci.github.io"> Yusuf Kalayci </a>, <a href="https://viterbi-web.usc.edu/~shaddin/"> Shaddin Dughmi </a><br>
     <i>In Submission</i>, 2026.</li>
- <li><b>AdaBoN: Adaptive Best-of-N Alignment</b> <a href="https://arxiv.org/abs/2505.12050" class="paper-badge">PDF</a><br>
-    with <a href="https://web.stanford.edu/~asi/"> Hilal Asi </a>, <a href="https://www.satyenkale.com"> Satyen Kale </a><br>
-    <i>In Submission</i>, 2026.</li>
+</ol>
+</details>
+
+<details>
+<summary><h1>Preprints</h1></summary>
+<ol>
+<li><b>Estimating the (Un)seen: Sample-dependent Mass Estimation</b> <a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="paper-badge">PDF</a><br>
+    with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, and <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
+    <i>Preprint</i>, 2025.</li>
+<li><b>AdaBoN: Adaptive Best-of-N Alignment</b> <a href="https://arxiv.org/abs/2505.12050" class="paper-badge">PDF</a><br>
+  with <a href="https://web.stanford.edu/~asi/"> Hilal Asi </a>, <a href="https://www.satyenkale.com"> Satyen Kale </a><br>
+  <i>Preprint</i>, 2026.</li>
+<li><b>Transductive and Learning-Augmented Online Regression</b> <a href="http://arxiv.org/abs/2510.03917" class="paper-badge">PDF</a><br>
+   with <a href="https://sites.google.com/view/shenghaoxie/"> Shenghao Xie </a>, <a href="https://samsonzhou.github.io"> Samson Zhou </a><br>
+    <i>Preprint</i>, 2025.</li>
+<li><b>Online Boosting for Multilabel Ranking with Top-k Feedback</b> <a href="https://arxiv.org/abs/1910.10937" class="paper-badge">PDF</a><br>
+    with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a><br>
+    <i>Preprint</i>, 2020.</li>
 </ol>
 </details>
 
