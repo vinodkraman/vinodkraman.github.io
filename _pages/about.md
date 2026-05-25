@@ -319,7 +319,7 @@ redirect_from:
 </style>
 
 <p>
-I'm a <strong>Research Scientist</strong> at <a href="https://deepmind.google">Google DeepMind</a> working on improving Gemini's fundamental capabilities for generative and agentic retrieval.
+I'm a <strong>Research Scientist</strong> at <a href="https://deepmind.google">Google DeepMind</a>, improving Gemini's fundamental capabilities for generative and agentic retrieval.
 </p>
 
 <p>
