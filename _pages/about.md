@@ -481,12 +481,12 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <div class="vr-tab-nav" id="vr-tabs">
   <button class="vr-tab-btn active" data-tab="llm">LLMs</button>
-  <button class="vr-tab-btn" data-tab="gen">Generation</button>
-  <button class="vr-tab-btn" data-tab="dp">Diff. Privacy</button>
-  <button class="vr-tab-btn" data-tab="robust">Robustness</button>
+  <button class="vr-tab-btn" data-tab="gen">Language Generation</button>
+  <button class="vr-tab-btn" data-tab="dp">Privacy</button>
+  <button class="vr-tab-btn" data-tab="robust">Beyond Worst-case Guarantees</button>
   <button class="vr-tab-btn" data-tab="online">Online Learning</button>
   <button class="vr-tab-btn" data-tab="partial">Partial Feedback</button>
-  <button class="vr-tab-btn" data-tab="multi">Multioutput</button>
+  <button class="vr-tab-btn" data-tab="multi">Multioutput Learning</button>
   <button class="vr-tab-btn" data-tab="other">Other</button>
 </div>
 
