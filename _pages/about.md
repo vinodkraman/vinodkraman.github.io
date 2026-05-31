@@ -332,9 +332,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <p style="margin-bottom: 0.5rem;"><strong>Fun facts about me:</strong></p>
 <ol style="margin-top: 0; padding-left: 1.5rem;">
-  <li style="margin: 0.4rem 0;">My <a href="https://ananthsraman.github.io/">younger brother</a> is a classical trumpeter.</li>
-  <li style="margin: 0.4rem 0;">I love horror movies and <a href="https://www.goodreads.com/user/show/170725395-vinod-raman">books</a>.</li>
-  <li style="margin: 0.4rem 0;">In high school, I wanted to be a professional bodybuilder.</li>
+  <li style="margin: 0.4rem 0;"> I love trying out new restaurants.</li>
+  <li style="margin: 0.4rem 0;">I love horror movies and horror <a href="https://www.goodreads.com/user/show/170725395-vinod-raman">books</a>.</li>
+  <li style="margin: 0.4rem 0;">I've always wanted to be a professional bodybuilder.</li>
 </ol>
 
 <div class="vr-badge-row">
