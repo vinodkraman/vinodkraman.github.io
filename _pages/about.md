@@ -102,16 +102,29 @@ redirect_from:
   }
 
   .vr-year {
-    font-family: var(--mono) !important;
-    font-size: 0.7rem;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-    color: var(--ink3);
-    margin: 1.5rem 0 0.35rem;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin: 1.75rem 0 0.5rem;
   }
 
   .vr-year:first-of-type {
     margin-top: 0;
+  }
+
+  .vr-year-label {
+    font-family: var(--sans) !important;
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    color: var(--ink2);
+    white-space: nowrap;
+  }
+
+  .vr-year-line {
+    flex: 1;
+    height: 1px;
+    background: var(--line);
   }
 
   /* PAPER LIST */
@@ -365,7 +378,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
   <div class="vr-section-line"></div>
 </div>
 
-<div class="vr-year">2026</div>
+<div class="vr-year"><span class="vr-year-label">2026</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">23</span>
@@ -398,7 +411,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
 </ul>
-<div class="vr-year">2025</div>
+<div class="vr-year"><span class="vr-year-label">2025</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">20</span>
@@ -470,7 +483,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
 </ul>
-<div class="vr-year">2024</div>
+<div class="vr-year"><span class="vr-year-label">2024</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">13</span>
@@ -548,7 +561,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
 </ul>
-<div class="vr-year">2023</div>
+<div class="vr-year"><span class="vr-year-label">2023</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">5</span>
@@ -581,7 +594,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
 </ul>
-<div class="vr-year">2022</div>
+<div class="vr-year"><span class="vr-year-label">2022</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">2</span>
@@ -593,7 +606,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
 </ul>
-<div class="vr-year">2019</div>
+<div class="vr-year"><span class="vr-year-label">2019</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">1</span>
