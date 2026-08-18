@@ -101,6 +101,19 @@ redirect_from:
     background: var(--line);
   }
 
+  .vr-year {
+    font-family: var(--mono) !important;
+    font-size: 0.7rem;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    color: var(--ink3);
+    margin: 1.5rem 0 0.35rem;
+  }
+
+  .vr-year:first-of-type {
+    margin-top: 0;
+  }
+
   /* PAPER LIST */
   .vr-papers {
     list-style: none !important;
@@ -352,13 +365,14 @@ My research interests lie in the <strong>foundations of machine learning</strong
   <div class="vr-section-line"></div>
 </div>
 
+<div class="vr-year">2026</div>
 <ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">23</span>
     <div>
       <span class="vr-title">Missing Mass for Differentially Private Domain Discovery</span>
       <span class="vr-authors">with <a href="https://www.majos.net">Matthew Joseph</a>, <a href="https://travisbarrydick.github.io">Travis Dick</a></span>
-      <span class="vr-venue">ICLR, 2026</span>
+      <span class="vr-venue">International Conference on Learning Representations (ICLR), 2026</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Oral</span>
         <a href="http://arxiv.org/abs/2603.14016" class="tag tag-pdf">PDF</a>
@@ -370,7 +384,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</span>
       <span class="vr-authors">with <a href="https://somerstep.github.io">Seamus Somerstep</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://yuekai.github.io">Yuekai Sun</a></span>
-      <span class="vr-venue">AISTATS, 2026</span>
+      <span class="vr-venue">AISTATS 2026 · DeepMath 2025</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.17288" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -383,6 +397,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
       <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.10416" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
+</ul>
+<div class="vr-year">2025</div>
+<ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">20</span>
     <div>
@@ -406,7 +423,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Representative Language Generation</span>
       <span class="vr-authors">with <a href="https://cpeale.github.io">Charlotte Peale</a>, <a href="https://omereingold.wordpress.com">Omer Reingold</a></span>
-      <span class="vr-venue">ICML, 2025</span>
+      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21819" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -415,7 +432,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation from Noisy Examples</span>
       <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a></span>
-      <span class="vr-venue">ICML, 2025</span>
+      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2501.04179" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -424,7 +441,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation through the lens of learning theory</span>
       <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">COLT, 2025</span>
+      <span class="vr-venue">Conference on Learning Theory (COLT), 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2410.13714" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -452,6 +469,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
       </div>
     </div>
   </li>
+</ul>
+<div class="vr-year">2024</div>
+<ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">13</span>
     <div>
@@ -487,7 +507,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">A Characterization of Multioutput Learnability</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">JMLR, 2024</span>
+      <span class="vr-venue">Journal of Machine Learning Research (JMLR), 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2301.02729" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -527,6 +547,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
       <div class="vr-tags"><a href="https://arxiv.org/abs/2309.06548" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
+</ul>
+<div class="vr-year">2023</div>
+<ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">5</span>
     <div>
@@ -557,6 +580,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
       <div class="vr-tags"><a href="https://arxiv.org/abs/2303.17716" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
+</ul>
+<div class="vr-year">2022</div>
+<ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">2</span>
     <div>
@@ -566,6 +592,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
       <div class="vr-tags"><a href="https://arxiv.org/abs/2205.15113" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
+</ul>
+<div class="vr-year">2019</div>
+<ul class="vr-papers">
   <li class="vr-paper">
     <span class="vr-num">1</span>
     <div>
