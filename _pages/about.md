@@ -358,7 +358,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Missing Mass for Differentially Private Domain Discovery</span>
       <span class="vr-authors">with <a href="https://www.majos.net">Matthew Joseph</a>, <a href="https://travisbarrydick.github.io">Travis Dick</a></span>
-      <span class="vr-venue">International Conference on Learning Representations (ICLR), 2026</span>
+      <span class="vr-venue">ICLR, 2026</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Oral</span>
         <a href="http://arxiv.org/abs/2603.14016" class="tag tag-pdf">PDF</a>
@@ -370,7 +370,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</span>
       <span class="vr-authors">with <a href="https://somerstep.github.io">Seamus Somerstep</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://yuekai.github.io">Yuekai Sun</a></span>
-      <span class="vr-venue">AISTATS 2026 · DeepMath 2025</span>
+      <span class="vr-venue">AISTATS, 2026</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.17288" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -406,7 +406,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Representative Language Generation</span>
       <span class="vr-authors">with <a href="https://cpeale.github.io">Charlotte Peale</a>, <a href="https://omereingold.wordpress.com">Omer Reingold</a></span>
-      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <span class="vr-venue">ICML, 2025</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21819" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -415,7 +415,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation from Noisy Examples</span>
       <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a></span>
-      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <span class="vr-venue">ICML, 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2501.04179" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -424,7 +424,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation through the lens of learning theory</span>
       <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Conference on Learning Theory (COLT), 2025</span>
+      <span class="vr-venue">COLT, 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2410.13714" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -487,7 +487,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">A Characterization of Multioutput Learnability</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Journal of Machine Learning Research (JMLR), 2024</span>
+      <span class="vr-venue">JMLR, 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2301.02729" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
