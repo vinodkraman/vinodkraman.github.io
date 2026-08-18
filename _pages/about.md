@@ -308,55 +308,9 @@ My research interests lie in the <strong>foundations of machine learning</strong
   <span class="vr-badge">Learning Theory</span>
 </div>
 
-<!-- PREPRINTS -->
-<div class="vr-section">
-  <span class="vr-section-num">01</span>
-  <h2 class="vr-section-title">Preprints</h2>
-  <div class="vr-section-line"></div>
-</div>
-
-<ul class="vr-papers">
-  <li class="vr-paper">
-    <span class="vr-num">P1</span>
-    <div>
-      <span class="vr-title">AdaBoN: Adaptive Best-of-N Alignment</span>
-      <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://www.satyenkale.com">Satyen Kale</a></span>
-      <span class="vr-venue">Preprint, 2026</span>
-      <div class="vr-tags"><a href="https://arxiv.org/abs/2505.12050" class="tag tag-pdf">PDF</a></div>
-    </div>
-  </li>
-  <li class="vr-paper">
-    <span class="vr-num">P2</span>
-    <div>
-      <span class="vr-title">Estimating the (Un)seen: Sample-dependent Mass Estimation</span>
-      <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Preprint, 2025</span>
-      <div class="vr-tags"><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="tag tag-pdf">PDF</a></div>
-    </div>
-  </li>
-  <li class="vr-paper">
-    <span class="vr-num">P3</span>
-    <div>
-      <span class="vr-title">Transductive and Learning-Augmented Online Regression</span>
-      <span class="vr-authors">with <a href="https://sites.google.com/view/shenghaoxie/">Shenghao Xie</a>, <a href="https://samsonzhou.github.io">Samson Zhou</a></span>
-      <span class="vr-venue">Preprint, 2025</span>
-      <div class="vr-tags"><a href="http://arxiv.org/abs/2510.03917" class="tag tag-pdf">PDF</a></div>
-    </div>
-  </li>
-  <li class="vr-paper">
-    <span class="vr-num">P4</span>
-    <div>
-      <span class="vr-title">Online Boosting for Multilabel Ranking with Top-k Feedback</span>
-      <span class="vr-authors">with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Preprint, 2020</span>
-      <div class="vr-tags"><a href="https://arxiv.org/abs/1910.10937" class="tag tag-pdf">PDF</a></div>
-    </div>
-  </li>
-</ul>
-
 <!-- IN SUBMISSION -->
 <div class="vr-section">
-  <span class="vr-section-num">02</span>
+  <span class="vr-section-num">01</span>
   <h2 class="vr-section-title">In Submission</h2>
   <div class="vr-section-line"></div>
 </div>
@@ -393,7 +347,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <!-- PUBLICATIONS -->
 <div class="vr-section">
-  <span class="vr-section-num">03</span>
+  <span class="vr-section-num">02</span>
   <h2 class="vr-section-title">Publications</h2>
   <div class="vr-section-line"></div>
 </div>
@@ -619,6 +573,52 @@ My research interests lie in the <strong>foundations of machine learning</strong
       <span class="vr-authors">with Tobias Burger, <a href="https://lenert.engin.umich.edu">Andrej Lenert</a></span>
       <span class="vr-venue">Optics Express, 2019</span>
       <div class="vr-tags"><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+</ul>
+
+<!-- PREPRINTS -->
+<div class="vr-section">
+  <span class="vr-section-num">03</span>
+  <h2 class="vr-section-title">Preprints</h2>
+  <div class="vr-section-line"></div>
+</div>
+
+<ul class="vr-papers">
+  <li class="vr-paper">
+    <span class="vr-num">P1</span>
+    <div>
+      <span class="vr-title">AdaBoN: Adaptive Best-of-N Alignment</span>
+      <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://www.satyenkale.com">Satyen Kale</a></span>
+      <span class="vr-venue">Preprint, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2505.12050" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P2</span>
+    <div>
+      <span class="vr-title">Estimating the (Un)seen: Sample-dependent Mass Estimation</span>
+      <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Preprint, 2025</span>
+      <div class="vr-tags"><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P3</span>
+    <div>
+      <span class="vr-title">Transductive and Learning-Augmented Online Regression</span>
+      <span class="vr-authors">with <a href="https://sites.google.com/view/shenghaoxie/">Shenghao Xie</a>, <a href="https://samsonzhou.github.io">Samson Zhou</a></span>
+      <span class="vr-venue">Preprint, 2025</span>
+      <div class="vr-tags"><a href="http://arxiv.org/abs/2510.03917" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
+    <span class="vr-num">P4</span>
+    <div>
+      <span class="vr-title">Online Boosting for Multilabel Ranking with Top-k Feedback</span>
+      <span class="vr-authors">with Daniel T. Zhang, Young Hun Jung, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">Preprint, 2020</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/1910.10937" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
 </ul>
