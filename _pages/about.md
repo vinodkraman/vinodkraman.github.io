@@ -358,7 +358,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Missing Mass for Differentially Private Domain Discovery</span>
       <span class="vr-authors">with <a href="https://www.majos.net">Matthew Joseph</a>, <a href="https://travisbarrydick.github.io">Travis Dick</a></span>
-      <span class="vr-venue">International Conference on Learning Representations (ICLR), 2026</span>
+      <span class="vr-venue">ICLR 2026</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Oral</span>
         <a href="http://arxiv.org/abs/2603.14016" class="tag tag-pdf">PDF</a>
@@ -370,7 +370,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Learning to Choose or Choosing to Learn: Best-of-N vs. Supervised Fine-Tuning for Bit String Generation</span>
       <span class="vr-authors">with <a href="https://somerstep.github.io">Seamus Somerstep</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://yuekai.github.io">Yuekai Sun</a></span>
-      <span class="vr-venue">AISTATS 2026 · DeepMath 2025</span>
+      <span class="vr-venue">AISTATS 2026</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.17288" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -379,7 +379,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">AI-rithmetic</span>
       <span class="vr-authors">with <a href="https://alexbie98.github.io/">Alex Bie</a>, <a href="https://travisbarrydick.github.io/">Travis Dick</a>, <a href="https://scholar.google.com/citations?user=2OUGYFAAAAAJ&hl=en">Alex Kulesza</a>, <a href="https://research.google/people/prabhakarraghavan/?&type=google">Prabhakar Raghavan</a>, <a href="https://theory.stanford.edu/~sergei/">Sergei Vassilvitskii</a></span>
-      <span class="vr-venue">ICLR Workshop on I Can't Believe It's Not Better (ICBINB), 2026</span>
+      <span class="vr-venue">ICLR Workshop on I Can't Believe It's Not Better (ICBINB) 2026</span>
       <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.10416" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -388,7 +388,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Tracking the Best Expert Privately</span>
       <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://aadirupa.github.io">Aadirupa Saha</a></span>
-      <span class="vr-venue">ICML, 2025</span>
+      <span class="vr-venue">ICML 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2503.09889" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -397,7 +397,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Faster Rates for Private Adversarial Bandits</span>
       <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a></span>
-      <span class="vr-venue">ICML, 2025</span>
+      <span class="vr-venue">ICML 2025</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21790" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -406,7 +406,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Representative Language Generation</span>
       <span class="vr-authors">with <a href="https://cpeale.github.io">Charlotte Peale</a>, <a href="https://omereingold.wordpress.com">Omer Reingold</a></span>
-      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <span class="vr-venue">ICML 2025</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2505.21819" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -415,7 +415,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation from Noisy Examples</span>
       <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a></span>
-      <span class="vr-venue">International Conference on Machine Learning (ICML), 2025</span>
+      <span class="vr-venue">ICML 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2501.04179" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -424,7 +424,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Generation through the lens of learning theory</span>
       <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Conference on Learning Theory (COLT), 2025</span>
+      <span class="vr-venue">COLT 2025</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2410.13714" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -433,7 +433,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">The Complexity of Sequential Prediction in Dynamical Systems</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">L4DC, 2025</span>
+      <span class="vr-venue">L4DC 2025</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Oral</span>
         <a href="https://arxiv.org/abs/2402.06614" class="tag tag-pdf">PDF</a>
@@ -445,7 +445,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">A Unified Theory of Supervised Online Learnability</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">ALT, 2025</span>
+      <span class="vr-venue">ALT 2025</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Outstanding Paper</span>
         <a href="https://arxiv.org/abs/2307.03816" class="tag tag-pdf">PDF</a>
@@ -457,7 +457,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Online Classification with Predictions</span>
       <span class="vr-authors">with <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">NeurIPS, 2024</span>
+      <span class="vr-venue">NeurIPS 2024</span>
       <div class="vr-tags"><a href="http://arxiv.org/abs/2405.14066" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -466,7 +466,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Smoothed Online Classification can be Harder than Batch Classification</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">NeurIPS, 2024</span>
+      <span class="vr-venue">NeurIPS 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/pdf/2405.15424" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -475,7 +475,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Multiclass Transductive Online Learning</span>
       <span class="vr-authors">with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://scholar.google.com/citations?user=nRTM5b8AAAAJ&hl=en">Amirreza Shaeiri</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a></span>
-      <span class="vr-venue">NeurIPS, 2024</span>
+      <span class="vr-venue">NeurIPS 2024</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Spotlight</span>
         <a href="http://arxiv.org/abs/2411.01634" class="tag tag-pdf">PDF</a>
@@ -487,7 +487,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">A Characterization of Multioutput Learnability</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Journal of Machine Learning Research (JMLR), 2024</span>
+      <span class="vr-venue">JMLR 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2301.02729" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -496,7 +496,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Apple Tasting: Combinatorial Dimensions and Minimax Rates</span>
       <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">COLT, 2024</span>
+      <span class="vr-venue">COLT 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2310.19064" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -505,7 +505,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Online Learning with Set-Valued Feedback</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">COLT, 2024</span>
+      <span class="vr-venue">COLT 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2306.06247" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -514,7 +514,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Multiclass Online Learnability under Bandit Feedback</span>
       <span class="vr-authors">with <a href="https://scholar.google.com/citations?user=GpisoW8AAAAJ&hl=en">Ananth Raman</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://idanmehalel.wordpress.com">Idan Mehalel</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">ALT, 2024</span>
+      <span class="vr-venue">ALT 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2308.04620" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -523,7 +523,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Online Infinite-Dimensional Regression: Learning Linear Operators</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">ALT, 2024</span>
+      <span class="vr-venue">ALT 2024</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2309.06548" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -532,7 +532,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">On Proper Learnability between Average- and Worst-case Robustness</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">NeurIPS, 2023</span>
+      <span class="vr-venue">NeurIPS 2023</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2211.05656" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -541,7 +541,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">On the Learnability of Multilabel Ranking</span>
       <span class="vr-authors">with <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">NeurIPS, 2023</span>
+      <span class="vr-venue">NeurIPS 2023</span>
       <div class="vr-tags">
         <span class="tag tag-award">★ Spotlight</span>
         <a href="https://arxiv.org/abs/2304.03337" class="tag tag-pdf">PDF</a>
@@ -553,7 +553,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Multiclass Online Learning and Uniform Convergence</span>
       <span class="vr-authors">with <a href="https://stevehanneke.com">Steve Hanneke</a>, <a href="https://csaws.cs.technion.ac.il/~shaymrn/">Shay Moran</a>, <a href="https://unique-subedi.github.io">Unique Subedi</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">COLT, 2023</span>
+      <span class="vr-venue">COLT 2023</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2303.17716" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -562,7 +562,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Online Agnostic Multiclass Boosting</span>
       <span class="vr-authors">with <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">NeurIPS, 2022</span>
+      <span class="vr-venue">NeurIPS 2022</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2205.15113" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
@@ -571,7 +571,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
     <div>
       <span class="vr-title">Design of thermophotovoltaics for tolerance of parasitic absorption</span>
       <span class="vr-authors">with Tobias Burger, <a href="https://lenert.engin.umich.edu">Andrej Lenert</a></span>
-      <span class="vr-venue">Optics Express, 2019</span>
+      <span class="vr-venue">Optics Express 2019</span>
       <div class="vr-tags"><a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-22-31757&id=422403" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
