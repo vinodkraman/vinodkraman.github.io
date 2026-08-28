@@ -308,11 +308,15 @@ redirect_from:
 </style>
 
 <p>
-I'm a <strong>Research Scientist</strong> at <a href="https://deepmind.google">Google DeepMind</a>, improving Gemini's fundamental capabilities for retrieval.
+  I’m an incoming MTS @ Core Automation.
 </p>
 
 <p>
-I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at the <a href="https://umich.edu/">University of Michigan</a> in 2025, where I was fortunate to be advised by <a href="https://ambujtewari.github.io">Ambuj Tewari</a>. My Ph.D. was graciously supported by the <a href="https://www.nsfgrfp.org">2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a> and the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a>. Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Computer Science</a> and <a href="https://che.engin.umich.edu/">Chemical Engineering</a> and worked with <a href="https://mahdi.ch">Mahdi Cheraghchi</a>, <a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a>, and <a href="https://lenert.engin.umich.edu">Andrej Lenert</a>.
+Previously, I was a <strong>Research Scientist</strong> at <a href="https://deepmind.google">Google DeepMind</a>, improving Gemini's fundamental capabilities for retrieval.
+</p>
+
+<p>
+Even before that, I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at the <a href="https://umich.edu/">University of Michigan</a> in 2025, where I was fortunate to be advised by <a href="https://ambujtewari.github.io">Ambuj Tewari</a>. My Ph.D. was graciously supported by the <a href="https://www.nsfgrfp.org">2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a> and the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a>. Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Computer Science</a> and <a href="https://che.engin.umich.edu/">Chemical Engineering</a> and worked with <a href="https://mahdi.ch">Mahdi Cheraghchi</a>, <a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a>, and <a href="https://lenert.engin.umich.edu">Andrej Lenert</a>.
 </p>
 
 <p>
