@@ -347,6 +347,14 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <ul class="vr-papers">
   <li class="vr-paper">
+    <span class="vr-num">W2</span>
+    <div>
+      <span class="vr-title">A Unified Framework for Data-Dependent Probability Estimation</span>
+      <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">In Submission, 2026</span>
+    </div>
+  </li>
+  <li class="vr-paper">
     <span class="vr-num">W1</span>
     <div>
       <span class="vr-title">On Generation in Metric Spaces</span>
@@ -623,7 +631,7 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <ul class="vr-papers">
   <li class="vr-paper">
-    <span class="vr-num">P5</span>
+    <span class="vr-num">P4</span>
     <div>
       <span class="vr-title">Optimal Stopping vs Best-of-N for Inference Time Optimization</span>
       <span class="vr-authors">with <a href="https://yhkalayci.github.io">Yusuf Kalayci</a>, <a href="https://viterbi-web.usc.edu/~shaddin/">Shaddin Dughmi</a></span>
@@ -632,21 +640,12 @@ My research interests lie in the <strong>foundations of machine learning</strong
     </div>
   </li>
   <li class="vr-paper">
-    <span class="vr-num">P4</span>
+    <span class="vr-num">P3</span>
     <div>
       <span class="vr-title">AdaBoN: Adaptive Best-of-N Alignment</span>
       <span class="vr-authors">with <a href="https://web.stanford.edu/~asi/">Hilal Asi</a>, <a href="https://www.satyenkale.com">Satyen Kale</a></span>
       <span class="vr-venue">Preprint, 2026</span>
       <div class="vr-tags"><a href="https://arxiv.org/abs/2505.12050" class="tag tag-pdf">PDF</a></div>
-    </div>
-  </li>
-  <li class="vr-paper">
-    <span class="vr-num">P3</span>
-    <div>
-      <span class="vr-title">Estimating the (Un)seen: Sample-dependent Mass Estimation</span>
-      <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">Preprint, 2025</span>
-      <div class="vr-tags"><a href="https://drive.google.com/file/d/18z-DqgBSlZ8jpujniqn3MedjLYBvT4Zp/view?usp=share_link" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
   <li class="vr-paper">
