@@ -320,7 +320,7 @@ Even before that, I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">
 </p>
 
 <p>
-Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Computer Science</a> and <a href="https://che.engin.umich.edu/">Chemical Engineering</a> and worked with <a href="https://mahdi.ch">Mahdi Cheraghchi</a>, <a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a>, and <a href="https://lenert.engin.umich.edu">Andrej Lenert</a>.
+Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Computer Science</a> and <a href="https://che.engin.umich.edu/">Chemical Engineering</a> also at the University of Michigan and worked with <a href="https://mahdi.ch">Mahdi Cheraghchi</a>, <a href="https://web.eecs.umich.edu/~skutty/">Sindhu Kutty</a>, and <a href="https://lenert.engin.umich.edu">Andrej Lenert</a>.
 </p>
 
 <p>
