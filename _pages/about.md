@@ -320,7 +320,7 @@ Even before that, I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">
 </p>
 
 <p>
-My research interests lie in the <strong>foundations of machine learning</strong>. During my Ph.D, I worked on various topics in <strong>learning theory</strong>, including online learning, adversarial robustness, differential privacy, and language generation. Currently, I work on <strong>reinforcement learning</strong> for large language models.
+My research interests lie in the <strong>foundations of machine learning</strong>. During my Ph.D, I worked on various topics in <strong>learning theory</strong>, including online learning, adversarial robustness, differential privacy, and language generation. Currently, I am interested in <strong>reinforcement learning</strong> for large language models.
 </p>
 
 <p style="margin-bottom: 0.5rem;"><strong>Fun facts about me:</strong></p>
