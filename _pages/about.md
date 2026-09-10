@@ -308,7 +308,7 @@ redirect_from:
 </style>
 
 <p>
-  I’m an incoming <strong>Member of Technical Staff</strong> at <a href="https://www.coreauto.com">Core Automation</a>.
+  I’m a <strong>Member of Technical Staff</strong> at <a href="https://www.coreauto.com">Core Automation</a>.
 </p>
 
 <p>
