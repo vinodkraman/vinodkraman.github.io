@@ -351,20 +351,11 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <ul class="vr-papers">
   <li class="vr-paper">
-    <span class="vr-num">W2</span>
+    <span class="vr-num">W1</span>
     <div>
       <span class="vr-title">A Unified Framework for Data-Dependent Probability Estimation</span>
       <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
       <span class="vr-venue">In Submission, 2026</span>
-    </div>
-  </li>
-  <li class="vr-paper">
-    <span class="vr-num">W1</span>
-    <div>
-      <span class="vr-title">On Generation in Metric Spaces</span>
-      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
-      <span class="vr-venue">In Submission, 2026</span>
-      <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.07710" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
 </ul>
@@ -378,6 +369,15 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <div class="vr-year"><span class="vr-year-label">2026</span><span class="vr-year-line"></span></div>
 <ul class="vr-papers">
+<li class="vr-paper">
+    <span class="vr-num">25</span>
+    <div>
+      <span class="vr-title">On Generation in Metric Spaces</span>
+      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
+      <span class="vr-venue">NeurIPS, 2026</span>
+      <div class="vr-tags"><a href="https://www.arxiv.org/abs/2602.07710" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
 <li class="vr-paper">
     <span class="vr-num">24</span>
     <div>
