@@ -324,7 +324,7 @@ Prior to my Ph.D, I double-majored in <a href="https://cse.engin.umich.edu/">Com
 </p>
 
 <p>
-My research interests lie in the <strong>foundations of machine learning</strong>. During my Ph.D, I worked on various topics in <strong>learning theory</strong>, including online learning, adversarial robustness, differential privacy, and language generation. Currently, I am interested in <strong>reinforcement learning</strong> for large language models.
+My research interests lie in the <strong>foundations of machine learning</strong>. During my Ph.D, I worked on various topics in <strong>learning theory</strong>, including online learning, adversarial robustness, differential privacy, and language generation.
 </p>
 
 <p style="margin-bottom: 0.5rem;"><strong>Fun facts about me:</strong></p>
@@ -333,14 +333,6 @@ My research interests lie in the <strong>foundations of machine learning</strong
   <li style="margin: 0.4rem 0;">I love horror movies and horror <a href="https://www.goodreads.com/user/show/170725395-vinod-raman">books</a>.</li>
   <li style="margin: 0.4rem 0;">I've always wanted to be a professional bodybuilder.</li>
 </ol>
-
-<div class="vr-badge-row">
-  <span class="vr-badge">Post-training</span>
-  <span class="vr-badge">RL for LLMs</span>
-  <span class="vr-badge">Online Learning</span>
-  <span class="vr-badge">Differential Privacy</span>
-  <span class="vr-badge">Learning Theory</span>
-</div>
 
 <!-- IN SUBMISSION -->
 <div class="vr-section">
