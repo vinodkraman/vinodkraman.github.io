@@ -635,6 +635,15 @@ My research interests lie in the <strong>foundations of machine learning</strong
 
 <ul class="vr-papers">
   <li class="vr-paper">
+    <span class="vr-num">P5</span>
+    <div>
+      <span class="vr-title">No-regret Language Generation</span>
+      <span class="vr-authors">with <a href="https://jiaxun-li.github.io">Jiaxun Li</a>, <a href="https://www.ambujtewari.com">Ambuj Tewari</a></span>
+      <span class="vr-venue">Preprint, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2610.23641" class="tag tag-pdf">PDF</a></div>
+    </div>
+  </li>
+  <li class="vr-paper">
     <span class="vr-num">P4</span>
     <div>
       <span class="vr-title">Optimal Stopping vs Best-of-N for Inference Time Optimization</span>
