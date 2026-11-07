@@ -308,7 +308,7 @@ redirect_from:
 </style>
 
 <p>
-  I’m a <strong>Member of Technical Staff</strong> at <a href="https://www.coreauto.com">Core Automation</a>, working on pre-training. 
+  I’m a <strong>Member of Technical Staff</strong> at <a href="https://www.coreauto.com">Core Automation</a>, working on pretraining research. 
 </p>
 
 <p>
@@ -316,7 +316,7 @@ Previously, I was a <strong>Research Scientist</strong> at <a href="https://deep
 </p>
 
 <p>
-Even before that, I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at the <a href="https://umich.edu/">University of Michigan</a> in 2025, where I was fortunate to be advised by <a href="https://ambujtewari.github.io">Ambuj Tewari</a>. My Ph.D. was graciously supported by the <a href="https://www.nsfgrfp.org">2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a> and the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a>.
+I completed my Ph.D. in <a href="https://lsa.umich.edu/stats">Statistics</a> at the <a href="https://umich.edu/">University of Michigan</a> in 2025, where I was fortunate to be advised by <a href="https://ambujtewari.github.io">Ambuj Tewari</a>. My Ph.D. was graciously supported by the <a href="https://www.nsfgrfp.org">2022 National Science Foundation Graduate Research Fellowship (NSF GRFP)</a> and the <a href="https://machinelearning.apple.com/updates/apple-scholars-aiml-2025">2025 Apple Scholars in AI/ML PhD Fellowship</a>.
 </p>
 
 <p>
@@ -345,9 +345,10 @@ My research interests lie in the <strong>foundations of machine learning</strong
   <li class="vr-paper">
     <span class="vr-num">W1</span>
     <div>
-      <span class="vr-title">A Unified Framework for Data-Dependent Probability Estimation</span>
+      <span class="vr-title">A Unified Framework for Probability Estimation of Data-Dependent Events</span>
       <span class="vr-authors">with <a href="https://vtaly.net">Vitaly Feldman</a>, <a href="https://www.satyenkale.com">Satyen Kale</a>, <a href="http://kunaltalwar.org">Kunal Talwar</a>, <a href="https://ambujtewari.github.io">Ambuj Tewari</a></span>
       <span class="vr-venue">In Submission, 2026</span>
+      <div class="vr-tags"><a href="https://arxiv.org/abs/2610.41244" class="tag tag-pdf">PDF</a></div>
     </div>
   </li>
 </ul>
